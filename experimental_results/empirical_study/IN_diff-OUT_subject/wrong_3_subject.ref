@@ -1,0 +1,2174 @@
+change relative url to absolute url for gatsby - link readme ( )
+return valid person to prevent cache miss
+ignore forked vue - ssr plugin
+popoverLeft
+fix relative paths in scripts
+Add localeData plugin
+add specs for nylas api
+Definitely not hacker mode . I don ' t know what you ' re talking about .
+run test - viewer in github actions ( )
+fix lint
+upgrade @ vue / ui
+change startup / unstartup wording
+remove bogus fn arg
+now working on 4 . 4 . 11
+add a temporary workaround for parser - vue ( )
+parse constants in css
+Split unit tests in CI , waiting is agony
+space and newlines before parenthesis ( )
+run linter in parallel and only on node 10
+clear client addons on PluginApi reset
+add module not found fatal message in cli / imports ( )
+update gatsby monorepo ( )
+remove manualLowercase & manualUppercase functions
+Set a unique uuid for each job ( )
+move css re :
+don ' t build gatsbyjs . org on CircleCI ( )
+add DANGEROUSLY_DISABLE_OOM ( )
+Update animation assets
+Cache build dirs between workflow runs ( )
+Incorrect type for ' then ' returning a wrapped ' undefined ' ( )
+actionability should link to assertions , not requirements
+update minor updates in packages except react , babel and eslint ( )
+Use DragDropMixin , Menu
+Ensure we strip paths with additional layer of ` \ ` escaping ( )
+add component - compiler - utils
+Change anonymous function to named function ( )
+scroll behaviour when navigating back to anchor on the same page ( )
+require ' rx ' from ' nylas - exports '
+watches can be safely unregistered inside watch handlers
+support populate virtuals on nested schemas
+grammar
+use npm ( not yarn ) to publish
+Change from react - loadable to loadable - components ( )
+add support for numeric separa … ( )
+Optimise image size functions ( )
+Focus existing win when renderer tries to open dup
+add note re reconnectTries and reconnectInterval
+throttle startup
+add client data fetching to sidebar ( )
+avoid error when using ts + eslint + e2e - nightwatch
+fix typo
+add test for
+log whether CI environment has been detected ( )
+temp limit the task list num
+use XHTML - compliant HTML as input for jqLite
+clarify _id schema option ( Fix )
+remove unused files
+allow enabled children to animate on disabled parents
+deprecate ` isClient ` , ` isServer ` , ` isStatic ` ( )
+add back flags for generate and add _export flag ( )
+comment out external url validation until url linking strategy is more thoroughly discussed
+update minor and patch for gatsby - graphiql - explorer ( )
+use compact name for concatenated modules ( )
+fix spelling on gatsby - plugin - feed ( )
+make NaN check in date equality cleaner
+ignore hexo - theme - [ config . theme ] ( )
+try reading AWS credentials from environment variable first , close ( )
+add ctrl - enter to send email
+update dependency gatsby - design - tokens to ~ 1 . 0 . 10 ( )
+update starters and examples - gatsby ( )
+use slash from gatsby - core - utils ( )
+need different debugger command for windows [ ci skip ]
+ExportedSelection must properly represent " None "
+update sponsors [ ci skip ] ( )
+use done . fail for reporting errors
+turn off marked auto linking , and disable html minification
+update lockfile with missing local dep
+repro
+fix package . json
+Fix spelling , punctuation and grammatical errors on dev guide compiler page .
+fix lint
+fix typos that broke tests
+move $ injector into the providerCache
+fixed some typos on deployment . md ( )
+update copyright year to 2020
+remove link to Google CDN overview page
+now working on 5 . 5 . 10
+import code format
+fix debug test
+svg not displayed ( )
+recipe for using puppeteer in a gatherer ( )
+Ensure published packages contain a LICENSE file ( )
+Configure ' packaging ' commit message scope
+Fix cleanup in ` aws - go - mod ` template ( )
+The Bootstrap CSS class ` alert - error ` is now ` alert - danger `
+do not trigger digest on ` setViewValue ` if debouncing
+update opencollective sponsors
+add angular - localization module to internationalization section
+run gatsby - dev without - - copy - all ( )
+remove duplicated ts . config . json
+use postcss - import - resolver
+map markettap id
+adjust path to layout component ( )
+more cleanup after Node 8 drop ( )
+add graphql code sample
+update nyc to version 11 . 8 . 0
+Update aws - fsharp to netcoreapp3 . 1 ( )
+update www ( )
+update devdependency @ rollup / plugin - commonjs to v12 ( )
+improve fix for
+now working on 5 . 4 . 19
+improve macOS fullscreen mode usability
+move docs - templates into docs
+add link to update results docs and examples of using results of updateOne ( ) , etc .
+add example of string literals in format string
+delay draft re - opening w / errors to allow time to close
+CSP compatibility
+improve the formatting of events in docs
+remove TaskSwitch
+update all dependencies that require node 10 . x ( )
+improved quoted text detection for trailing signatures
+upgrade dependencies
+Don ' t close the floating toolbar when clicking in the link input
+draft add isoWeek plugin ( )
+Add support for relative links ( )
+Allow HTTPS in self - hosted sync engine onboarding
+add prettier - stylelint to the related projects ( )
+clean up changelog ( )
+fix tests
+don ' t use custom getter for ValidationError message
+repro
+remove extra " you " ( typo ) ( )
+Fix lint errors
+modern mode
+upgrade to mongodb driver 3 . 3 . 4
+Positional bump supersedes ` - - conventional - commits ` when choosing version
+enable disableNunjucks in synchronous renderer
+handle all props getting ignored by shouldInclude
+remove codecov ( )
+File System Route API - General Availability ( )
+update pkg config for next . js ( )
+move eachAsync into helper
+rename some files
+fix null defaultValue to tokenizing field
+compare timestamps when sorting date objects
+handle ` match ` schema validator with ` / g ` flag
+Support unread counts in Unity
+fix typo
+" Nylas " = > " Nylas N1 " on Mac , Linux
+revert allowing non - normalized element names in transclude map
+repro
+build uni - stat
+ignore CVE - 2020 - 7660 ( )
+add yandex and vivaldi to modern browsers ( )
+Update working - with - images - in - markdown . md ( )
+only process template file contents , bump yaml - front - matter ( )
+Remove incorrect links , tell people to run apm
+Was disabling signatures due to name collision
+update one - way relational note for clarity ( )
+description overflow
+fix lint
+fix code example
+fix typo
+` ! default ` directive ( )
+use packageGraph to locate packages instead of _ . find
+Expose plugin - specific refresh endpoint in gatsby - serve ( )
+Display correct keyboard shortcuts in account switcher
+fix lint
+fix alt - based worker window keyboard shortcut
+Use Package . lazy ( ) instead of private resolver
+add with - iron - session example ( )
+fix tests re :
+update Redux to v4 ( )
+handle passing no args to query . populate
+update lodash to version 4 . 17 . 5
+Replace cipm with npm ci
+Ensure serial execution of persistModels , unpersistModels
+fix typo in comment
+add more docs for the directive api
+rename " prepublish " to " prepublishOnly " ( )
+support chain call for Vue . use and Vue . mixin ( )
+fix lint
+detect typescript based on ` tsconfig . json ` ( )
+upgrade kareem - > 1 . 1 . 4
+dev secenario tests
+clarify output events with extra example and note
+fix bold , italic , underline keybinding
+cut 1 . 2 . 3 unicorn - zapper release
+add title before other meta for better SEO ( )
+nuxt - edge publish path
+Fix transitive dependent collection broken in
+add support for tsconfig paths
+add missing semicolon
+do not throw when api . render is called from an anonymous function ( )
+should not read response data when request is aborted
+perf - loader and test
+update Catalan [ ca ] locale ordinal
+clarify Tutorial Part 7 ( )
+Migrate gatsbygram ' s createPages hook to async / await ( )
+Add active style for TableOfContents ( )
+update sponsors
+when ` reload / restart ` is called , disconnect the previous at first .
+added german ( )
+repro
+make clear where more opts are in help ( )
+make toHaveClass matcher work better for SVG + jQuery
+Do not exclude layer paths when packaging a layer ( )
+Recognise null pages as not found ( )
+use ` esnext ` targets for downleveling and modules . ( )
+improve the animations used in the docs menu
+new module : @ tarojs / extend
+bump chokidar and test against node @ ^ 6 . 0 ( fixes )
+allow variadic plugin use ( )
+fix helper esmodules for jest
+throw an error if a component spec calls cy . visit ( bahmutov / cypress - react - unit - test )
+fix the ' view source ' button for snapshots
+replace wildcard to caret version sele … ( )
+Fixed defer to timeout change in timer directive example
+add a utility to clean up the shrinkwrap file
+include sort and filter in json view experiment
+` shell ` option for date format ( ISODate )
+stop infinite recursion caused by merging a mongoose buffer
+more content formatting / clarifications / fixes
+Add functionality to print currently focused thread
+update dependency pretty - bytes to v5 ( )
+Don ' t validate defaultSendAction key in config ( )
+improve diff data
+plugins for modern mode ( )
+add test for object literal
+useImperativeHandle
+fix e2e test to pass on different time zones
+Serialize windows path fragments in snapshots
+remove $ service
+skip upgrade prompt if eslint v7 is detected ( )
+fetch all history for proper version - bump and history
+support MongooseArray # includes
+added two portfolios to sites . yml ( )
+setData polyfill
+Change " minimal - ui " to " standalone " ( )
+warn if run instant prototyping in a project directory ( )
+prep for 1 . 8 . 0
+avoid possible infinite loop by accessing observables in error handler ( )
+Remove unimplemented command stubs
+move stripLocation to corresponding plugins ( )
+correctly add svg - namespaced template content
+Pass explicit diff prefixes to avoid localized variation in snapshots
+Load PrismJS theme CSS ( )
+ignored * . md
+fix badge
+skip ngAnimate animations if the provided element already has transitions / durations attached to it
+add missing dot
+support jsx spread child ( )
+DRY sidebar categories
+always call ` splice ( ) ` with 2 arguments or more
+upgrade babel to v7 to work around an issue with ` extends Error `
+compatible with Android 4 . 4
+update server docs cc @ arturi
+downgrade @ babel / preset - env temporarily ( )
+add missing files
+automate start package generate
+fix flow
+fix code snippets formatting ( )
+clean up dead examples
+cache result from functional ctx . slots ( ) calls
+import for build script
+do not add entry to LRU hash when value is undefined
+( )
+remove flakey tests
+simplify v1 bugfix language
+fix lint
+computed properties should pass vm as first argument in ssr ( )
+transpileDependencies should only match packages inside ` node_modules ` , close ( )
+remove animation end event listeners on close
+modern = true or false not work as expected ( )
+start 1 . 2 . 6 taco - salsafication iteration
+update documentation to support defval option ( )
+linting example spec files
+fix grammar and improve clarity
+add missing ' node ' command and < code > tags
+make helper functions take an object
+add babel config types ( )
+fix lint
+Creating a new site using a theme ( )
+update dependency prettier to v2 . 1 . 2 ( )
+watchCollection optimization
+throw error if user sets unique index on _id
+infer mime - type of fixtures based on extension , serve binary resources correctly ( )
+fix commas and tweak small issues in tutorial ( )
+drop support for Opera < 15
+add option to disable role = button
+Use same whitelist mechanism as $ compile does .
+fix SyntaxError ` + = ` = > ` + = ` ( ) [ skip ci ]
+remove fs . access shim for 0 . 10
+add info about promises
+updates to the accessibility docs page ( )
+move rename utils location
+Remove inaccessible site
+allow to disable source map auto detection [ ]
+Minor linter errors
+repro
+pluralize DOM element
+define module depending on ngTouch in ngTouch examples
+make $ q . reject support ` finally ` and ` catch `
+removed incompatible flag
+3 . 1 . 1 changelog [ ci skip ]
+remove cache from travis
+more docs
+update dependency husky to v3 . 0 . 8 ( )
+delay option in nodemon . js ( )
+reorder hidden options to reduce accidental error reports
+make setDefaultsOnInsert not create subdoc if only default is _id
+Allow shift - J , shift - K to select threads
+" the " is typed twice ( )
+repro
+debug message when subscribing for changes
+animations not happening
+Add retext ( )
+fix scoped CSS for nested nodes in functional components
+default to english if language doesn ' t exist
+spec was demonstrating using data as an object , which is a bug in components . It was being covered up by rendering the component as the Root Vue Component
+effect execution order
+handle errors
+correct SMPT - > SMTP
+Fix for jsFiddle integration
+fix invalid error handling
+use gatsby - core - utils ( )
+fallback for non - existing config ( )
+update opencollective sponsors
+fix prefixed data properties warning typo ( )
+improve cy . request server errors
+ensure we return a contrasted enough color ( light - first ) , the most contrasted one otherwise
+delay test
+silence noisy specs and fix warnings
+add missing breaking changes from
+fixed style
+get rid of old docs file
+throw error if input is not a string
+remove animation callbacks when the element is removed
+update linguist languages ( )
+sync with upstream
+process killed before ipc messages are sent
+add polyfill
+improve projection descriptions re :
+make all browserstack tests allowed failures
+update dependency aws - sdk to ^ 2 . 536 . 0 ( )
+fix param type ( not optional )
+fix lint
+add eslint - plugin - graph dep to workspace root , fix ci errors
+rename folders to match namespaces
+trigger location effects in navigation ( )
+pin vue dep resolutions for vuepress
+Remove redundant items from 1 . 4 . 3 changes
+do not trigger animations if the document is hidden
+Allow action subscribers to catch rejections . ( )
+add bind object test
+replace account sidebar icon with proper image
+fix " Vue packages version mismatch " error caused by other global packages ( )
+upgrade kriskowal / q to version ~ 1 . 0 . 0
+Add Flow to Nylas N1
+release notes for 1 . 2 . 25
+update all non - major dependencies ( )
+Upgrade ' archiver ' to v3 ( )
+fix link to cursor
+add release notes for 1 . 3
+allow ng - trim to work for input [ type = radio ]
+set build indicator icon height for ie11 ( )
+Internal page - context links to code 404 ( )
+attempt bundle test three times in CI ( )
+Remove period in heading ( )
+avoid blocking first input event in IE when it shouldn ' t ( )
+Destroy hot - loaded windows so they don ' t block quit - fixes T1282
+support telephone links
+properly get node name for svg element wrapper
+mitigate pidusage errores
+fix more tests re :
+nuxt . config . js and dynamic server options to use latest process . env ( )
+ignore vscode settings
+Multiple selection , bulk actions , refactoring
+Resolve regression in error message ( )
+convert BoxWithBorder to theme - ui ( )
+remove ` virtualConsole ` option when disabled ( )
+no need check at this time
+Note that Windows is not support for companion right now
+create mock Doc objects correctly
+Add multiple response templates per content type
+update gatsby monorepo ( )
+respect ` $ compileProvider . preAssignBindingsEnabled ( ) `
+fix missing comma in invalid redirect gssp ( )
+remove unnecessary methodName check ( )
+always test 2 latest Safari versions
+add test case for
+Fix failing linter and account tests
+Fix spelling and add alt for images ( )
+update siteUrs from netlify . com - > netlify . app ( )
+Add plugin objectSupport ( )
+Replace prismjs plugin with a theme - ui component ( )
+add utils test
+Allow height to be 0 , remove 150px min height
+Resolve deep value once
+escape forward slash in email regexp
+add info about not monkey - patching ` ng `
+Remove useless console . log
+fix reference to $ sceDelegateProvider
+add block test
+fix typo
+options ) : ng : change should be called after the new val is set
+fix doc build in master
+small fix
+render suggestion via custom component
+correct prettier placeholder regex ( )
+repro
+fix lint
+rely on Travis built - in Yarn support , update Yarn in Jenkins
+update dependency gatsby - plugin - theme - ui to ^ 0 . 2 . 26 ( )
+automator
+counts should exclude items outside all mail
+switch all links to ` https `
+add getShortSHA ( ) util
+req is an IncomingMessage instance , not HttpRequest ( )
+fix build failure from rollup commonjs plugin
+lowercase html tags ( )
+add changelog generation into contributing . md
+Remove check that prevents thread to update correctly
+find top - level version key even if there are ` $ ` operators in the update
+clarify that . enter searches by ng - model
+merge
+add / correct ` @ ` - tags ; fix headlines ; add info
+Fix email body height bug
+add note about issues comments
+add ability to change CastError message using ` cast `
+update react monorepo to ^ 16 . 10 . 0 ( )
+add example with React Native
+add gatsby - node tests for plugin manifest ( )
+add Reflect
+repro
+Passive event listener violation doesn ' t report on passive : false now ( )
+Show meaningful error when directory names are too long ( )
+remove default send preferences for now in basic
+allow optional ' target ' argument
+don ' t show stable version number when running from git / source ( )
+Add isValidDraft to specs
+add mixmax sponsor ❤ ️
+Remove reporting workflow ( )
+use keypress in TodoMVC example for IME input methods ( )
+Assert on stable result of git status - - porcelain
+update pm2 - deploy version
+Ensure service is renamed in package - lock . json ( )
+clarify that ` loader . js ` is a function by calling it in … ( )
+remove iojs and node 0 . 11 from . travis file
+prepublishOnly scripts
+drop lodash for post_permalink filter ( )
+fixes testing your app
+ignore distro deps
+titlebar style background
+creator detail ' worked on ' site list multiple lines ( )
+test jest plugin
+update hide app menu default
+refactor more tests re :
+add rule disallowSpacesInFunctionDeclaration beforeOpeningRoundBrace
+Remove unsupported provider . reservedConcurrency ( )
+remove unnecessary code
+ignore node - sass which requires minimum node v10
+[ WIP ] move provider data adapter code to companion
+remove stale page - data files ( )
+avoid injecting polyfills when targeting node
+do not elide short names with preserveHost ( )
+Correctly handle empty column names
+add skip - comment rule ( cypress - io / eslint - plugin - dev )
+fix typo ( )
+let shadowed components import parents ( )
+Toggle Menu Bar doesn ' t do anything
+allow using ` refPath ` with virtual populate
+fix eachAsync time check to prevent potential ci failure
+bind ng - href to xlink : href for SVGAElement
+fix injector service code example
+remove comments from guide
+clean remains of merge conflict
+make build suffix dynamically
+update packages
+more complete handling for overwrite option
+get dgeni from the npm registry
+forgot frontmatter date change ( )
+perf change deepEqual to renderExtra
+some minor tweaks
+uni - migration : host
+Simplifies Code Contributions & Reviews ( )
+visual plugins tests
+get rid of CRLF ( )
+use prefixes for caches
+Bump uglify - js from 3 . 12 . 0 to 3 . 12 . 1 ( )
+publish v3 . 0 . 0 - alpha . 1
+use del - cli
+add warning for nuxt - ts deprecation ( )
+Source and destination must not be the same
+remove duplicate showcased site ( )
+Page build optimisations for incremental data changes ( )
+fix prop constructor type inference ( )
+Fix and update QuerySubscription specs
+now working on 4 . 13 . 14
+wxs
+Using Prismic source with graphql plugin ( )
+plungins . md : add Leaflet . nauticscale ( )
+add example for disableCorePrefetching ( )
+Bump " @ serverless / test "
+log database only in relevant commands
+single - > double quotes
+allow $ httpBackend . passThrough ( ) to work when ngMock is loaded
+Rename ` cfImport ` definition to ` awsCfImport `
+fix spelling error in assertion ( ngAttr * )
+upgrade dependencies and yarn . lock
+Don ' t include tokens in feedback logs
+support multi - chunk bundles in ssr bundle renderer
+reorganize the file + drop fallback dependencies
+add links to more info about throttling and variability ( )
+remove unnecessary conditionals
+fix require . context ( windows )
+remove duplicate guide and refer to docs ( )
+opens external anchor using rel = noopener ( )
+update deps
+only modify css extraction if its enabled
+make tests more robust re : ordering of virtual populate
+update rollup and dependencies ( )
+change renovate default branch to dev
+upgrade mongodb - > 2 . 2 . 26
+fix empty array stubs getting merged with real response ( )
+bump vue - loader
+handle refs correctly even if using browser driver
+jest - puppeteer example ( )
+Update testing - library dependencies to latest ( )
+truncate screenshot filenames using byteLength ( )
+update dependency ms to v2 . 1 . 1
+Reuse existing BENCHMARK_WPGRAPHQL_URL env variable ( )
+expose useBuiltIns options in @ vue / babel - preset - app
+fix tests for node 4 . x and 5 . x
+fix typo re
+add more clarification re : the index event
+check if element is ` contenteditable ` before blocking spacebar
+minor correction to the focus - triggered popover demo explanation
+clean up docs for $ injector # has
+add license comments
+__wxsStyle
+clarify promiseLibrary for underlying driver re
+pinned dependencies
+Ensure errors reach the renderer - side by sending them as JSON strings , reinflating as Errors
+fix readme example ( )
+adding the < doc : protractor > ngdoc - tag
+ignore same origin links ( )
+new ` ContenteditableExtension ` API
+Switch to private sentry
+use array . length = 0 to empty arrays
+upgrade dependencies
+make ` resourceUrlWhitelist ( ) ` is identical ` trustedResourceUrlList ( ) `
+add guide for writing readmes
+imports
+added ` disconncet ( true ) ` test
+add package lock file for bahmutov / cypress - vue - unit - test
+fix headings hierarchy ( )
+make remove menu option work
+/ docs / * links ( ZEIT to Vercel ) ( )
+support option elements in datalist
+ward off evil ` s ` ( )
+support ANSI colors in ListItemInfo
+fix lint warnings
+add new resource links
+Report JSON parsing errors in a dialog
+Always indent where indicators are , even if blank
+fix markdown error and remove trailing new line ( )
+let resources declare dependencies & validate recipes & ensure dependencies installed first ( )
+correct description for ` $ viewChangeListeners `
+style cleanup
+update pure - site reference
+h5 video time
+remove flushNext method
+bundle dependencies ( )
+add custom - tab - bar
+add backoff to delta error handling
+add notes re
+upgrade sharp to 0 . 21 . 0 ( )
+massive dependency upgrade , fixes all production vulnerabilities
+add TSNamespaceFunctionDeclaration to ast - types ( )
+allow generateWithPlugin & createTestProject to be invoked in the same file
+improve unusual phrasing
+fix sponsor link
+fix invalid < / file name = " " > HTML in examples
+polish composer edge cases
+ensure the active class is not applied if cancelled during reflow
+replace lodash with hexo - util
+don ' t set single nested subdocs to null when removing parent doc
+don ' t use Chrome Frame
+preload and push modern resources in modern mode ( )
+Change Incorporated Case Study ( )
+fix LRU upgrade
+Reliable reproduction test for
+Do not propogate fs errors ( Sentry 6144 )
+disable text selection within a draggable
+add Document # isEmpty ( ) and corresponding helpers for nested paths
+prevent the browser from making bogus GET requests during tests
+app - v3 $ nextTick （ question / 87434 ）
+add isPromiseLike helper function
+dependency maintenance
+useImperativeMethods to useImperativeHandle ( )
+add support for ` writeConcern ` option and writeConcern helpers
+input
+fix release name
+app - plus uni . createInnerAudioContext
+add link to book
+umd global
+fix report version ( )
+add notes for v1 . 5 . 1
+add alternate installation method ( )
+fix to tabbing field with test
+missing parenths
+handle small numbers correctly when ` gSize ` ! = = ` lgSize `
+no regression for deprecated parser ( )
+fix a typo
+fix ` syncIndexes ( ) ` error when db index has a collation but Mongoose index does not
+Update anchor titles and text for accessibility ( )
+Remove " mocha - lcov - reporter " as it ' s no longer needed
+specific union type breaks after opening parenthesis , but not before closing ( )
+pipe preceding route param no longer masks ? or * operator
+config list
+Add tracing for graphql resolvers ( )
+allow customizing loading indicator ( )
+merge_style
+update JAWS deployment diagram for upcoming changes to put project S3 buckets within stage / region like all other project assets
+avoid override of puppeteer browser
+Exit gracefully in publish starters if nothing to commit ( )
+drop lodash console / deploy ( )
+Re - enable draft - store specs
+trigger click on . new - todo instead of footer ( )
+update outdated link and redirects ( )
+fix composer integration tests
+warn methods that conflict with internals
+update dependencies
+update sponsors
+update glyphicons sprite to 1 . 6 release
+Don ' t show empty state briefly when loading threads
+Attachment check ignores uploads . Fixes
+fix lint
+reuse connections for query tests
+Remove reference to flushNext
+add adding react components doc ( )
+Fix brand name for GitLab ( )
+can use currentData inside template . autorun
+remove pacman & & update version to 1 . 1 . 3
+enviorment → environment
+print typeArguments in TSExpressionWithTypeArguments ( )
+all animation - supported directives working with docs examples and jsFiddle / Plunkr pages
+fix : map / setMaxBounds argument is LatLngBounds ( )
+handle queries with setter that converts value to Number instance
+change ` isFormatOption : true ` to ` category : ' format ' `
+fix the failure of modern build when the output HTML filename contain subdirectories
+fix CI failure ( )
+depedency maintenance
+remove gameserverkings as a sponsor
+angular demo init
+update all non - major dependencies ( )
+prevent loading client addons multiple times
+strip / \ . html ? $ / extensions on permalink ( )
+Firefox for Android does not support the windows API
+update dependency aws - sdk to ^ 2 . 545 . 0 ( )
+Fix Timezone plugin parsing js date , Day . js object , timestamp bug & & update type file ( )
+Document resource name generation rules ( )
+update typescript links
+now working on 4 . 10 . 2
+support deferred bootstrap
+build DMG
+improve sentence flow
+don ' t prompt for attachment if in quoted text
+Correct method ' s description
+upgrade chokidar @ 2 . 1 . 2 to fix ReDoS vulnerability ( )
+support RegExp in ignoredElements ( )
+upgrade pmx to 1 . 6 . 3 - next
+remove . npmignore ( )
+improve $ cookie service test to work with Safari 5 . 1
+use eslint - ci to speed up build times
+update to dgeni - packages 0 . 10 . 0
+reword test to fix typo ( )
+update nuxt to latest in typescript example
+Ctrl or ⌘ + Enter quick submit task
+add extends lighthouse : full ( )
+update deprecate . test
+update opencollective sponsors
+switch back to 5 . 2 . 6 for quick docs redeploy
+allow empty html template
+properly handle excessive limits
+add versionrc
+fix logo filename ( )
+add trainling slashes to doc - links . yaml ( )
+Wait until the next cycle to cleanup
+Fixed a typo ( )
+only interpolate if all expressions are defined
+Return empty string for non - numbers
+fix process type ( )
+update www ( )
+add code of conduct for the project
+add list of exported PropTypes
+add alexandrudanpop as a contributor ( )
+release notes for 0 . 10 . 0 chicken - hands
+add express - session to server example
+tsconfig
+fix webdriverio ts setup
+Use correct LC_ALL value
+update to use dgeni - packages @ 0 . 13 . 0
+support ` @ import ` using ` ~ assets ` in css files ( )
+partner icon too small
+Add documentation for dashboard log - based polling option ( )
+clarify index . html example re
+update funding
+Ensure AWS EventBrigde target ids fit 64 chars limit ( )
+taro / rollup . config . js
+now working on 5 . 1 . 4
+avoid grouping with default name ( )
+update starters and examples ( )
+add ` prettier - chrome ` project ( )
+useMiddleware string handler
+Update static file direct … ( )
+Trim email
+fix dynamic public path in a dynamic chunk in Firefox ( )
+remove unintentionally committed event
+Optimize draft creation and reduce scroll / focus delays
+fix a broken link
+remove scoped dep
+repro
+fix minor styling for buttons on windows
+eslint should override env for * * / tests / * * subfolders ( )
+don ' t break value property with inlined URL ( )
+format
+release notes for 1 . 3 . 0 - beta . 6 expedient - caffeination
+fix edge build [ release ]
+allow more enumerated values for contenteditable
+update help . txt ( )
+fix typo in tutorial index page
+fill out parent routing stub ( )
+" were " - > " where "
+update webinar banner for upcoming impossible foods ( )
+don ' t split on ' = '
+use more up - to - date syntax for autoIndex example
+uni - cli - shared
+updated url of deprecated modules ( )
+doc site generation , doc organization into sections , docs for actions and more
+cast timestamps when type is different than ` Date `
+use separate DB for dev
+Jest 24 . 1 . 0
+updated quick start link in netlify hosting doc ( )
+fix pan move & forth graph browsers
+Update to tough - cookie 2 . 5 . 0 ( )
+exposes Hammer on window or self if either is defined to avoid issues when AMD is present but not used .
+test coverage for
+include mutations in the Vuex 4 . x example ( )
+add no - border class for images
+move optionalDependencies to peerDependencies
+don ' t interpret dots in predicate object fields as paths
+replace console - output helper with manual mock method
+Icon does not update from nextProps
+add markdown filter to all render ( ) calls
+Define mapSourcePosition in nylas - env to prevent undefined error
+improve explanation of camel - / kebab - casing
+fix eslint path resolution in ` vue serve ` ( )
+remove unused docs which are still backed up in old_docs
+create . gitattributes
+support ` parser ` option for codemods , and enable ts parsing by default ( )
+Remove the warning about partially staged files ( )
+do not interpolate boolean attributes , rather evaluate them
+add filter - options ( previously implicit )
+encode double quotes when serializing email addresses
+fix lint
+Add nice text to our new loader
+clean code to be function ( ) {
+fix tests re :
+fix example
+Close all popover types when submitting date with enter
+handle fatal errors
+do not copy $ $ hashKey in copy / extend functions .
+fix typo
+show when initial sync is taking place
+removing trailing space
+Fix links on the table of content ( )
+Thread mulit - selection should appear with focused style in split mode
+improve error detector v - for identifier check
+Fix selector for finding < img >
+add some quick examples to the README
+fix invalid @ name tags
+Add proper error handling to publish task
+add michele mazzucco website ( )
+Fix handler resolution ( multi . case ) for local invocation ( )
+strip protocol before comparing urls
+removing references to Parser / Lexer from parsed expressions
+Fix commonJS require ES Module bug in webpack4
+preparing the 0 . 10 . 7 moiré - vision iteration
+support to unset an env variable with an empty value ( )
+Have menuspy recalculate positions after all images have been loaded Fixes
+WIP interacting with elements content clarifications
+rewritten script ( )
+Transpile assuming higher version of runtime ( )
+Decrease intensity of requests
+fix spelling and grammatical errors ( )
+move content after rebasing master
+make jshint happy
+repro
+Treat " resources " as fully provider specific
+update docusaurus & tweak site ( )
+reorganize information about interpolation
+move createUsage to util
+add dummy favicon . ico to silence 404s
+repro
+remove unnecessary print statement
+update dependency slash to v3 ( )
+support ` app / router . scrollBehavior . js ` and deprecate ` scrollBehavior ` ( )
+add chrome detector ( )
+handle falsy defaults for arrays
+no regression for ternary # test alignment ( )
+merge branch
+Scroller is collapsed when ace initialized with empty value
+Set sideEffects false for opt . ( )
+Allow ' , ! , ? , ^ , { , } , | in email addresses ( Fixes )
+fix typo ( Eror - > Error )
+picker - select scroll
+Preserve linked tokens when importing new csv
+convertContext
+typescript example
+ignore dot files in page creator plugin ( )
+add blockedUrlPatterns support to CLI ( )
+run nsp after test
+skip dangerouslySetInnerHtml hydration warning if it ' s undefined ( )
+Add note about Tus10 plugin to : tl : plugin docs .
+fix some lint issues
+optionally strip non - client or non - server code ( )
+change tutorial doctype and add @ step tag
+Bump highlight . js from 10 . 4 . 0 to 10 . 4 . 1 ( )
+Create Github releases with ` - - github - release ` ( )
+Add client side search
+incorrectly read Taobao binary mirror configuration . ( )
+Improve inline attachment handling
+fix examples
+document code
+use predictable numbers in golden LHR ( )
+@ cypress / webpack - preprocessor is both a peer dep and a dev dep
+pass through execArgs from config ( )
+check for webkitCancelRequestAnimationFrame
+remove unused parameter & condition ( )
+undefined script in modern mode
+make file / directory names consistent
+Add @ lerna / pack - directory
+should place non - grouped items in the list where they appear
+upgrade to jQuery to 2 . 1 . 1
+correct transcludeControllers definition
+add elementary right nav
+update yarn . lock
+remove invite - collaborator rule ( )
+fix all remove ( ) deprecation warnings re :
+add description for ngResource : badcfg
+add a copy - all script to gatsby - dev - cli ( )
+Upgrade object - hash to v2 ( )
+now working on 5 . 5 . 16
+rename backers - > nuxters ( )
+npm permissions check ( )
+refer to record key + project id as Authentication
+Update regexp to handle reported failure cases
+handle eval ' d script in call site collector ( )
+Never launch the default app to handle mailto
+add changes for 1 . 3 . 0 - beta . 13
+provide ng - [ event ] - prepare class for structural animations
+fix build on node 4 . x re :
+add @ vue / web - component - wrapper
+repro
+ensure JS animations recognize $ animateCss directly
+svg inside foreignObject should be rendered with correct namespace ( fix ) ( )
+fix lint ( )
+Upgrade " get - stdin " to v8
+update dependency gatsby - plugin - theme - ui to ^ 0 . 2 . 41 ( )
+fix indentation for proper Markdown syntax
+add changes for 1 . 4 . 5
+use sinon instead of std - mocks
+import createTimeAgo from vue - timeago because it isn ' t a default export ( )
+Support git clients that do not support ` git push - - atomic `
+check binding . value instead of just binding object ( )
+now working on 4 . 11 . 8
+Move unit tests to " test / unit " folder
+add $ q . always ( ) method
+Use absolute paths for linter and dont call default on coffee
+Minor styling adjustments ( floating toolbar , token carats )
+don ' t scaffold integration when using component tests ( )
+add dayjs . unix to parse timestamp in seconds & & locale update
+don ' t throw on console / debugger statements for ` vue serve ` ( )
+transition group should work with dynamic name ( ) ( )
+ensure that a scope is destroyed only once
+update README for gatsby - cypress plugin ( )
+Update homepage url
+TS 2 . 7 compat
+fix ios timeout , fix d . ts
+add links to Typography . js docs and tweaks for understanding ( )
+pass promiseLibrary along to mongodb re :
+put temp stats files in node_modules
+Update error messages
+Fix propagation time allowance
+add web . browser and web . cordova as architecture possibilities in package . js ' s api . use , api . addFiles and api . export
+import versioned uuid
+adjust ts config to fix startup error
+use mongodb driver 3 . 6 . 0
+remove dead link to translated readme
+format
+failed loading message ( )
+fs - extra dependency is a caret range , not exact
+Fix RFC typo ( )
+Lookup plugin id if pkg is not loaded
+release 5 . 3 . 15
+use config . pretty_urls option
+Fix typo in hot - reload . md ( )
+fix tests re :
+defer applying embedded discriminator hooks until top - level model is compiled
+update mdx monorepo to ^ 1 . 2 . 2 ( )
+fix several bugs in templates plugin
+Restore still relevant comment I actually removed
+update sponsors [ ci skip ] ( )
+update dependency cheerio to ^ 1 . 0 . 0 - rc . 3 ( )
+add locale key test
+add timeout amount in actions
+update dependency file - type to v12 ( )
+ensure that repeated structural calls during pre - digest function
+Expand tests , fix edge cases in count tracking
+bump @ commitlint / config - conventional ( )
+add tip about jsx options ( ) [ ci skip ]
+Wait 150s for Exchange autodiscovery to complete
+add module declaration for best understanding
+col size when tracing enabled
+` azure - nodejs - typescript ` template . ( )
+fix throwing error when populating virtual path defined on child discriminator
+lazy bundle page components in dev server ( )
+delete ` $ cancelRequest ( ) ` in ` toJSON ( ) `
+require Node 8
+add specs around serializing bad API data
+preferences add rpc - secret setting
+rename sidebar , clarify on file names with recipe suffix to prevent cypress . on collisions
+change stale label text
+$ broadcast and $ emit should set event . currentScope to null
+don ' t reload if there is only a name attribute
+add section on promises and warning about not mixing promises and callbacks
+Improve flow error handling
+repro
+Remove multiple entries from sites tags ( )
+Release v1 . 71 . 0
+wxs ( __wxsClass , __wxsStyle )
+return change language promise
+change md quote to pullquote ( )
+suggest including ngSanatize
+remove unnecessary print statements
+add saucelabs logo
+allow force enabling name for splitChunks
+add hint about using ` ngStrictDi `
+use gh - repo - to - user npm package instead of parsing url
+repro
+wrapped lines sometimes are not redrawn
+new mail sounds on by default , change config keypath
+Empty parameter list
+add missing libraries in travis
+dependency maintenance ( )
+Add gatsby / graphql type definitions ( )
+Update ESLint dependencies ( )
+fix typo in error message ( )
+Release v2 . 16 . 1
+add missing script to browser docs
+add the missing fs - extra dependency ( )
+Attach sheets to the toolbar at correct offset
+Fix
+Update language and remove buggy regex
+don ' t use yarn workspaces code path for tests ( )
+improve project dir detection for external commands ( )
+include routes with children for generation ( )
+fix lint
+make $ timeout # flush throw an exception when empty
+clean up test failures re :
+windows can re - launch with / without dev mode flag
+add toObject and toJSON objects to docs
+add ` DatabaseStore . atomically ` to handle read / write issues
+Fix performRemote never resolving if no threads or messages to process
+don ' t add noop $ cancelRequest after request has resolved
+remove extra bottom margin in figures during develop ( )
+correct typos in README . md ( )
+publish SendGrid case study blogpost ( )
+support filters with ( ) in older browsers ( )
+New ngParseExt module
+bump fs - extra to 7 . 0 . 0 ( )
+Re - Organize tags on starters . yml ( )
+Subscribe to iframe window resize , adjust container height
+ensure class - based animations are always skipped before structural post - digest tasks are run
+add blurb about AngularJS to README . md
+style module with extractCSS not work well ( )
+Unify error bars , query / account , improve reconnect flow
+add list of connection events
+better handle errors from chokidar
+Capitalize Angular .
+remove ignored entry ( auto - generated )
+Collect metrics about - unread , reset when found
+get rid of weird setFunction , just use $ set internally re :
+Document new release process
+do not fail if chrome could not be killed ( )
+default value of objectEquality parameter
+inden in render code , issue
+redirect after git gateway login ( )
+More configuration into WorkspaceStore , less in packages
+parse content in textarea as plaintext ( )
+migrate webpack reducer to TS ( )
+use check instead of list - different ( better errors ) ( )
+correct wording and add resource
+Explicit ` - - conventional - graduate `
+fix comment typo ( )
+update all non - major dependencies ( )
+Upgrade whatwg - url to ^ 7 . 0 . 0
+add new ` render : beforeResponse ` hook ( )
+add jshint eqeqeq for src / files
+add Dale Blackburn portfolio ( )
+add mongos to example re :
+` chunkhash ` and ` contenthash ` not work with ` extractCSS ` ( )
+upgrade to mongodb driver 3 . 3 . x for MongoDB 4 . 2 support
+update Slack link ( )
+fix package . json error
+404ed giphy link ( )
+release notes for 1 . 2 . 12
+add open - in - editor and youch test
+remove redundant call to ` $ scope . $ apply ( ) `
+Fixed typo and remove trailing space ( )
+add POST request example
+update yarn . lock
+update tests
+syntax error
+Adding ' readonly ' attribute to typings
+` upgrade ` command for installed binaries
+use special docker build file to run appropriate build tasks
+release notes for 1 . 3 . 0 - rc . 2
+some stuff ( )
+Do not transform arrays into objects
+Add Hapticmedia to the showcase
+disable remote requests when offline
+New toolbar icons , shadows to achieve less heavy edges on messages
+Add syncback - task - api - request to keep track of K2 tasks
+typo atfer ( )
+add basic geojson guide
+prefix all form and control properties with $
+improved runtimeConfig ( )
+remove unused code ( )
+add example
+wrap ignore pattern in quotes ( )
+List aws - go - mod template ( )
+jqLite : Normalize non - existing attributes to undefined as jQuery
+add example of passing state ( )
+Principles and guidance for new audits ( )
+update opencollective sponsors
+update dependency graphql - request to ^ 1 . 8 . 2 ( )
+allow symbol as vdom key ( )
+remove node from devDependencies
+demonstrate additional proxy option ( )
+ignore @ babel / parser as renovate is too smart !
+Fix referencing provisioned authorizers
+rename ERROR to CONNECT_ERROR
+Additional menu fixes
+don ' t call createdAt getters when setting updatedAt on new doc
+Throttle so that DatabaseView won ' t pile on queries during scroll , better small attachment styles
+refactor some more offending tests re :
+minor tweaks ( )
+bump hexo - fs from 2 . 0 . 0 to 3 . 0 . 1 ( )
+don ' t let watch deregistration mess up the dirty - checking digest loop
+remove unnecessary wrapping of jqLite element
+update ampproject / toolbox - optimizer ( )
+Fix bad return ` [ ] `
+respect - - dest when copying static assets ( close )
+modulepreload warnings ( )
+deprecate ngClick and disable it by default
+avoid escaping curly bracket when highlight & prismjs are disabled ( )
+update date for 1 . 7 . 0
+Add blue feedback button in bottom left , remove dead code from DeveloperBarStore
+separate Promise from Deferred
+use nuxt - class - component in example
+refactor i18n closure slurper logic and parse extended datetime symbols
+now working on 5 . 0 . 16
+update dgeni - packages dependency to 0 . 14 . 0
+add test cases for ordering array - like objects
+altitude = > type
+translate problem 560 ( )
+Ensure to return promise from async function
+bump dev dependencies
+deduplicate task arguments , closes
+handles populating with discriminators that may not have a ref
+Adding 12 Factor GatsbyJS Applications Article to awesome Gatsby ( )
+update dependency eslint - plugin - jsx - a11y to ^ 6 . 2 . 3 ( )
+use importHelpers : true in tsconfig . json
+update gatsby monorepo ( )
+Make X easier to click
+Remove state file that shouldn ' t be in git ( )
+fix syntax ( )
+lint jsx
+validate options for every ` config - precedence ` ( )
+Bump ` @ evocateur / pacote `
+update styled - components to v5 ( )
+use github actions for windows ( )
+update dependency @ theme - ui / prism to ^ 0 . 2 . 14 ( )
+bump to 4 . 1 . 3
+fix new line
+handle casting immutable object properties with ` $ setOnInsert `
+update lockfile
+removing stub for reach router doc ( )
+remove unused eslint - plugin - flow - var from devDeps ( )
+preact - compat unstable_renderSubtreeIntoContainer throw error in preact / devtools
+escape HTML
+try running travis tests on WT
+Move feedback window creation to app process
+enable separate config for node_modules transpilation ( )
+link to the scope property docs
+Refactor filter guide docs
+prefix should be Moz not moz .
+position of the proxy input is incorrect
+compile after changing comment
+Duplicate string index signature in ProcessEnv ( )
+add app - data to preload list ( )
+upgrade dependencies
+cnpm fails due to $ packgeManager not matched ( )
+add support for custom @ usage metadata
+update example of storybook ( )
+clarify versionKey is a string ( Fix )
+XHR stub error if response json has number / boolean ( )
+" Quick RSVP " to events recongized by the API
+now working on 4 . 6 . 2
+adding bluebird promise to release script ( )
+remove dead link
+add runValidators description to documents docs
+add CLA to CONTRIBUTING . md
+update dependency gatsby - plugin - mdx to ^ 1 . 0 . 12 ( )
+Increase timeout to 60s for Exchange auth
+address potential regex backtrack
+Manually install on darwin ( for now )
+Add special case ` * ` tag for all mail
+adding strict mode flag to all js files
+update code style
+Add reddit link to Awesome Gatsby docs ( )
+Fixes type definitions ( )
+fix lint
+remove - - async - only from tests
+remove unused expect beta dependency ( )
+Allow ES6 classes as controllers with ` bindToController : true `
+Fix broken link for e2e README ( )
+less ` code ` in this section
+$ browser mock : defer . flush ( ) should flush all fns
+kick - off 1 . 5 branch
+replace " url " module with simple string split ( close ) ( )
+update assets to fix
+update all non - major dependencies ( )
+todo [ ci - skip ]
+Fix icons and ordering — move more into the CategoryStore
+reuse connections for toJSON + toObject tests
+fix tests for node v4 and v6
+Update composer - view - spec to use renamed functions
+improved generated ie compat code
+Expand logic for checking contentType when determining if content is HTML ( )
+run setters on defaults
+remove redundant log in edge publish
+fix lint
+correct companion link
+add a @ vue / cli - plugin - webpack - 4 package for future use ( )
+Update documentation on RFC for its location in gatsbyjs / gatsby ( )
+add results object explainer ( )
+Move extensions outside of flux / folder
+Contact chips are editable and have much better style
+adds curly braces around Helmet import in seo . js component . ( )
+update semantic - release
+add examples on how to use components with ` ngRoute `
+update minor and patch for gatsby - page - utils ( )
+event now accessible as $ event
+Minor code refactor to eliminate redundant code ( )
+Add partition back to webview
+scope shared data per - project
+Developer bar , verbose logging to logstash , Electron 0 . 26 . 0
+Workaround ancient git client in CI
+build : mp - kuaishou
+enable the lessBabel flag for fs - gabe - mdx ( )
+replace plain TypeError with minErr + TypeError in cyclical resolve check
+add better source plugin documentation ( )
+update mdx monorepo to ^ 1 . 4 . 2 ( )
+named slots for nested functional components
+Switching between Coffee + ES6 is hard . . .
+fix lint
+run structural animations with cancelled out class changes
+Upgrade to yargs 11 ( )
+upoload docs
+Linkify twitter hashtags and mentions in bios
+" Creating a sitemap " is no longer stub page ( )
+treat dates as atomic values instead of objects .
+Avoid uncaught mocked rejection
+display contrast ratios in color swatches
+update quick start table
+created raw render helper for rendering nested tag strings within tag helpers
+Nextjs support plugin ( bahmutov / cypress - react - unit - test )
+allow non - assignable binding when getterSetter is used
+Categories inside Threads need accountId . Fixes
+base64 ( wxs code )
+add a repository field
+add ability to use environment variables in vue . config . js ( )
+replaces all var with let or const
+fix css lint error
+Thread list fixes , flexible workspace store , multiple root sheets
+Ensure service independent commands work unconditionally
+add commit lint
+ensure correct attribute name in usage example
+add colons for consistent styling
+Use custom errors ( )
+thread - loader memory leak
+Bump semantic - release from 17 . 2 . 1 to 17 . 2 . 2 ( )
+Handle initial focus properly if draft is not yet ready
+Remove extra call to ` linkToDraft `
+clarify test name
+fix possible typo AFAIK ( )
+make badcfg error message more helpful
+Fix AWS partition support ( )
+wrong export used in render . d . ts ( )
+fix ts / tsx rule separation
+fix parallelLimit when fns is empty
+Improvements
+Disable for non - selectable inputs
+fix message attachment & rename to AttachmentComponent
+list item hover background more subtle
+split cookie access into $ $ cookieReader and $ $ cookieWriter services
+fix typo in " Internet Explorer 8 and 9 " features table
+Useful calledWith * * ( )
+Cleanup and reorder package . json
+Fix another issue caused by ES6 subclassing Coffeescript
+simplify the SSR + nonce getStyleElement ( ) test
+Move client only routes to its own page ( )
+SVG consistency changes ( )
+ignore pkg name endswith theme name ( )
+$ 1371 ( )
+destructure & async / await ( )
+change upload complete selector for url - plugin
+repro
+extend dom - props update skip to more all keys except value
+allow passing object to lean
+add globbing example
+Add description from - - help summary [ skip ci ]
+additional documentation for $ touched vs $ pristine states
+set the path of safari - no - module - fix . js correctly ( )
+fix typo
+remove runtimeConfig string fallback ( )
+remove odd inject from describe
+can add . open - external class in webview
+clarify the value parameter for $ isEmpty
+replace charAt ( 0 ) with startsWith
+Adds user presence fieldset and some fields .
+merge branch ' dev ' into docs [ ci skip ]
+big sur tray color
+AST rewriting when inline script is very long ( )
+enhanced display URLs ( )
+remove doReload arg used only for testing
+improve readability
+quick improvement for
+add tests for ` hashKey ( ) `
+update searching to use new ids
+When render . scp is true , add csp . enabled to true
+use discriminator model when using ` new BaseModel ( ) ` with discriminator key
+mention using ` null ` to ignore icons ( )
+prettier CHANGELOG
+nvuePages
+autofill resource uri when open add task
+give each message a proper doctype
+format by prettier
+Support ` Condition ` attribute in ` resources . extensions ` ( )
+Added breaking change + deprecation to roadmap .
+now working on 5 . 8 . 1
+Validate extensions against collisions ( )
+Fix typo in CHANGELOG . md
+Support destinations configuration
+add Code of Conduct link to footer ( )
+add test coverage for building with webpack
+update grunt - jscs to 1 . 2 . 0 ( jscs to 1 . 10 . 0 ) , fix styles
+Convert trailing arguments into options
+Replace _ . keys with Object . keys ( )
+set subpath defaults when overwriting single nested subdoc
+add text - truncate and extend on text - nowrap
+do not special case attributes for custom elements
+update karma - tap to version 2 . 0 . 1
+Apparently we were not providing keys
+update starters and examples to ^ 1 . 6 . 19 ( )
+do not unnecessarily return ` originalPath ` in ` routeToRegExp `
+add more test cases for recycle - list ( )
+Improve CHANGELOG
+update links in header menu
+context . route issue in plugins and splitChunks . pages = = = false ( )
+page load timeout
+traverse ` host ` property for DocumentFragment in inheritedData ( )
+allow console during dev
+add global bufferCommands option re :
+add chakra - ui ( )
+add note
+Release v1 . 77 . 1
+add FullContact and Salesforce sidebar
+add verbose tunnel logging flag
+fix tests re :
+onPush
+fixed prettier errors
+upgrade to 3 . 1 . 2
+Increase timeout to ensure trigger is observed
+Support BisectBatchOnFunctionError option on event streams ( )
+accidentally compiling leaving content
+deploy fails with unhelpful error message when service name is not a valid CF stack name
+add - - fix flag to attempt fixing packages before failing
+now working on 4 . 5 . 8
+grunt - contrib - jasmine - node changed name
+Removing testcafe dead codes from the repo ( )
+Pass an errorMap to reporter . error ( )
+fix links to ngRoute module
+add note on negation
+patch yarn . lock
+ignore coverage directory ( )
+remove extra async keyword
+step - down and use for of instead of for let i
+ensure proper deep merge of array values in api . extendPackage
+fix PR bot action via await on each report call ( )
+select torrent layout
+fix more tests re :
+replace ngError with minErr
+allow keepAliveProps for nuxt component ( )
+update dependency gulp - rev - all to version 0 . 9 . 8 🌟 ( )
+add quick check for Function constructor in fast path
+update babel - preset - react to 6 . 24 . 1 🌟
+update deps
+comments in at rules ( )
+Remove Atom package dependecies and Atom styles !
+less noisy CSS unused rules ( )
+gitHead
+Clarify documentation on message placeholder interpolation ( )
+fix tests re :
+adds link to demo
+ensure emit triggerScroll event after scrollBehavior is called
+enforce name for all groups to avoid regression ( )
+remove unused sauce config
+remove event emitter dep to speed up array initialization
+ensure spacing between specs and describes is consistent
+hash url should have config . url prefixed
+make jscs happy
+replace child_process . spawn by cross - spawn - async
+now working on 5 . 6 . 14
+update changelog
+prepareDraftForSyncback double checks quotes on send later
+Listening for mouse events not necessary ?
+Fix Netlify app links change . com to . app . ( )
+update step_09 . ngdoc
+move themes into starters and packages ( )
+include ie8 in extra event property reset
+clarify inline annotations
+Ensure latest stable npm version in bundle
+proper syntax highlighting for acquit examples
+fix ` gatsby - config . js ` module ordering in gatsby - remark - embed - snippets ( )
+Support boolean and integer fallbacks ( )
+add example to SchemaNumberOptions # enum
+update tutorial steps to discuss protractor
+run default functions after hydrating the loaded document
+add flags for codecov
+droppable - get - dimension withScroll ( )
+Better debugging information for when token is not found
+handle jQuery objects of length 0
+resetStyle w / o argument
+add space
+fix jsfiddle integration
+do not abort animation if only ` ng - anchor - in ` is used
+update opencollective sponsors
+update jQuery compatibility
+update nylas / N1 to nylas / nylas - mail Github references
+custom pushAssets function to control http2 push headers ( )
+Invalid call to setState caused by unsub not working
+Declare unsupported global variables
+make jshint happy
+Fix mishandling of cachedCredentials in invokeLocal
+fix error reporter crashing with extra errors
+convert Atom ' s launch script for N1
+Fix warnings for react unkown dom prop
+checks for ` $ grid - breakpoints ` map list ( )
+typo in ` isStaging ` in ` with - env ` example ( )
+invoke component node create hooks before insertion ( )
+now working on 5 . 4 . 22
+avoid printing warning if ` _id ` index is set to " hashed "
+renovate config fixes and changes ( )
+build dist folder before npm release
+create helper function for logic from
+added support to promise notification
+Improve readability in environment - variables . md ( )
+update dependency semantic - release to v15 . 4 . 4
+update step_12 . ngdoc
+throw error if input is not array - like
+Render bold emoji - range characters with standard weight font
+remove duplicate tests
+Bump @ semantic - release / npm from 7 . 0 . 8 to 7 . 0 . 9 ( )
+support copying XML nodes
+update version info
+fix nylas api specs
+jQuery now returns attr name instead of true / false for special attrs
+update copyright year
+move build to packages ( )
+bump own prettier to 1 . 13 . 4
+app style
+remove babel - eslint dev dep ; install deps for clone tests when needed
+typing
+Remove " simply " wordpress - source - plugin - tutorial ( )
+add links to source for API
+strict throw throws a mongoose error ( Fix )
+add timezone & fix tabbing
+syntax highlight auto bootstrap code example
+use boolean casting logic for $ exists
+Move docs to website page
+allow $ overrideModelOptions to set updateOn
+add Example cli TypeScript project ( bahmutov / cypress - vue - unit - test )
+improve vocabulary and orthography
+only serve disqus and google analytics when in production env
+don ' t run the breaking protractor test
+Update calendar test
+update dgeni - packages to 0 . 12 . 0
+reduce duplicate code ( )
+Code block should be JSON not YAML
+Missing comma on ' Installing Typography themes ' section ( )
+Use parser = ' mdx ' for formatting docs using pretti … ( )
+improve connection string query param docs
+test use millisecond
+prebuild less was using wrong options , cache not used at runtime
+bumped version number
+add signature support
+warn stringify
+open file argv path undefined
+Tweak tsconfig for using typescript . ( )
+use express - style error handling with post hooks
+publish ngMessages to bower
+Added a blog post to the " Awesome Gatsby " list ( )
+improve readability
+fix lint error " require - atomic - updates "
+css sourceMap in production ( )
+ignore data dirs in tools /
+ng : repeater - fix $ position when collection size changes
+Windows title bar drag
+https link to editorconfig . org ( )
+add ` catch ( ) ` block to example
+use svg badge
+ignore test files inside middleware and store ( )
+remove src directory from npm module ( )
+cron refactor
+re - added gatsbygram avatar ( )
+sanitize javascript urls with comments
+Refactor to rely on fixtures setup
+fix returning db transaction promise
+Update issue templates ( )
+update links in HOC
+release notes for 1 . 2 . 23 superficial - malady
+preserve surrounding linebreaks ( )
+update step_04 . ngdoc with a clarification
+rewritten to $ script
+Remove src = " cid : " when we don ' t have the source
+Support ` timeout ` configuration
+upgrade mongodb - > 2 . 2 . 8
+allow bound constructor fns as controllers
+Convert message . coffee to message . es6
+update path in the generate . sh script
+use direct DOM comparison when checking for $ rootElement
+update vue - jest to 3 . x along with other dependency updates
+use ~ with postcss - import
+Display search API errors in transient notiication bar
+note methods list is non - exhaustive
+fix name to work with latest NPM
+fix class detection RegExp
+space after ` if ` in ` else ` at rule ( )
+add ' escape ' option
+add minErr description for $ compile : tpload
+ensure that from styles are applied for class - based animations
+removing dead and unused code
+switch ) : Preserve the order of the elements not in the ng - switch
+use jasmine2 as framework
+add store module HMR ( )
+Chalk is an object , not a method
+allow arrayLike objects to be ordered
+converting outside + guides links to url tags
+remove redundant jsx deps
+Style of ' Waiting for browser login ' button ( )
+Remove unused modules ( )
+FIx linting and react errors and popover spec
+Upgrade Chrome and Firefox to the latest versions
+ignore
+Generalize target alias resolution
+add promise to watch creation function
+make sure you can call ` unshift ( ) ` after ` map ( ) `
+reuse connection for array tests
+update external dependencies on detail page - starter showcase ( )
+fix url - based links refs to AUTO module
+Separate unit and integration tests
+no longer overrides apm
+use common for loop style
+Fix filtering using an object expression when the filter value is undefined
+check " JS : " in title in lint - changelog . js
+upgrade mquery to fix
+Fix typo ( )
+hot - reload page updates when querying by id ( )
+Add functioning endpoint for updating labels for messages & threads
+apply timestamps to ` bulkWrite ( ) ` updates when not using ` $ set `
+fix cachedEscape memory issue
+no longer needs to disable ` space - infix - ops `
+enhance release script ( )
+shorten line lengths for better readability
+don ' t show nulled profiles
+install npm - run to simplify scripts
+Wrap signature in a ` nylas - n1 - signature ` div to allow easy detection
+timepicker toolbar keyboard accessible
+remove misleading describe block
+import in testing code example
+fix lint
+add calendar icon to new event card
+remove hyphen and clarify items
+Fix Sentry
+add typography changes to migration guide ( )
+add task support use proxy
+use prettier to format code
+update chrome ua
+addTask with multi uris fail
+Q - like deferred / promise implementation with a ton of specs
+update API Specification ( )
+fix link in " Complementary libraries " section
+Distinguish different standalone installations
+update dependency event - source - polyfill to ^ 1 . 0 . 8 ( )
+pass ` renderContext ` to ` vue - renderer : ssr : templateParams ` hook ( )
+small grammar fix for $ compileMinErr ctreq
+Remove stale cursor from config . cson when cursor error
+fix package manager spec
+call global vue errorHandler in fetch and asyncData ( )
+Updates Tailwind Installation docs ( )
+fix DST bug in utc plugin ( )
+overlaid component fix for new event card
+handle ` _id ` option for document array schematypes
+upgrade webpackbar
+allow builds on mirror
+Suggestions API fixes
+fix build
+update description
+use graphiql - explorer ( )
+update logic
+update
+Replace docs references to Edgehill with N1
+print arrow function type params on same line as params , fixes ( )
+various fixes
+fix lint
+Window manager throwing exception when all closed
+sort car manufacturers alphabetically
+added event emitting test
+injectors aren ' t functions
+add ` url ` field to downloaded file nodes ( )
+Turn test reporting back on now that Jenkins is a LaunchAgent not LaunchDaemon
+upgarade preferences UI on Windows
+Use PureComponent to avoid useless re - renders ( )
+remove word " just " and " simply " ( )
+spaces in string templates added
+update instagram nextPagePath after every fetch
+upgrade dependencies
+exceptionHandler mock : should not specify dependencies
+refresh deps
+fix tests
+support reading and writing filter to ` ? filter ` query string ( )
+add support for creating dynamic style sheets within test code
+ConfigManager add getLocale util
+extend threshold for stale issues ( )
+other URL schemes don ' t count as ' * ' 😶
+remove hook assetion in error . test . js
+dynamic tray scale
+Adds a description for parser . lexerr
+Cache results of running Autolinker , avoid props . children for EmailFrame , fix special case for new draft
+adapt the new api of Electron ' s TouchBar
+Replace basic " every 20 seconds " retry logic with linear backoff to five minutes
+upgrade systeminformation
+don ’ t use history api when only the hash changes
+can select participant with space if it ' s an email
+include version marker in workspace
+Updated current commands doc to correct 0 . 20 . 0 usage syntax
+use let / const in schema tests
+description can dynamically be the failureDescription
+Execute search for subject , autoselect first item
+Send API and options as object
+avoid jquery data calls when there is no data
+respect 0 - indent markdown - in - js ( )
+use more consistent commas
+memory leak of ASTPromiseMap
+use node env for ssr tests , adjust test util to handle that
+offer a new port and listen if already used , use consola on server error ( )
+update dependency is - docker to v2 ( )
+load example files based on active deployment
+. js file extension
+change variable name for github access key
+don ' t check for overview frontmatter ( )
+Upgrade angular preset , ensure header is not duplicated
+Change mdx flag into mdxOtherwise to prevent confusion ( )
+return timestamps in microseconds ( )
+ignore . DS_Store in git ( )
+add uni - view - update
+splitVersion - > npm - package - arg
+fix lint
+use double - linked - list for children
+enable more clone tests
+( ru ) Translation update ( ) [ ci skip ]
+vendor backward compability with nuxt 1 . x ( )
+add nested array paths to Model . validate ( . . . ) paths
+Don ' t crash on null times
+clean up unreadable code in compile ( )
+clear formats and excludes on clear
+escape sample code in ng a directive
+updated onCreateBabelConfig documentation ( )
+rendering optimization ( )
+updated roadmap description of cypress cli install
+protect calls to hasOwnProperty in public API
+update to dgeni - packages 0 . 10 . 8
+update dependency theme - ui to ^ 0 . 2 . 41 ( )
+add version - support - status page ( )
+improve ` @ support ` at - rule output ( )
+blog post about Gatsby ’ s company values ( )
+restrict actions available in Node APIs ( )
+update dayOfYear test
+fix json snippet in end - to - end - testing docs ( )
+support plug - and - play , typescript runtime and native modules ( )
+bump gulp - load - plugins from 2 . 0 . 4 to 2 . 0 . 5
+remove stats : false .
+add cypress dashboard config to e2e tests that don ' t have it yet ( )
+remove unnecessary rules for unit test eslint config
+add a service wrapping setInterval
+add rule disallowSpacesInAnonymousFunctionExpression beforeOpeningRoundBrace , including i18n generator
+extend client serving tests
+tweak to grammar in onClick section of README ( )
+add note about speed ( bahmutov / cypress - react - unit - test )
+Give back payload for generate
+remove extra quotes in example
+Upgrade buttons go to / payment
+update custom format plugin logic
+repro
+add missing dependency to package . json ( )
+add ngAria module to script
+update src / ngMock / angular - mocks . js documentation
+update dependency theme - ui to ^ 0 . 2 . 42 ( )
+various code style fixes
+fix router link
+add traced SVGs to Contentful images ( )
+escape the wide char quote marks in a regex in linky . js
+drop useless . text - left on overview table
+remove obsolte note
+merge provide properly from mixins
+Seclude IAM role resource name resolution logic
+verify default conf variable via package . json on public module
+add links to ngResource and $ resource
+Allow console logs in fixtures
+use HTTPS link to bit . ly / chrome - flags ( )
+formatting
+provide support for inline variable hinting
+upsert $ addToSet with $ each field creation error
+improve nonassign error message
+peg chalk version
+Warn about conflicts between state and module ( )
+fix specs
+use correctly preload
+repro
+build failure
+display metric unit when running pm2 show
+fail tests in case of unhandled errors ( )
+invalid all require . cache in watching
+Grouping stubs on Stub List ( )
+update minor updates in packages ( )
+update typescript support documentation
+Invalidate in - flight updates when query changes
+name all anonymous watch functions in Angular
+remove global controller syntax in the example
+fix lint warning
+404 on docs / migrating - from - v1 - to - v2 . md ( )
+case - insensitively match headers ( )
+Adjust email CSS immediately upon switching themes
+rename ` devModules ` to ` buildModules ` ( )
+no - unused - vars ignore Taro
+update gatsby monorepo ( )
+Fix plugins shape in fixture
+Fix client side routing match paths regression ( )
+correct escape for markdown in js ( )
+csp SHA hashes accumulate when using custom script - src rules ( )
+don ’ t use history api when only the hash changes
+form - actions background color
+add original click event
+drop ` from ` property from the clean shrinkwrap
+fix the forms dev guide to use ng - disabled
+Convert FileDownloadStore to JS
+add test / helpers / cliRunner for integration usage
+rename cy . http to cy . intercept ( )
+fix personal site for showcase ( )
+cy . server + cy . route requirements , assertions , timeouts
+use ` . / error / index ` rather than ` . / error ` to avoid potential issues with imports
+add note about throwing error only after validation
+Use call and = = = instead of apply and = = in type check functions
+improve the polyfill importing logic of modern mode ( )
+fix crash on inferring input type with missing node ( )
+update dependency husky to v3 ( )
+Print folder sizes with cypress cache list command . ( )
+add The Noted Project ( )
+Seclude standalone utils
+Fix Typos across repository ( )
+fix top - nav links to work on localhost
+move cli into dedicated file
+Updated code diff highlighting ( )
+add notes re : support for node 4 and mongodb 3
+refresh button
+updated comment message ( )
+fix wording
+refactor API from
+properly generate comments with special character ( )
+fix some missing semi - colons and spaces , typos
+Update forms guide
+New inAllMail filter applied to all mailbox views except trash and spam
+add coverage for
+( cy . intercept ( ) ) intercept - request body buffer encoding problem for multipart / form - data ( )
+add link to pluralsight course on upgrading to mongoose 4
+UNI_FEATURE_OBSOLETE
+Run yarn in non - interactive mode ( )
+Remove unused @ lerna / batch - packages
+Publish
+exclude comments from fragment detection ( )
+repro
+mention absence of bitwise operators
+Preact - brand name ( )
+handle errors in subdoc pre validate
+Update to use new APIs , remove leftover docs
+downgrade source - map - support for stack " fix " ( )
+clarify documentation for $ broadcast
+handle doc . populate ( ) with virtuals
+Ensure missing Kotlin dependencies ( )
+fix package homepage links [ ci skip ]
+Add link to ruby example ( )
+Remove global git config handled by template
+add better logs for DX with target option ( )
+remove non - running missing tasks
+add useUnifiedTopology to docs re :
+always show errors in debug more
+added list of common element assertions
+tailwind ) : add postcss - preset - env ( )
+Do not notify of update when new major is published
+Allow fast - switch between accounts
+fix typo in usage for chainWebpack ( )
+Dead code removal ( )
+show source of the error & beautify
+sub - package eslint maintance ( )
+correct the wrong code of ` Deletion ` ( )
+Prevent duplicate taskbar items
+test adaptation + pm2 serve - - port option
+allow invocation without an argument ( )
+fix lint
+Expose isStandalone for metrics
+update example names to match their folders ( )
+mac hover state shows icons
+empty scoped slot should return undefined
+Remove accidental capitalization of lowercase typenames . ( )
+don ' t destroy emitter on close
+change launch script to N1 . sh
+fix 404 link to vuex intro page ( )
+Managing Pull Requests ( )
+set execute flag on scripts
+redirect to external url
+i18n pt explanation
+support ' disableNunjucks ' in front - matter
+repro
+Fix setup of redrive policy ( )
+add parser test for inclusive end dates
+smiplify csp
+update dependency theme - ui to ^ 0 . 2 . 35 ( )
+lint
+Do not rely on env for js size ( )
+grammar and header fixes
+updated desktop screenshot to current design
+Schema for AWS ` alexaSkill ` event ( )
+comments
+dont error if the discriminator key is unchanged
+pin cypress version in some e2e - tests ( )
+Convert to async / await
+split up docs templates into different pages ( )
+dead link ( )
+fix lint
+fixed the issue with not being able to await a request body when providing static response stub ( )
+make jsFiddle and Plunkr links work with external AngularJS modules
+align printing of comments in function types w … ( )
+add jsdoc marker to ensure it is included in docs
+fix capitalization in error message
+DOM report injection loopholes ( )
+add support for PartialApplication ( )
+update jQuery from 3 . 4 . 0 to 3 . 5 . 1
+update minor and patch for gatsby - cli ( )
+Add more description to installing Gatsby - CLI globally ( )
+fix deprecated node api path . existsSync - > fs . existsSync
+Fixed a spacing issue
+recycle - list
+add client - only - paths rewrites to demo site ( )
+Add isCI and getCIName ( )
+lost context in closures
+cut v1 . 2 . 7 release
+update dependency dotenv to v8 ( )
+extract common methods ; make consistent
+upgrade dev dependencies
+support sending style sheets and class list to native ( )
+link to latest reference version in menu ( )
+fix minor type ( )
+add ehic cards as opencollective sponsor
+Errors in ActionBarPlugins
+fix @ param type for ` ngChange `
+added 0 . 20 . 0 summary , issues that need to be opened
+add Greenkeeper badge
+match cy . intercept ( url ) globs against url + path ( )
+Remove rather than hide message toolbar items ( incl . category picker )
+quick fix re :
+update en doc
+render 404 when dynamic ssg path doesn ' t exist ( )
+Update closure i18n integration
+Added docs for removeListener and removeAllListeners
+update sponsors
+run grunt script in win compatible way
+NPE when no angular loaded in test page
+note that ctrls cant depend on other ctrls
+add prettier - plugin - package to community plugins ( )
+clean subnav code
+do not reconcile children that are iterable functions ( )
+repro
+Focus main window when open prefs and prevent dupe sheets
+update dependency aws - sdk to ^ 2 . 526 . 0 ( )
+Fix resolution of SLS_AWS_REQUEST_MAX_RETRIES setting
+use spyOn in mockLog
+Add ` - - amend ` flag ( )
+update @ vue / ui
+typo
+update www ( )
+avoid hanging animations if the active CSS transition class is missing
+Correctly manage references to the hot window
+custom triggers and debounce of ngModel updates
+ignore xhr . responseType setter exception if value is " json "
+Just wait for first CategoryStore trigger to load perspective
+clarify parameters description
+remove unuse var
+allow SVG and MathML templates via special ` type ` property
+serialize config head fn shorthand correctly ( )
+avoid double slash cc @ kvz
+small readability improvements
+Refactor to async / await
+serve disconnect IPC after first run
+fixed typo
+fix pluginsOnly typo
+Windows build changes
+repro
+upgrade dependencies
+Recognize API Gateway resource policy shorthands
+give deprecation notice red color
+bump mongodb driver - > 3 . 0 . 6
+aws - nodejs - typescript template improvements
+re - enable ssl_required checkbox with backend support
+fix base href in $ location : nobase error page
+add tekhattan as an opencollective sponsor
+assert string descendeing index works
+added some english statements for Auto Away
+Fix broken link on seo page ( )
+replace _ . escapeRegExp with escape - string - regexp
+Add libvips - dev as a gatsby dependancy on debian / ubuntu ( )
+better validation error message
+Display a possible issue when credentials are incorrect
+Typo ` sent ` = > ` spam `
+support for interface documentation
+update dependency deps - ok to v1 . 2 . 4 ( bahmutov / cypress - vue - unit - test )
+repro
+ensure transition - property is not changed when only keyframe animations are in use
+remove unused / obsolete script
+converts Gruntfile . coffee to Gruntfile . js for better consistency and Bumps up a few old package versions to newer ones
+update minor and patch for gatsby - transformer - excel ( )
+Use heap tree in priority queue ( )
+correct typos and clarify a few sections
+removes ` npx ` info & moves src link up ( )
+enable FriendlyErrorsPlugin when build . friendlyErrors is true
+retry render if renderer is in loading or created state ( )
+Use function component as example instead of class ( )
+Make selectedEvents default to [ ]
+breakpoints
+Complete serverless . yml documentation for Azure ( )
+fix linting of tsx script in . vue file ( )
+Adding stub to Maintaining a Plugin page ( )
+Can ' t make hairlines darker , so let ' s use a real border
+fix tests on node 10
+Don ' t display ` sent ` label
+Right - align the timestamps in the thread list
+Replace deprecated rule jsx - space - before - closing ( )
+fix lint
+fix non - GET requests match error w / multi - proxy config
+ensure ngAnimate isn ' t a required mock
+Emitter ( new Vue )
+unmock collect - updates in publish - - cd - version tests
+add release notes for v1 . 5 . 7
+Merge but temporarily disable encrpytion during Gmail Oauth
+bump lockfile
+upgrade core - js to version 3 ( )
+use $ watchCollection
+config Postcss preset and plugins together ( )
+remove usage of export default ( ) ( )
+update starters and examples - gatsby ( )
+Recognize ` path ` as optional condition ( )
+ng - strict - di
+docs : fix $ orderBy example and e2e test
+upgrade mongodb driver - > 3 . 3 . 5
+add travis and webpack configs to npmignore
+update understanding - results . md ( )
+handle GPG sign git config for initial commit ( )
+add custom caster support for Decimal128
+Correct typo
+: more cannot work in almost all themes
+Fix packaging logic after regression
+preprocessing external images page ( )
+preserve query strings by default ( )
+properly access request headers with mixed case
+cron - restart in cluster mode + alias - - cron to - - cron - restart fix
+clarify $ location service role
+fix lstatSync throwing
+use config . pretty_urls . trailing_index
+Remove extraneous backtick ( ` ) ( )
+upgrade to prettier v2 ( )
+add query casting tutorial
+groups hr element
+simplify scripts so that they can be tested locally
+test custom attributes
+Always set selection range into editor on focus
+Bump rollup from 2 . 33 . 1 to 2 . 33 . 2 ( )
+fixup , allow same - origin ws requests of any domain ( )
+fix rake target
+Documentation for rect
+add links to sort and splice tutorials
+Fix resolution of config when installing plugin
+fix JSDoc description of SchemaArray . checkRequired method
+update dependency semantic - release to v15 . 1 . 8
+cut v1 . 2 . 9 release
+generate . minify . collapseWhitespace is false by default
+updgrade pmx - 2
+fix a few tests re :
+Move all reads / writes to the main process
+clarify documentation of ` $ setViewValue `
+throw readable error when ` create ( ) ` with a non - existent discriminator key
+fix syntax highlighting of URLS
+contributing canary tweaks
+add link to budget . json repo ( )
+exit $ broadcast early if nobody is listening for the given event
+change auth function params
+v - if / v - else not working with : type + v - model ( )
+update typescript - eslint - parser ( )
+repro
+Template files for main . js and router when not using a compiler ( )
+add path of project to the doc gen config
+cleaned up directive titles
+remove $ flush / $ observe ng : eval / ng : eval - order
+use shields . io badges
+afterEach running after test stopped in ui ( )
+keep - alive component data should not be updated ( )
+add test suit
+Fixed typo ( )
+Add conventional prerelease / graduation ( )
+Handle deleted comment authors
+fix erroneous examples
+update validators handle array validation ( Fix )
+fix package . json config for
+New view that appears when a multiselect - list is empty
+disable google analytics in e2e tests
+check we do not throw if response . data is the resource object
+Update WordPress starter for new maintainer ( )
+add . mjs files as transpileable files ( )
+add owner to starter showcase URL slugs and redirects from old urls ( )
+upgrade muri - > 1 . 2 . 1
+FIx after default payload mode change
+more global service resolve fixes
+improve Protractor test for bindings
+Reset lockfile to resolve handlebars audit warning
+Increase daysUntilLock
+don ' t reread the input file on ts linting ( close ) ( )
+fixing various linter errors .
+repro
+wait for extracted query enqueuing before running queries ( )
+broadcast componentName
+configurable aliases ( )
+promptModules tests
+fix docs build issues
+new powers for . visually - hidden - focusable
+unit - testing ) : add an example unit test for directives
+fix indentation code block
+rename the file path of richtext test
+correct push - f command
+add createTypes call to docs example ( )
+Update sites . yml : add Weingut Goeschl ( )
+disable lerna commit and tag
+ignore properties in prototype chain .
+Increase FD limit to 1024
+Configure " AWS Stream " commit message scope
+advanced preference bt listen ports setting
+clarify filter name restrictions
+handle overwriting createdAt + updatedAt consistently
+unfloat inputs using . span * in fluid row
+Pave path for layers tests refactor
+use message in discriminator docs re :
+docs : Fix sitemap generator to use doc . id instead of doc . name
+remove ' new to cypress ' callout on api homepage
+integration test for url plugin
+fix missing indentation in httpBackend from a3172a2
+fix wrong link to services guide
+fix replaceHydrateFunction JSDoc comment ( )
+change regexp so that assertion works
+add schema as an item on navbar
+fix 3 . 4 tests
+document steps to skip default json serialization / deserialization
+support instantiating classes .
+Double escaping ( fix )
+dont run text search test unless mongo 2 . 6 or greater
+properly destroy child scopes
+custom publicPath for full - static fixture
+assign to this . variable
+correctly handle newlines in ` format ` string
+replace master / slave with leader / follower
+adjust warning message
+now working on 4 . 10 . 3
+skip . connect ( ) method when composing fun ( )
+bump mongoose - legacy - pluralize to avoid node 4 build failures
+initial commit actually applying
+use require . resolve when possible to avoid hard coded module paths
+update command names , per https : / / github . com / Akryum / vue - cli - plugin - apollo / pull / 158
+Don ' t capitalize every word in label names .
+add option to disable meta generator tag
+remove extra ' to '
+Validate url . format calls ( )
+enable static queries in ` wrapRootElement ` ( )
+options ) : fix selecting options
+format
+make ` MongooseArray # push ( ) ` support using ` $ position `
+allow break with both default named import , fixes ( )
+Add webstorm setup with eslint integration ( )
+if id > 100 not shown in pm2 ls
+disable lock bot
+bump recompose version ( )
+temporary fix core - js dep for vue ui
+delete old zip files on snapshot
+update ` sauce - connect ` to version 4 . 6 . 2
+options ) : add support for option groups
+pinned dependencies
+removes proposals from metadata when removing event
+update dependency gatsby - plugin - compile - es6 - packages to v2 ( )
+Flip order of columns in join table indexes for much faster querying
+remove redundant rooted file : specifier
+Restore status logging to extension ( )
+fix typo
+remove submodules
+update changelog for 1 . 8 . 0
+add end to end upgrade info to migration doc
+add monetta as opencollective sponsor
+fix linter error
+rename starter - plugin to comply with publish st … ( )
+ensure that ngChecked doesn ' t interfere with ngModel
+update minor updates in packages ( )
+repro
+fix error in one of the code examples
+Replace normalize - test - root with augmented placeholder serialization
+add angular . version
+Explicit ` - - ignore - scripts `
+use formatter for audit partial ( )
+reset config after test
+check path exists before checking for required
+too fast to toggle tracker syncing spinner
+less obnoxious loading UX
+remove IE8 target from all test configs
+don ' t run contenteditable example on FF
+github action mac build notarize
+Pass tarFilePath , store on pkg . packed , don ' t move tarball into package dir
+Continue running DOM timers in the main window even when it is not visible
+add test : docsgen to ci checks
+Require issue or PR and remove getting started sessions ( )
+1 . 2 . 2 [ skip ci ]
+fix typo in code ( ` & amp ; ` - - > ` & ` )
+isLeapYear as plugin
+clean up to fit into monorepo
+Correct tests for IE11
+Release v1 . 59 . 2
+update angular version in an example
+update dependency aws - sdk to ^ 2 . 544 . 0 ( )
+catch sync errors in document pre hooks and report as error
+sort schema reserved keys
+Correct spelling in error message
+undo / redo now properly restores selection on new msg
+ensure addClass / removeClass animations do not snap during reflow
+support implicit filename extension
+Add back root api page
+destroy
+Replace ` _ . toString ` with native ` String ` ( )
+Allow skip - comment to accept configurable … ( cypress - io / eslint - plugin - dev )
+add dgeni processor for protractor
+setIndex
+delete unnecessary brackets
+v3 - app uni . navigateTo / uni . switchTab callback
+add caocaoshiji
+Bump to v2 . 3 . 1
+make sure ` Array # toObject ( ) ` returns a vanilla JavaScript array in Node . js 6 +
+save db in user home
+fix typo in a comment
+Add clone - fixture
+fix typo postCssPlugins in tailwind - css docs ( )
+update karma - sauce - launcher
+1 . 0 . 4
+module . decorator order of operations is now irrelevant
+use resloveAlias for watch
+fix grammar and punctuation
+Update props for body tokens when state changes
+fix more tests
+revert yarn . lock
+list item fallback - icon
+improve headings hierarchy under Sass → Functions ( )
+change ' Parameters ' title to more accurate ' Arguments '
+only copy relevant assets
+WIP add animated gifs to getting started , update content
+more layout improvements
+add fromNow back
+WIP interacting with elements core concept
+Run pragmas on all connections , not just worker one ( which runs setup queries )
+fix broken plugin example link ( )
+only consider master branch , add timestamp , close ( )
+Update Reference to src / layouts / index . js ( )
+null check icon paths ( )
+change trailing template delimiter location and indent
+correct JSDoc tags of the params of the function module ( name , requires , configFn )
+add scoringMode to AuditResult ( )
+update portion of gatsby - link docs with valid style ( )
+update dependency gatsby - plugin - theme - ui to ^ 0 . 2 . 38 ( )
+remove superfluous block of text
+fix case when category comes back as null
+fix < keep - alive > include / exclude logic for anonymous components
+Refactor to BbPromise . try
+findLinkedNodeByField not returning any value ( )
+windows aria2 cmd
+fix navigation when root is empty
+prevent compilation error when using src attribute on sfc ( )
+repro
+skip redundant clone in insertMany
+update opencollective sponsors
+fix typo
+inprog ) : fix typos ( " a $ apply " - - > " an $ apply " )
+only run Xvfb on Linux
+nvue - native api
+fix example domain
+env var name change for build ( )
+extract reporting and log API failures
+now working on 4 . 5 . 11
+submission button is linked to docs ( )
+broken link in tailwind doc ( )
+add simple auth example ( )
+v3 - app picker
+pasting code , which starts with a doc comment
+link FCP audit description to lighthouse docs ( )
+inline property decorator should stay inline ( )
+long - term - caching ( )
+bump eslint from 7 . 13 . 0 to 7 . 14 . 0 ( )
+Document XHRUpload ` timeout ` property .
+fix issues with route normalization ( )
+Remove event listener with " capture : true "
+make jshint happy
+Test integration with provisioned lambda ( )
+* . vue with ` lang = ' tsx ' ` is not formatted ( )
+wip adding tidelift button
+Improve getting started docs
+add missing beforeEach ( module ( ) ) to test
+fix all lint warnings
+add back missing example from ' recursive embedded discriminators section '
+use the remote common exports to avoid function call
+client addons , ipc , shared data , plugin actions
+Improve security ( )
+Return null if no matching node is found
+wrong config , closes
+Update ESLint dependencies ( )
+now working on 5 . 5 . 6
+add example with ES modules
+order package . json
+restore file count in verbose mode
+fix the version jumper
+electron v7 dialog showOpenDialog promisify
+fix lint

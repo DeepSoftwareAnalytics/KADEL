@@ -1,0 +1,1802 @@
+add guide decorators ( )
+repro
+Publish
+Publish
+add react - helmet ( )
+add gatsby - plugin - sitemap ( )
+update dependency cypress to ^ 4 . 0 . 0 ( )
+add modernizr / conduct ( )
+update benchmark to version 2 . 1 . 3 ( )
+update how - to - contribute ( )
+update dependency bindings to v1 . 5 . 0
+ignore absolute URLs ( )
+fix typo
+Publish
+Publish
+simplify class name ( )
+fix typo
+add caseInsensitiveMatch option ( )
+repro
+update grunt - contrib - compress to version 1 . 3 . 0 ( )
+add branch pattern to version info ( )
+pre - 1 . 8 ( )
+Publish
+fix typo ( )
+Publish
+add example module
+fix typo ( )
+use child . stdout instead of child . stdout
+Publish
+fix typo ( )
+support openCOLLECTIVE_HIDE environment ( )
+useMDXComponents ( ) instead of $ { children }
+update dependency @ babel / core to v7 . 2 . 2
+fix typo
+convert formatOption to string ( )
+fix typo ( )
+fix typo
+repro
+fix typo
+repro
+add hicolor icon ( )
+fix lint
+publish v2 . 0 . 0 - alpha - 26420200309006
+fix typo
+Publish
+update proxy - from - env to version 1 . 1 . 0 ( )
+fix typo
+publish v2 . 0 . 0 - alpha - 29920201128001
+repro
+update travis . yml ( )
+fix typo ( )
+fix typo ( )
+fix lint
+repro
+update friendly - errors - webpack - plugin to version 1 . 3 . 0 ( )
+add gatsby - plugin - guess - js plugin
+add gatsby - docs - translation - guide ( )
+Publish
+use ` modePattern ` instead of ` modePattern ` ( )
+add ` toObject ( ) ` to inspect ( )
+Use ` window . excludeGAPaths ` instead of ` window . excludeGAPaths ` ( )
+add safari - pinned - tab ( )
+add gatsby - portfolio ( )
+repro
+add gatsby - plugin - theme - ui ( )
+update dependency rollup to ^ 1 . 14 . 2 ( )
+repro
+Add catalog - of - events ( )
+add nodemon - v to ISSUE_TEMPLATE ( )
+Add Roger Ramos Development Journal ( )
+add gatsby - plugin - facebook - analytics ( )
+Publish
+fix typo ( )
+update kevinmarrec profile to v4 ( )
+repro
+Replace ` _ . findKey ` with ` Object . keys ( resources ) `
+Publish
+add frontendmasters to index . jade
+Publish
+repro
+Publish
+update ink to version 2 . 7 . 1 ( )
+don ' t flush cache animation
+repro
+fix typo ( )
+Add CalendarDraggingDataSource to calendar wrapper
+allow ` paramDefaults ` to be overridden ( )
+update dependency semver to ^ 7 . 0 . 0 ( )
+update mocha to version 2 . 5 . 2 ( )
+use nativeLazyLoadSupport ( )
+fix typo
+add exclude option to applyPaths ( )
+add compareFunc to listArchivesHelper
+update dependency gatsby to ^ 2 . 0 . 101 ( )
+Publish
+update istanbul to version 0 . 4 . 0 ( )
+fix lint ( )
+fix typo
+add project - plugins ( )
+repro
+add glossary - decoupled - drupal ( )
+add devtools option ( )
+Publish
+update 4 . 6 . 8
+1 . 6 . 0 [ skip ci ]
+update dependency @ nuxt / loading - screen to ^ 0 . 1 . 3 ( )
+repro
+fix typo ( )
+Add Sandbox site ( )
+publish v2 . 0 . 0 - alpha - 26620200318003
+repro
+add gatsby - node ( )
+fix typo
+Add project structure for a local plugin
+don ' t call ` next ( ) ` in eachAsync ( )
+add gatsby - plugin - typescript ( )
+add gatsby - source - contentful - asset ( )
+add gatsby - theme - blog ( )
+Add Lukas Horak site ( )
+add vue - no - ssr ( )
+Publish
+add gatsby - graphiql - explorer - site - metadata ( )
+Publish
+add link to gatsby - plugin - feed ( )
+Use href attribute instead of href ( )
+use ` urlFn ` instead of ` urlFn `
+Publish ` - - no - changelog ` ( )
+add gatsby - starter - grayscale - promo
+fix typo
+add gatsby - transformer - remark ( )
+Add Technica11y ( )
+remove unist - util - visit ( )
+add $ locals property
+add libgnome - keyring - dev ( )
+update gatsby - plugin - sharp / README ( )
+publish v2 . 0 . 0 - alpha - 24920191223001
+update dependency rollup to ^ 1 . 32 . 0 ( )
+add concat ( ) to cache dir ( )
+fix typo in exec . js ( )
+Publish
+fix typo ( )
+add nuxtjs . org to README . md ( )
+add badly headers configuration ( )
+fix typo ( )
+repro
+update dependency @ types / node to v9 . 6 . 42 ( )
+update CONTRIBUTING . md
+add gatsby - netlify - cms - example ( )
+update i18n . json
+add new - folder ( )
+add cy . debug ( )
+use cloneDeep instead of cloneDeep ( )
+fix typo
+add virtual . options . localField ( )
+Add Referrer - Policy to security headers ( )
+use ` $ emit ` and ` $ broadcast `
+repro
+update dependency react to v16 . 8 . 15 ( )
+fix typo
+add 5 . 9 . 26 / 2020 - 07 - 31
+Publish
+update yargs to version 3 . 26 . 0
+fix lint
+update ghost - gql to version 0 . 0 . 6 ( )
+add gatsby - starter - kentico - cloud ( )
+add support for elementContains ( )
+add gatsby - starter - tailwind2 - emotion - styled - components ( )
+update README . md ( )
+add ngAria . aria ( )
+add gatsby - starter - elemental ( )
+fix typo ( )
+Fix jest . isolateModules ( )
+use mkdirSync instead of mkdirSync
+update dependency @ cypress / react - tooltip to version 0 . 5 . 3 ( )
+support ` Array # push ` ( )
+add announcing gatsby - cloud ( )
+publishPackagesLocallyAndAndInstall ( )
+fix lint
+Publish
+Add Delicious Simplicity L ( )
+Add missing czech language locale
+fix typo
+update lint - staged to ^ 9 . 4 . 2
+Add Enterprise Gatsby ( )
+fix typo ( )
+useCustomEffect ( )
+update CONTRIBUTING . md
+update dependency semantic - release to v15 . 6 . 3
+update 5 . 3 . 13
+update dependency enzyme to version 3 . 8 . 0 ( )
+repro
+update dependency license - checker to version 19 . 0 . 0 ( )
+add example site for - square - starter ( )
+add click listener to system tray manager
+repro
+add skip - npm option ( )
+Add Stitch Fix site ( )
+add ` docArr . elProp ` ( )
+Add tooltip to status bar
+Add Serverless Framework Pro ( )
+add z - index to anchor container
+Publishing a plugin to the library ( )
+update markdown - it to version 11 . 0 . 0 ( )
+add sampleSiteForExperiment ( )
+update eslint - plugin - jest to ^ 22 . 9 . 0 ( )
+add NGOSANG_TRACKERS_BEST_IP_URL ( )
+prevent scrolling when pressing spacebar
+add preAssignBindingsEnabled ( )
+Publish
+fix typo
+Publish
+add vue - cli - plugin - ( )
+add typescript_failing_spec ( )
+update is - windows - bash to version 1 . 0 . 2 ( )
+add gatsby - source - drupal plugin ( )
+update README . md
+update knex - migrator to version 2 . 0 . 0 ( )
+update dependency @ serverless / enterprise - plugin to ^ 3 . 8 . 3 ( )
+fix typo ( )
+add gatsby - image / withIEPolyfill ( )
+repro
+add chunkNamer ( )
+fix typo
+update all non - major dependencies ( )
+fix typo ( )
+fix typo
+add gatsby - starter - baysik - blog ( )
+use babel src - - out - dir ( )
+force PM2 to trigger garbage collection ( )
+add gatsby - config . js ( )
+add gatsby - design - tokens ( )
+Publish
+repro
+repro
+repro
+Fix ` file . contentType ` option ( )
+repro
+Add Gatsby Themes ( )
+Ensure git repository validation is skipped
+add @ serverless / utils / config ( )
+add $ setDirty and $ setPristine
+add consola and vue - meta ( )
+Publish
+add gatsby - source - wordpress - source - plugin ( )
+add theAnubhav site ( )
+update CONTRIBUTORS . md ( )
+add centralizing - your - sites - navigation ( )
+repro
+fix typo
+add www . markets . com ( )
+update guide / index . ngdoc ( )
+add support for projection ( )
+repro
+add $ parse : isecff
+add suggestion - bar
+Add VS Code Rocks ( )
+Add page with plugin search bar ( )
+replace unicodeLetters with unicodeLetters
+update dependency rollup to ^ 2 . 0 . 5 ( )
+add ` @ refs . inner . injected ` method ( )
+Add Health Brand Chooses Gatsby to Level - Up Its Modern Stack ( )
+repro
+add nuxt : module ( )
+fix typo ( )
+publish v2 . 0 . 0 - alpha - 27920200613002
+fix issues in README . md ( )
+update dependency pacote to ^ 9 . 5 . 0 ( )
+add deprecation warning
+add nuxt - build - indicator ( )
+add ` begin ` parameter to limitTo . js
+add O Vuex é um ( )
+update ECOSYSTEM . md
+fix typo ( )
+publish v2 . 0 . 0 - alpha - 28720200819002
+import default from . / . / . / . / . / . / . / . / . / . / . / . / . / . / . / . / . / . / . / . / . / . / .
+update README . md
+fix typo in document . toObject ( )
+add @ serverless / inquirer ( )
+repro
+update screenshot - mode ( )
+update dependency codename to 1 . 1 . 3
+fix typo
+Publish
+fix typo
+update abnerchou to v4 ( )
+Publish
+repro
+Publish
+update dependency thread - loader to ^ 2 . 0 . 0 ( )
+repro
+update bitgo to version 1 . 8 . 0
+repro
+Add Un Backend - Blog ( )
+Add GM Capital One site ( )
+update dependency vuex to ^ 3 . 4 . 0 ( )
+add gatsby - source - sanity ( )
+add lib / util / rcPath ( )
+Add contributing example sites ( )
+fix typo ( )
+add vue . config . js ( )
+use process . env [ NG1_BUILD_NO_REMOTE_VERSION_REQUESTS ]
+fix typo
+repro
+repro
+Replace ` VUE_CLI_SKIP_WRITE ` with ` VUE_CLI_SKIP_WRITE `
+repro
+publish - - canary without _any_ tags ( )
+fix lint
+add node lib / nodeserver / server . js
+add helpers to populate ( )
+add gatsby - starter - honey ( )
+Publish
+add angular - benchpress ( )
+add unaryFn / unaryFn ( )
+Publish
+use a return statement when calling callbacks ( )
+update dependency @ cypress / webpack - preprocessor to v5 . 4 . 4
+publish v2 . 0 . 0 - alpha - 24020191109001
+add open - tracing - config - file ( )
+add $ aria service
+repro
+add gatsby - starter - jest - enzyme - eslint ( )
+fix typo
+Publish
+repro
+Publish
+update dependency unist - util - find to ^ 1 . 0 . 2 ( )
+Publish
+Add Raconteur Careers ( )
+publish v2 . 0 . 0 - 28720200819002
+add gatsby - develop ( )
+add wp - rest - polylang - pro ( )
+rename lodash - loader to mjs
+update eslint - plugin - jest to v22 . 9 . 0 ( )
+add support for cross - origin property ( )
+use vendorPrefix instead of vendorRegex
+add gatsby - creative ( )
+publish v1 . 7 . 6
+add dependency extends to tsconfig . json ( )
+fix typo
+add v - tooltip option ( )
+fix typo
+publish v2 . 0 . 0 - alpha - 24920191223005
+add remy @ remysharp . com ( )
+repro
+update dependency babel - plugin - remove - graphql - queries to v2 . 6 . 0
+publish v2 . 0 . 0 - 24120191114002
+fix typo ( )
+improve $ animate . leave
+repro
+update npm - conf / lib / env - replace
+add lighthouse - badges ( )
+repro
+update dependency rollup to ^ 2 . 0 . 6 ( )
+update migrating - from - v3 ( )
+fix typo ( )
+Add client - only routes ( )
+add $ setSubmitted to form . FormController
+fix typo ( )
+add plugins . mongoosejs . io ( )
+Add new gatsbyjs prototypes ( )
+fix typo ( )
+update dependency remark - mdx to ^ 1 . 6 . 18 ( )
+use good old HTML
+update CONTRIBUTING . md ( )
+add not and equal to config . yml ( )
+update styled - jsx to version 0 . 2 . 2 ( )
+use React Router instead of React Router ( )
+add pug ( )
+publish v2 . 0 . 0 - 28720200819001
+repro
+fix typo in README . md ( )
+update dependency octokit / rest to v16 . 15 . 0
+Publish
+add message - actions - ellipsis ( )
+add ` session ` option ( )
+don ' t update the option when it is disabled
+add ` - - no - verify ` option ( )
+fix lint
+add hooks to pageOptions ( )
+dropping support for Node 6 ( )
+update dependency @ types / lodash to version 4 . 14 . 120 ( )
+repro
+update dependency mobx to version 5 . 11 . 0 ( )
+don ' t copy event handlers in case of multiple events
+repro
+update styled - jsx to version 0 . 5 . 6 ( )
+fix typo
+add cldr . unicode . org / index / cldr - spec / plural - rules
+fix typo ( )
+fix typo
+update karma - coverage to version 0 . 5 . 3 ( )
+add v - tooltip to project nav ( )
+update npm - packlist to ^ 1 . 4 . 1 ( )
+fix typography . md ( )
+Publish
+add viewAdded ( )
+Publish
+update enzyme - adapter - react - 16 to version 1 . 7 . 1 ( )
+fix ` pathToCheck ` to ` pathToCheck `
+add snapshot command ( )
+update validator to version 5 . 4 . 0
+isNaN ( o1 )
+fix typo ( )
+update vue - template - compiler / README ( )
+update grunt - contrib - connect to version 1 . 0 . 2 ( )
+update dependency @ types / semver to ^ 7 . 3 . 4 ( )
+add 5 . 2 . 18
+fix gatsby - image . md ( )
+fix typo
+repro
+publish v2 . 0 . 0 - alpha - 23020190919001
+fix typo
+update proxyquire to version 1 . 7 . 10
+add categories . yml ( )
+add Mongoose [ documents ] ( )
+update bluebird to ^ 3 . 0 . 2 ( )
+fix typo
+don ' t add nullOption ( )
+fix typo
+update grunt - contrib - jshint to version 0 . 12 . 0 ( )
+update dependency vue to v2 . 6 . 0 ( )
+update dependency vue - router to v3 . 0 . 1
+add babel - preset - gatsby - package ( )
+add constantWatchDelegate in parse . js
+update 5 . 0 . 0 - rc2
+update webpack - client . config . js
+update README . md ( )
+repro
+update dependency graphql - tools to ^ 6 . 0 . 1 ( )
+Add opencollective sponsors ( )
+update babel - eslint to v6 ( )
+Clear all data in local storage
+add pm2_home to launchDaemon
+Publish
+add gatsby - plugin - sharp ( )
+add protocol manager ( )
+repro
+repro
+add ` justOne ` option ( )
+fix typo ( )
+add $ doCheck example
+update pluginCreatorName to pluginCreatorId ( )
+fix typo in filter . js
+update @ ls - lint / ls - lint to ^ 1 . 9 . 2 ( )
+add h3 # callback Callback ( )
+use cache instead of cache . get ( )
+repro
+Publish
+add example of ` fromJSON ( ) `
+fix typo
+update dependency oauth2orize to version 1 . 3 . 0 ( )
+fix typo ( )
+fix typo
+add how Gatsby does high - impact ( )
+repro
+add support for ` $ browser `
+add ` - - - ` to printer - markdown . js
+update faq . md ( )
+add gatsby - starter - typescript - deluxe ( )
+update loader - utils to version 1 . 1 . 0 ( )
+update README . md ( )
+add plugin link ( )
+adjust min - width to 320px
+update dependency dev to 7 . 8 . 3 ( )
+add gatsby - transformer - screenshot ( )
+add dawnlabs . io ( )
+add gatsby - image - wrapper ( )
+add v10 . 16 . 3
+add bufferCommands option ( )
+fix typo in Rakefile
+update dependency @ cypress / webpack - preprocessor to version 4 . 1 . 5 ( )
+publish v2 . 0 . 0 - alpha - 26720200326001
+add error handling for proxy requests ( )
+Publish
+update @ serverless / components to version 2 . 30 . 10 ( )
+repro
+fix typo
+update dependency vue - no - ssr to ^ 1 . 1 . 0 ( )
+Publish
+update dependency coffeeify to version 3 . 0 . 1 ( )
+add angular - touch . js
+Publish
+fix typo ( )
+add tengkuhafidz - websheets - generator ( )
+Publish
+handle 404 and 401 ( )
+update algoliasearch to ^ 4 . 8 . 3 ( )
+repro
+Publish
+fix typo ( )
+update config . lastOpenProject to undefined ( )
+add gatsby - design - tokens ( )
+use resolveRouteComponents ( )
+Publish
+fix typo
+fix typo ( )
+Publish
+update version to 1 . 0 . 0rc2 ( )
+pulse - till - done ( )
+publish v2 . 0 . 0 - 22420190823021
+add babel - preset - vue - app ( )
+update ngMessageFormat / messageFormatCommon
+update dependency debug to v4 . 1 . 1
+Add Fox Circus site ( )
+repro
+fix typo ( )
+add require - scripts to publish ( )
+update ssl - root - cas to version 1 . 3 . 1
+repro
+add gatsby - gatsby - images ( )
+add uxworks . org ( )
+repro
+update travis - ci to mermaid - js ( )
+add core : paste - and - match - style
+fix prepatch
+use asyncData instead of asyncData
+Publish
+update snap - shot - it to 7 . 9 . 1 ( )
+allow seperator to be overridden
+add helper for ` dropCollection ( ) `
+update dependency sort - package - json to ^ 1 . 39 . 1 ( )
+add vue - cli - plugin - e2e - nightwatch ( )
+add support for requestInterceptors and responseInterceptors
+fix typo
+update default - gateway to ^ 5 . 0 . 2 ( )
+add gatsby - plugin - netlify ( )
+fix typo ( )
+add gatsby - starter - sasslan ( )
+track usage of config flags ( )
+fix typo
+update CONTRIBUTING . md ( )
+add skipGit to lerna . json
+bump version . json files
+add BENCHMARK_DATASOURCE_LOCAL_PATH ( )
+update consola to ^ 2 . 2 . 0 ( )
+add cofnig . js ( )
+publish v4 . 11 . 2
+add root level resolvable ( )
+addBench ( )
+fix typo ( )
+Publish
+allow ` originalRequiredValue ` to be a function ( )
+add ` createMount ` ( )
+Publish
+repro
+add isToday ( )
+Publish
+update plugin - update ( )
+add childSchemas ( )
+add awesome - gatsby - resources ( )
+use ` requireModule ` instead of ` requireModule ( ) `
+add Tidelift ( )
+repro
+publish v2 . 0 . 0 - alpha - 28020200701003
+add gatsby - starter - prismic ( )
+add friendly - errors plugin ( )
+fix typo ( )
+add skip release ( )
+release 3 . 0 . 0 - rc . 2
+add 5 . 0 . 5
+fix typo ( )
+update homepage - ecosystem . js ( )
+add vue - router - add ( )
+update dependency @ babel / core to ^ 7 . 2 . 2 ( )
+addRemoveClassesPostDigest
+repro
+Publish lifecycle scripts ( )
+add simple - jwt - authentication plugin ( )
+fix typo in recipes . md ( )
+update dependency gatsby to version 2 . 5 . 3 ( )
+add x - ng - cloak
+update dependency gatsby - plugin - utils to ^ 0 . 2 . 31 ( )
+use stdio instead of stdio ( )
+update dependency data - uri - to - buffer to version 1 . 2 . 0
+update dependency image - size to version 0 . 7 . 1 ( )
+add support for pluralization and gender specific
+repro
+fix typo
+add gatsby - node . js ( )
+update dependency supertest to version 4 . 0 . 2 ( )
+add require ( )
+fix typo
+update gatsby - mail - app - shell ( )
+add SCE assists in writing code
+Installing CLI plugins ( )
+update stale . yml ( )
+fix typo in error messages ( )
+remove quotes around top - level strings ( )
+fix typo
+update dependency @ cypress / webpack - preprocessor to v4 . 1 . 1
+repro
+fix typo
+fix typo ( )
+update babel - plugin - module - resolver to version 2 . 5 . 0 ( )
+add gatsby - starter - newage ( )
+update babel - plugin - flow - react - proptypes to version 6 . 1 . 0 ( )
+add addClassImmediately ( )
+add ru / config / README ( )
+update recipes . md ( )
+Publish
+publish v2 . 0 . 0 - alpha - 27920200624002
+add context for vue - app
+add ` select ` to ` select `
+repro
+add $ scope - - ignore option ( )
+fix typo ( )
+Replace ` & ` with ` & ` with ` & ` ( )
+add gatsby - starter - code - notes ( )
+fix typo in http . headers ( )
+fix typo in inference metadata ( )
+update rollup to version 0 . 67 . 0 ( )
+add nested paths to schema . subpaths
+Publish
+use matchValue1 to matchValue2
+add schematypes . html ( )
+use strict - origin - when - cross - origin ( )
+fix typo
+update knex - migrator to version 1 . 1 . 1 ( )
+add eslint - loader ( )
+update dependency vuex to ^ 3 . 1 . 3 ( )
+add title to contributing links ( )
+publish v2 . 0 . 0 - alpha - 26920200401002
+repro
+fix typo ( )
+add graphql - runner . ts ( )
+add rs_name option for replset
+update gatsby 1 . 0 ( )
+throw error if cursor is closed
+Add Axcept - Visual Screenshot Testing ( )
+add popover component ( )
+fix typo
+repro
+update consola to ^ 2 . 5 . 6 ( )
+update 5 . 5 . 13
+update babel - preset - gatsby - package to v5 ( )
+update eslint - config - airbnb to version 4 . 0 . 0
+add gatsby - starter - grommet - file ( )
+update eslint - config to v3 ( )
+Publish
+Add invite - collaborator rule ( )
+repro
+fix typo ( )
+fix lint
+Ensure package names are unique ( )
+update webpack - hot - middleware to version 2 . 14 . 0 ( )
+repro
+Update git - commit - message
+add route . meta option ( )
+fix typo
+update find - yarn - workspace - root to ^ 1 . 2 . 1 ( )
+Add Netlify Functions ( )
+repro
+update README . md
+ensure class name is read - only
+update dependency @ octokit / rest to v15 . 8 . 1
+add gatsby - starter - nehalem ( )
+update dependency @ octokit / rest to v15 . 13 . 1
+repro
+update webpack to ^ 4 . 0 . 0 ( )
+Save task queue after unload
+add require ( )
+use angular . isDefined instead of angular . isDefined
+add $ parse : isecdom
+release 4 . 7 . 5
+add gatsby - ts - apollo - starter ( )
+Add account - switcher - dropdown ( )
+repro
+add DOM - related variables ( )
+use ` $ { id } ` ( )
+Add manu . ninja ( )
+update typescript to version 3 . 5 . 3
+add support for ` ngMessage ` directive ( )
+add lerna import ( )
+add gatsby - source - shopify ( )
+add ` bindToController ` directive ( )
+add lighthouse - footer ( )
+update babel - preset - latest to version 6 . 24 . 0 ( )
+remove quotes around top - level strings
+import customLoaders from ' vue - loader '
+install plugin only once ( )
+add jest snapshot v1 ( )
+use angular . isUndefined instead of angular . isUndefined
+Publish
+Add Gatsby + Shopify + Prismic ( )
+fix lintOnSave ( )
+Add Publisher Ads Audits ( )
+add custom icon options ( )
+add max - connection - per - server ( )
+add babel - preset - app ( )
+use consola in node_modules ( )
+fix spellchecker . getAvailableDictionaries ( )
+fix typo ( )
+update render . prototype . isRenderable ( )
+add dependency to install . js ( )
+add checkDeclarations ( )
+update README . md ( )
+use cheerio instead of cheerio ( )
+fix typo ( )
+Add select - read command ( )
+add nested arrays ( )
+add vue - cli - service ( )
+Publish
+Add checkWorkingTree to publish commands
+update prop - types to version 15 . 5 . 9 ( )
+fix typo
+add ` options . session ` option ( )
+Publish
+make sure key filters apply to KeyboardEvents
+fix typo ( )
+fix typo
+add support for async ( )
+add checkDuplicateNuxt ( )
+add - 404 - page ( )
+update dependency peerDependencies to ^ 2 . 24 . 79 ( )
+Add forceFullSync option ( )
+add watchEnableUPnPChange ( )
+Add theme - gatsbyjs - org ( )
+remove excessive OPTGROUPs from select
+Add gatsby - preview - beta ( )
+add gatsby - starter - material - album ( )
+update node - fetch to version 2 . 6 . 0 ( )
+use ` item . subItem as item . label `
+update standard - engine to version 9 . 0 . 0
+update dependency unspecified - version to 1 . 0 . 0
+Publish
+fix typo
+publish v1 . 6 . 2
+add disallowSpaceAfterPrefixUnaryOperators and disallowTrailingWhitespace
+repro
+Update syncback - category - task ( )
+repro
+fix typo
+add ` trackById ` to ` trackByIdFn `
+use extensions in middleware . js ( )
+Add LaunchDarkly ( )
+repro
+update @ serverless / enterprise - plugin to ^ 3 . 8 . 1 ( )
+fix typo ( )
+remove unfamiliar chokidar version
+Publish
+add contributing code - contributions ( )
+fix typo ( )
+repro
+publish v2 . 0 . 0 - alpha - 27920200615002
+refactor cache - dir / loader . js ( )
+publish v3 . 0 . 0 - alpha - 24020191018013
+Publish
+add createNamespacedHelpers ( )
+update CONTRIBUTING . md ( )
+repro
+add test hashing function ( )
+cleanPositionalOperators in castArrayFilters
+repro
+fixtures - i - - coverage - F ( )
+Ensure npm client is available ( )
+add 5 . 0 . 3
+update atob to version 2 . 0 . 3 ( )
+update babel - plugin - module - resolver to version 2 . 6 . 0 ( )
+fix typo ( )
+update electron - positioner to version 7 . 0 . 2
+add content - type to request header ( )
+update cli . md ( )
+add ` jwt ` option ( )
+update csvtojson to version 2 . 0 . 10
+add $ browser # url ( )
+Add PerfReviews ( )
+release 2 . 23 . 0
+fix typo
+add http - exception - handler test ( )
+add ` redirected ` option to ` render ( ) `
+repro
+add devServerConfigFns to serve . js
+add gatsby - starter - blog ( )
+import thunk from redux - thunk
+rename package - 1 to package - 2 ( )
+update dependency vue - router to ^ 3 . 0 . 7 ( )
+add fastest - levenshtein ( )
+publish v2 . 0 . 0 - 24120191114004
+Replace ` MARKDOWN ` with ` MARKDOWN ` ( )
+add composer - action - bar - wrap ( )
+update eslint - config to version 1 . 0 . 1 ( )
+useTaobaoRegistry ( )
+repro
+add support for same - domain requests ( )
+use ` pruneLength ` for excerpts
+fix typo
+update caniuse - lite to v1 . 0 . 30000936 ( )
+1 . 3 . 2 cardiovasculatory - magnification
+update prettier - file - watcher ( )
+Publish
+convertCommaToLine toLine
+update knex - migrator to version 0 . 0 . 3 ( )
+fix typo ( )
+update dependency esm to ^ 3 . 2 . 17 ( )
+update hsl picker to version 0 - 9a - f
+add gatsby - prismic - starter - prist ( )
+fix lint
+use shell in index . js ( )
+repro
+add recipes - gatsby - image ( )
+update lodash to version 4 . 17 . 14 ( )
+repro
+update dashboard / cicd / preview - deployments
+fix ` includeChildren ` option ( )
+add $ scope to $ scope
+add karma - phantomjs - launcher ( )
+fix typo ( )
+Add Hetzner Online Community ( )
+update proxyquire to version 1 . 7 . 3 ( )
+fix issues with empty dump file
+update dependency rollup - plugin - babel to ^ 4 . 3 . 2 ( )
+add aria - hidden flag ( )
+add Nuxt . js Team ( )
+repro
+Publish
+repro
+add custom templates to watcher
+fix typo
+fix typo ( )
+add advanced - span - configuration ( )
+repro
+update dependency jiti to ^ 0 . 1 . 19 ( )
+Add adam . ai ( )
+update dependency @ rollup / plugin - commonjs to ^ 17 . 0 . 0 ( )
+fix typo
+add asyncComponent ( )
+fix typo ( )
+update fs - extra to ^ 5 . 0 . 0 ( )
+repro
+use socket . close ( )
+add 5 . 0 . 4
+use hyphenate ( )
+allow when ( Minus )
+repro
+repro
+now working on 4 . 9 . 10
+update nodejs_version to version 12 ( )
+use loadNuxtConfig ( )
+add gatsby - plugin - netlify - cms ( )
+update node - fetch to version 2 . 6 . 0
+Remove azure - pipelines ( )
+Add Glug - Infinite site ( )
+repro
+fix typo
+repro
+add homepage - logo - banner ( )
+add test for partitionCycles ( )
+fix typo
+add separateConfig ( )
+repro
+add contributing - to - gatsby - docs ( )
+fix typo ( )
+add $ http . request to pendingRequests
+Publish
+add gatsby - typescript - starter - minimalist ( )
+update dependency webpack - dev - middleware to ^ 3 . 5 . 2 ( )
+fix typo
+publish v2 . 0 . 0 - alpha - 26920200422003
+update graphql - tools - fork to ^ 8 . 0 . 1 ( )
+repro
+update strip - ansi to ^ 5 . 0 . 0 ( )
+Replace isCreatedByStatefulCreatePages with isCreatedByStatefulCreatePages
+fix typo ( )
+Publish
+Publish
+add manual www approval to config . yml ( )
+update dependency eslint - utils to ^ 1 . 3 . 1 ( )
+add global - css - without - a - layout - component
+repro
+refactor eslintrc . js
+add gatsby - acroyoga - video - explorer ( )
+update lodash to version 4 . 14 . 2 ( )
+repro
+repro
+add template - starter - page ( )
+repro
+add consola . success ( )
+repro
+use angular . noop instead of angular . noop
+fix typo
+add 4 . 10 . 6
+handleDownloadComplete ( )
+add pubnub to BACKERS . md ( )
+update moment to version 2 . 17 . 0 ( )
+add gatsby - tailwind - emotion - starter ( )
+update eslint to version 2 . 5 . 1
+Publish
+update bitgo to version 0 . 11 . 72 ( )
+fix typo
+update boxen to ^ 2 . 1 . 0 ( )
+don ' t use ` value ` instead of ` oldValue `
+add gatsby - transformer - remark ( )
+Publish
+repro
+add jpg and webp to process file ( )
+add cypress : webpack : stats ( )
+update bitgo to version 0 . 11 . 71 ( )
+add vue - cli - plugin - e2e - nightwatch ( )
+update commands . md ( )
+fix typo
+Resolve user id to username ( )
+update dependency @ reach / router to ^ 1 . 0 . 0 ( )
+use npa . resolve ( ) instead of npa . resolve ( )
+update gatsby - transformer - json to v1 ( )
+use JSON . parse instead of JSON . parse ( )
+don ' t use ` container ` instead of ` _prevVNode `
+update gatsby - image / README . md ( )
+add gatsby - for - apps ( )
+publish v1 . 8 . 15
+don ' t emit again ( )
+update dependency semver to ^ 7 . 3 . 2 ( )
+add lighthouse - config - path ( )
+add markdown - preview - enhanced ( )
+fix typo ( )
+add withWebp option ( )
+add 5 . 2 . 9
+add printListItem ( )
+add geospatial queries ( )
+update express - hbs to version 1 . 0 . 2 ( )
+update dependency @ rollup / plugin - node - resolve to ^ 7 . 0 . 0 ( )
+add gatsby - source - prismic ( )
+add ` ng - hide ` attribute ( )
+use async . queue instead of async . queue
+Publish
+prevent defaultPrevented when $ locationChangeStart is called
+Publish
+PublishCommand . refresh ( )
+Deploying to S3 and CloudFront ( )
+add www . gatsbyjs . com to starters ( )
+fix typo
+fix typo
+fix typo in injector . ts ( )
+repro
+repro
+bump - remove - snapshot ( )
+fix typo
+update launch - editor to ^ 2 . 2 . 1 ( )
+add APP_THEME to config manager ( )
+allow ` paramDefaults ` to be overridden ( )
+repro
+fix typo
+Publish
+publish v2 . 0 . 0 - alpha - 28020200630002
+add gatsby - plugin - manifest ( )
+remove trailing slash ( )
+Resize activity bar to closed height ( )
+add debouncedQuit ( )
+update react - event - listener to version 0 . 5 . 0
+use Taro . createContext instead of Taro . createContext
+fix typo
+use render - html for page - data ( )
+don ' t set watch to false ( )
+Add PygmalionPolymorph ( )
+fix typo ( )
+update vue - cli - version - marker to version 3 . 5 . 0
+add GatsbyImageSharpFluidLimitPresentationSize ( )
+use __proto__ in Angular expressions ( )
+update dependency chokidar to ^ 3 . 0 . 0 ( )
+fix typo
+add dependency nylas - exports ( )
+fix typo in README ( )
+fix typo
+update dependency unified to ^ 9 . 2 . 0 ( )
+update vue - cli - service ( )
+remove trailing \ ? ( )
+fix typo ( )
+update dependency gatsby to ^ 2 . 0 . 57 ( )
+update superagent to version 2 . 2 . 0 ( )
+Publish
+add ` setDefaultsOnInsert ` option ( )
+add gatsby - plugin - sharp fluid
+update dependency @ babel / preset - env to ^ 7 . 3 . 4 ( )
+add path - prefix to pathnames ( )
+fix typo in mode - and - env ( )
+add eslint - disable - next - line
+update cookie - parser to version 1 . 4 . 4 ( )
+fix typo
+update CONTRIBUTING . md
+update superagent to version 2 . 1 . 0
+Replace ` @ props ` with ` @ state `
+Publish
+add index - jq . html to RDWR
+add timing option ( )
+update yarn . lock to version 7 . 0 . 3
+fix typo
+add postcss to custom dirs ( )
+publish v1 . 9 . 6
+update dependency npm - lifecycle to ^ 2 . 1 . 0 ( )
+add core - gatsby - apis section ( )
+add api - reference - doc - block ( )
+showOnboardingWindow ( )
+fix typo ( )
+add gatsbygraphql - queries - in - gatsby ( )
+add doc ( s )
+repro
+add letsdodish . com ( )
+use db / 27017 ( )
+update karma - coverage to ^ 1 . 0 . 0 ( )
+add gatsby - starter - material - business - markdown ( )
+add schematypes . jade ( )
+fix typo
+add npm install - - global yarn
+Add ` Fn : : GetAtt ` property ( )
+bump banner ( )
+add blogerist . netlify ( )
+add gatsby - gatsby - gatsby - gatsby ( )
+add peek : function ( ) {
+fix typo ( )
+repro
+ignore non - major dependencies ( )
+repro
+update deprecations . md ( )
+fix typo
+update README . md ( )
+update system tray ( )
+update fly to version 2 . 0 . 5 ( )
+Publish
+update @ vue / test - utils to version 1 . 0 . 0 - beta . 29 ( )
+update cookie to version 0 . 3 . 1 ( )
+add deprecate - utils . coffee
+fix typo ( )
+Publish
+rename plugin . list to plugin . search ( )
+update eslint - config - airbnb to version 3 . 0 . 0 - beta . 9
+update dependency @ cypress / bumpercar to version 2 . 0 . 6 ( )
+add ` transform ` option for embedded schema types
+add content - panel ( )
+add gatsby - theme - blog ( )
+repro
+import ipc from ' ipc '
+add SAUCE_ACCESS_KEY option ( )
+update rollup to version 0 . 58 . 0
+update fly to version 2 . 0 . 6 ( )
+add dry - run option ( )
+fixtures - i - - coverage ( )
+add standard HTML text input with angular data binding
+add ru . ru . ru . ru . ru . ru . ru ( )
+revert to develop status server ( )
+update dependency rollup to ^ 2 . 16 . 1 ( )
+fix typo
+Add Mr & Mrs Wilkinson ( )
+add plugins to Mongoose
+add custom attributes to link element
+Add visitrestore . com ( )
+repro
+update dependency vue to ^ 2 . 6 . 10 ( )
+Publish
+add map - block - leaflet plugin ( )
+Add Startarium ( )
+update dependency caniuse - lite to 1 . 0 . 30001032 ( )
+do not print trailing spaces for empty list item
+update blog blog blog ( )
+add eslint - plugin - vue ( )
+Add Smoopit ( )
+add support for readConcern
+repro
+add ` $ { punctuationCharRange } ` ( )
+add verifyNoOutstandingExpectation to verifyExpectations
+repro
+add example for gatsby - plugin - google - analytics ( )
+fix typo ( )
+add gatsby - plugin - benchmark - reporting ( )
+fix typo
+fix typo
+fix typo
+Publish
+add helper for Atlas Text Search
+repro
+use String . fromCharCode instead of String . fromCharCode
+Replace state since it ' s a function
+add npm install - - global yarn
+fix typo
+fix typo
+add unit - test - jquery
+update dependency @ nuxt / components to ^ 1 . 2 . 1 ( )
+add fs - extra ( )
+add gatsby - starter - material - ui ( )
+update dependency semver to ^ 7 . 1 . 0 ( )
+add locStart and locEnd to parser markdown ( )
+publish - no - verify - access option ( )
+repro
+rename redirects . js to redirects . ts ( )
+add GatsbyMDXScopeContext . Provider ( )
+add Iron to modern browsers ( )
+repro
+repro
+remove trailing newline from file ( )
+add support for tileload start
+update qs to version 6 . 2 . 0 ( )
+Publish
+fix typo
+update dependency gatsby - transformer - documentationjs to ^ 4 . 0 . 2 ( )
+update dependency @ types / babel__core to ^ 7 . 1 . 9 ( )
+Publish
+update gatsby - core - philosophy ( )
+add retainKeyOrder option to retainKeyOrder ( )
+fix typescript fork test ( )
+import type { EventName } from ' shared / ReactTypes '
+fix typo
+Publish
+Add Gareth Weaver ( )
+repro
+update CONTRIBUTING . md
+add gatsby - airtable - advanced - starter ( )
+add link to ngAria
+update dependency dependencies to version 1 . 0 . 0
+add 4 . 4 . 1
+repro
+add file extension ( )
+repro
+Publish
+Add Gatsby starter netlify docs ( )
+repro
+allow $ sce value to be null ( )
+use data / db / 31000 ( )
+add interactor test ( )
+use mockNpmPack ( )
+add gatsby - typescript - starter - default ( )
+fix typo ( )
+add configuring - usage - with - plugin - options ( )
+fix typo
+Publish
+repro
+Publish
+repro
+update prop - types to version 15 . 7 . 1 ( )
+publish v2 . 0 . 0 - alpha - 28520200811001
+add eslint - disable camelcase ( )
+add 4 . 13 . 5
+use resolveModule ( )
+add ADD_TASK_TYPE ( )
+add gatsby - plugin - mdx - utils ( )
+add module . exports ( )
+fix lint
+repro
+update dependency browserslist to v4 . 4 . 2
+repro
+add warpPlusEvent ( )
+update README - CN . md ( )
+Publish
+update gdocs . js ( )
+update babel - preset - react to version 6 . 23 . 0 ( )
+add gatsby - source - graphql ( )
+update card to version 1 . 3 . 2 ( )
+publish v2 . 0 . 0 - alpha - 25120200103003
+add readme for plugin ( )
+update dependency registry to v1 ( )
+update dependency react - redux to ^ 7 . 1 . 1 ( )
+fix report . info ( )
+repro
+use ` new db . model ( foo ) ` instead of ` new db . model ( bar ) `
+add docs - keywords ( )
+fix typo in husky . config ( )
+add childScope to nextBlockOrder
+Publish
+fix typo
+add testPluginOptionsSchema ( )
+fix typo ( )
+use proxyResponse instead of proxyResponse ( )
+update version to version 1 . 0 . 0
+add npm install - g bower ( )
+Publish
+Add Connectors ( )
+update 1 . 2 . 4
+add example for ` ngModel . NgModelController `
+add module - loading - dependencies ( )
+repro
+update react - hubspot - form to ^ 1 . 3 . 7 ( )
+add example on nix
+use JSON . parse instead of JSON . parse ( )
+repro
+add pluginOptionsSchema ( )
+Publish
+repro
+add gatsby - bootstrap - italia - starter ( )
+update version to version 0 . 10 . 6
+update version to 1 . 0 . 0rc6
+add gatsby - plugin - sharp ( )
+update yarn . lock ( )
+repro
+use cheerio instead of cheerio
+fix typo ( )
+use resolve ( ) to resolve ( )
+add gatsby - mdx ( )
+update grunt - saucelabs to version 9 . 0 . 0 ( )
+fix lint
+add angular . scenario . output ( )
+update demo - serverless to version 1 . 0 . 0 ( )
+add semantic - ui - docs - gatsby ( )
+add url search parameters to README . md ( )
+fix typo ( )
+add support for Firefox 21 ( vojta )
+update dependency @ vue / cli - plugin - babel to ^ 4 . 0 . 0 - alpha . 4
+update favicon . ico ( )
+fix lint
+repro
+fix typo
+use msie when internet explorer is being used
+Add Onramp ( )
+update fs - extra to ^ 8 . 1 . 0 ( )
+add tsDeclareKeyword to declare global ( )
+add paperleaf sponsors
+add www . mojo . is ( )
+update dependency graphql - tools to ^ 5 . 0 . 0 ( )
+Publish
+Publish
+add gatsby - starter - paperbase ( )
+add status bar ( )
+add vim - 128px to editors . json ( )
+fix typo
+Publish
+reporters ( )
+update prompts to ^ 2 . 1 . 0 ( )
+add gatsby - portfolio - starter ( )
+Add gatsby - plugin ( )
+fix lintOnSave ( )
+update lodash to version 4 . 17 . 15 ( )
+use array . isArray instead of object
+publish v2 . 0 . 0 - alpha - 261020200402001
+repro
+Replace ` focusedThread ` with ` focusedThread `
+fix lint
+update gulp - jshint to version 2 . 0 . 3 ( )
+use ` next / constants ` ( )
+repro
+only check for components if user is running Node 8
+Add @ reach / router ( )
+Add AntV ( )
+use child_process . fork ( )
+add built - in filters ( )
+Publish
+repro
+update dependency @ reach / visually - hidden to ^ 0 . 1 . 2 ( )
+update dependency @ types / debug to version 0 . 0 . 31 ( )
+add attejuvonen . fi ( )
+mockPageData to mockResolvedValue ( )
+add root - manifest - only ( )
+fix typescript lint ( )
+release 4 . 5 . 8
+update moment - timezone to version 0 . 5 . 5 ( )
+release 1 . 4 . 0 - rc . 2
+update prettier to version 1 . 16 . 4 ( )
+replace hyphenate with \ B ( )
+fix typo ( )
+add prettier . format ( )
+use cloneVNodes instead of cloneVNodes ( )
+update dependency @ cypress / bumpercar to version 2 . 0 . 9 ( )
+add gatsby - source - contentful - download - local ( )
+repro
+update dependency eslint - plugin - react to v7 . 11 . 1 ( )
+add gatsby - starter - blog - theme
+add attrInterpolateDirective ( )
+fix lint ( )
+extend - node - type ( )
+use angular . forEach instead of angular . forEach
+add test - utils / dist to test - utils ( )
+update config cache
+add vue . config . js ( )
+add redux / plugin - runner ( )
+add gatsby - starter - instagram - baseweb ( )
+fix typo ( )
+add gatsby - starter - typescript - deploy ( )
+update react - docgen to v5 ( )
+fix typescript lint ( )
+update node - fetch to ^ 2 . 3 . 0 ( )
+add ng \ : view
+repro
+update loading - screen to ^ 2 . 0 . 0 - rc . 2 ( )
+repro
+Publish
+repro
+update styled - jsx to version 0 . 4 . 2 ( )
+add support for XMLHttpRequest . responseType ( )
+Publish
+Don ' t set shouldRefocusSidebarAccounts to true ( )
+fix typo in headersGetter ( )
+add v3 . 0 . 0 - alpha . 2
+update express to version 4 . 17 . 0 ( )
+update cy_scripts / deploy . js ( )
+applyGlobalMaxTimeMS ( )
+Add Artivest ( )
+repro
+remove ` _skipMinimizeTopLevel ` option ( )
+fix typo
+repro
+Publish
+use createSchemaCustomization ( )
+use withPages instead of withTheme ( )
+support baseUrl option in tsconfig . json ( )
+repro
+fix typo ( )
+update http - status - codes to version 1 . 3 . 2 ( )
+update dependency image - size to version 0 . 8 . 3 ( )
+add ` npm_lifecycle_event ` option ( )
+use strict mode ( )
+update gatsby - starter - minimal ( )
+add node - options option ( )
+add meta option for router base ( )
+use path . resolve ( ) instead of path . resolve ( )
+update dependency version to version 0 . 8 . 3
+Add 10 Reasons Why Developers ( )
+fix typo
+Add AtomLinter ( )
+add support for computed members ( )
+Add Venus Lover ( )
+repro
+repro
+fix typo
+fix typo
+update task progress
+repro
+add hook for module ( )
+Publish site ( )
+fix typo
+add apollo - link ( )
+update all non - major dependencies ( )
+use Mongoose [ Promise ] ( )
+use angular . toJson instead of angular . toJson ( )
+update axios to ^ 0 . 18 . 0 ( )
+Add Reactgo blog ( )
+update submit - to - creator - showcase
+repro
+Add haxzie . com ( )
+fix typo ( )
+repro
+update grunt - mocha to version 0 . 4 . 15 ( )
+add gatsby - for - agencies ( )
+publish v2 . 0 . 0 - alpha - 25020191230005
+Publish
+fix typo ( )
+fix typo ( )
+update config . yml ( )
+fix typo ( )
+use ` $ http ` instead of ` $ cacheFactory ` ( )
+throw error if callback is not a function
+update guide mode - and - env . md ( )
+use serverlessBinary ( )
+add gatsby - style - guide ( )
+add gatsby - remark - responsive - iframe ( )
+repro
+add addCursorFlag
+repro
+fix typo
+fix typo
+fix typo
+update dependency rollup to version 2 . 26 . 2 ( )
+add rfc7946 section ( )
+update sauce - connect - setup to 4 . 5 . 4
+Add project dependency logo ( )
+use window . location instead of window . location
+add postProcessRecording ( )
+add css - loader ( )
+update README . md
+use Spinner instead of Spinner ( )
+add unicorn . io ( )
+publish v2 . 0 . 0 - alpha - 25420200108001
+repro
+Add gatsby - starter - dot ( )
+add vue - cli to config . js
+fix typo
+update find - webpack to version 2 . 1 . 0 ( )
+re - render messages
+remove PM2_SILENT flag
+repro
+update dependency zunder to version 6 . 3 . 2 ( )
+repro
+Add Google Sheets - Listing - Page ( )
+Publish
+Add Onramp ( )
+repro
+add support for full static routes ( )
+publish v2 . 0 . 0 - alpha - 23720191023001
+repro
+add gatsby - starter - material - emotion ( )
+repro
+fix autoprefixer ( )
+repro
+publish legacy - auth ( )
+add support for dayjs ( )
+update rollup to version 0 . 59 . 0
+update travis - ci . org to visionmedia ( )
+update axios to version 0 . 18 . 0
+publish - dist - tag ( )
+repro
+update dependency caniuse - lite to ^ 1 . 0 . 30001006 ( )
+don ' t call $ renderNgMessageClasses
+fix typescript ( )
+Publish
+repro
+repro
+update dependency is - wsl to ^ 2 . 2 . 0 ( )
+trackInlineObjectsInRootNode ( )
+publish v2 . 0 . 0 - alpha - 28920200827003
+Add Malice site ( )
+waitForAPI ( )
+update dependency @ serverless / enterprise - plugin to v4 ( )
+add vue - app - types ( )
+Add Fast Comments ( )
+add gatsby - - help ( )
+add special case for ` 1_2_3 ` ( )
+repro
+publish v2 . 0 . 0 - 26920200420002
+fix typo
+Publish
+fix typo ( )
+add job_title module ( )
+don ' t schedule flushAfterPaintEffects
+update dependency passport - ghost to 1 . 0 . 3 ( )
+add exclude - specific - files ( )
+add ngAria ( )
+Publish
+update friendly - errors - webpack - plugin to version 1 . 3 . 1 ( )
+fix typo ( )
+update cheerio to version 0 . 21 . 0 ( )
+Publish
+add ` populate ( ) ` call
+update dependency babel - jest to ^ 25 . 2 . 6 ( )
+add react - lighthouse - viewer ( )
+repro
+repro
+repro
+fix typo
+Add Fourpost site ( )
+update dependency ci - info to v1 . 6 . 0
+update dependency joi to version 6 . 9 . 0
+add export default function ( )
+update eslint - config - airbnb to version 3 . 0 . 2 ( )
+add issue # 419 ] ( )
+fix typo
+repro
+fix typo ( )
+add appcache . manifest ( )
+add gatsby - cli / lib / reporter
+use ` autoscroll ` as an expression
+repro
+repro
+add native - ad to browser ( )
+Publish
+diffSinceIn ( )
+add gatsby - link ( )
+Add gatsby - cloud - and - gatsby - take ( )
+add support for trustAsResourceUrl
+publish v2 . 0 . 0 - alpha - 22420190823022
+Add blog . nikodemdeja . pl ( )
+add support for private $ jqLite service
+publish v2 . 0 . 0 - alpha - 24720191216004
+use ` spawnWithArgs ( ) ` to spawn with args ( )
+update loader - utils to version 1 . 0 . 4 ( )
+add support for jQuery . context
+update readme . md ( )
+update styled - jsx to version 0 . 5 . 3 ( )
+add lighthouse - monitor ( )
+repro
+update typescript to ^ 3 . 2 . 4 ( )
+Show memory usage when listening ( )
+disable debug - data
+add test - user . ini ( )
+add ` mongoose . model ( ) ` parameter to mongoose . model ( )
+update typescript to version 2 . 9 . 2 ( )
+update gatsby - remark - images to version 3 . 0 . 12 ( )
+add get - ssl - cert ( )
+moveTaskFilesToTrash ( )
+Add Whipstitch Webwork ( )
+add modern mode ( )
+add defer . flushNext ( )
+update dependency gatsby monorepo ( )
+re : christkv / mongodb - core # 157
+don ' t trigger a re - rendering re - rendering
+add customParseFormat ( )
+add gatsby - plugin - netlify ( )
+update babel - loader to version 6 . 4 . 1 ( )
+update dependency webpack to ^ 4 . 39 . 3 ( )
+add gatsby - landing - page - starter ( )
+repro
+use https instead of openBrowser ( )
+update dependency react to v16 . 8 . 6 ( )
+remove functional component definition ( )
+fix typo
+fix status code for file protocol ( )
+add init - starter ( )
+fix typo
+update codecov to ^ 3 . 3 . 0 ( )
+Publish
+add space - between - x ( )
+Fix test tests ( )
+Publish
+update supertest - session to version 4 . 0 . 0 ( )
+fix typo
+add cursor flag
+repro
+update eslint - config - airbnb to version 3 . 2 . 0
+add vue - cli - service lint ( )
+add ` @ vue / cli - service ` plugin ( )
+repro
+update grunt - contrib - compress to version 1 . 4 . 0
+fix typo
+fix typo
+Remove error from reporter reporter ( )
+update cdn / asset - prefix . md ( )
+fix typo
+Add Patreon Blog ( )
+update dependency gatsby to ^ 2 . 24 . 73 ( )
+update 1 . 2 . 7
+update dependency @ types / node to v9 . 6 . 47 ( )
+add ` includeChildren ` option ( )
+use publicLoader . loadPage ( )
+add AwesomeTechStack ( )
+add ru / ru / vuex ( )
+add ` ngViewFillContentFactory ` directive
+update dependency cypress - example - kitchensink to version 1 . 5 . 6 ( )
+fix typo
+add gatsby - resp - image - background - image ( )
+update version to 1 . 1 . 1
+fix typo ( )
+Add Projektmanagementblog ( )
+add gatsby - source - contentful - snap ( )
+fix typo ( )
+update dependency sinonjs__fake - timers to v6 . 0 . 1 ( )
+repro
+fix typo ( )
+Publish
+Replace imgLoaded with imgCached with imgCached
+fix typo ( )
+fix typo
+update gatsby - recipes / recipes ( )
+update gatsby - recipes ( )
+fix lint
+fix typo
+Publish
+add defaultDescription to filterOptions ( )
+add lighthouse - lambda ( )
+add optimistic concurrency control ( )
+update dependency @ testing - library / react to ^ 7 . 1 . 12 ( )
+fix typo
+add vue - cli - service ( )
+repro
+publish v2 . 0 . 0 - alpha - 29920201130001
+use p - map to ensure Lerna files
+repro
+fix typo in gatsby - ssr ( )
+add gatsby - starter - typescript - pwa ( )
+Add Styled . a to Home Footer ( )
+make - diff - predicate ( )
+publish v2 . 0 . 0 - alpha - 22720190916001
+repro
+fix typo ( )
+add plugin to gatsby - source - wordpress ( )
+fix typo
+fix typo
+add duration to actions to emit ( )
+update should to version 8 . 3 . 2
+fix typo in index . js ( )
+update nock to version 8 . 2 . 1
+fix typo
+fix typo
+Publish
+remove discriminators option ( )
+fix typo
+update gatsby - config . js ( )
+add gatsbyjs . org / www / README . md ( )
+repro
+publish v2 . 0 . 0 - 24220191115006
+update starters to version 3 . 1 . 0
+add gatsby - theme - notes ( )
+fix typo
+disable ssr logs in client ( )
+add gatsby - minimal - blog - starter ( )
+update dependency vue - meta to ^ 2 . 2 . 0 ( )
+Publish
+add example for Socket . IO Chat
+Publish
+publish v2 . 0 . 0 - 24220191115005
+allow ` cancellable ` option to be used for multiple requests
+Publish
+Publish
+fix typo ( )
+fix typo ( )
+add mindkit . fr ( )
+use promiseOrCallback instead of promiseOrCallback
+update dependency jimp to version 0 . 14 . 0 ( )
+fix typo
+fix typo
+update dependency vue - apollo to ^ 3 . 0 . 0 - beta . 17 ( )
+add gatsby - source - filesystem ( )
+fix typo
+update dependency get - port to version 5 . 1 . 0 ( )
+update dependency graphiql - code - exporter to ^ 0 . 4 . 3 ( )
+fix typo
+check for updates
+update yarn . lock
+Publish
+Publish
+fix error handling ( )
+update eslint - plugin - cypress to version 2 . 10 . 3 ( )
+fix typo ( )
+re : gh - 6405
+Add Command Line Interface ( )
+use resolveAsset ( context , ' directives ' )
+remove ` host ` from copied headers ( )
+use mini - css - extract - plugin ( )
+fix typo
+fix typo ( )
+Publish
+update node - forge to version 0 . 10 . 0 ( )
+add 5 . 9 . 13
+add $ controller : ctrlreg
+Publish
+add test plugin manifest ( )
+update README . md ( )
+Add Subscribe Pro ( )
+add vue - ui - dark - mode
+add gatsby - plugin - subfont ( )
+repro
+add childrenHnComment ( )
+add error message to error parser ( )
+add thread - icon ( )
+add node paths to stack - trace ( )
+Fix ` @ refs . track ` ( )
+repro
+publish v2 . 0 . 0 - alpha - 26920200407004
+update dependency gatsby - image to v2 . 1 . 0 ( )
+update dependency cypress - react - selector to version 0 . 1 . 8
+Publish
+remove record confirm button
+fix typo ( )
+upgrade - - latest to nuxt ( )
+add support for poster attribute ( )
+Add Mixkit by Envato ( )
+add support for ` withCredentials ` ( )
+update prototyping . md ( )
+update dependency @ types / serve - static to ^ 1 . 13 . 5 ( )
+add terravera . com ( )
+repro
+update gatsby - source - contentful / src / __tests__ / __snapshots__
+repro
+update dependency jimp to version 0 . 9 . 3 ( )
+update globby to ^ 9 . 0 . 0 ( )
+add PhoneCat Tutorial App ( )
+repro
+use Promise . resolve instead of Promise . resolve
+Add GitHub Sponsors - enabled usernames ( )
+update dependency ink - box to ^ 1 . 0 . 0 ( )
+repro
+add $ log console and $ sniffer service
+update dependency . nix to vim
+fix typo ( )
+fix typo in README ( )
+update pm2_env . version to version [ ci skip ]
+add postcss - loader option ( )
+add inline - styles - user - style - sheets ( )
+repro
+add dev option for nuxt ( )
+publish v2 . 0 . 0 - alpha - 25420200108005
+repro
+Publish
+use reporter instead of reporter ( )
+add gatsby - source - mongodb - README ( )
+Publish
+update loader - utils to version 0 . 2 . 17 ( )
+add gatsby - plugin - guess - js ( )
+Publish
+update all non - major dependencies ( )
+use EventEmitter instead of EventEmitter . setMaxListeners
+Add Château de Morey ( )
+update socket . io to version 2 . 3 . 0 ( )
+update dependency theme - ui to version 0 . 4 . 0 - rc . 14
+add synapsesearch . nz ( )
+use $ httpBackend withCredentials ( )
+Add Gatsby community ( )
+Remove non - draft messages ( )
+update vuepress / config . js ( )
+add lewis - gatsby - starter - i18n ( )
+bump gatsby - cli - version ( )
+add box - sizing border - box
+add vue - loader - vuejs ( )
+add vue - list - item - info
+fix typo
+Add St . Jude Cloud ( )
+repro
+add pm2 - deploy ( )
+fix typo
+Add themes webinar to banner . js ( )
+use ` img / [ name ] . [ ext ] ` ( )
+add support for ngAria interfaces
+update dependency @ webassemblyjs / ast to v1 . 5 . 12
+add list - group - item - variant ( )
+publish v2 . 0 . 0 - 26920200420001
+fix typo
+use $ includeContentLoaded instead of $ includeContentLoaded
+Publish
+fix typo
+repro
+Add DeepMay . io ( )
+fix typo in orderBy . js
+update version in LernaJson
+repro
+repro
+update dependency babel - plugin - remove - graphql - queries to v2 . 7 . 1
+prevent $ locationChangeStart when $ browser url changes
+Replace onLogAction with onLogAction
+add support for ` selector ` argument
+Add Tricks & Commands ( )
+add bootstrap - command - prepublish ( )
+update starters / blog / package - lock ( )
+update bootstrap to version 4 . 3 . 1 ( )
+Publish
+install root package only ( )
+Publish
+fix typo ( )
+repro
+fix typo
+add createProxyEntry to prepareProxy ( )
+allow aHrefSanitizationWhitelist to be configured
+repro
+update dependency is - valid - path to ^ 0 . 1 . 1 ( )
+applyAsyncId to applyAsyncQueue
+repro
+repro
+use good old HTML
+update dependency got to ^ 10 . 0 . 3 ( )
+add services to redirects writer ( )
+add ` % s ` to meta_generator . js
+add plugin to advancedFormat
+Publish
+use shallowCopy instead of shallowCopy
+add vuejs / vue - cli / issues / 3539
+fix typo ( )
+use v8 - compile - cache ( )
+Remove trailing \ n \ r ( )
+add ngAnimateSwap directive
+release 5 . 6 . 9
+Publish
+add vue - cli - service test ( )
+update vue - loader to vue - loader ( )
+add progress bar ( )
+rename disabled plugin to disabled plugin ( )
+add class to list tags ( )
+update dependency caniuse - lite to ^ 1 . 0 . 30001030 ( )
+repro
+fix typo ( )
+add vue . config . js ( )
+Publish
+add warning in adding - search - with - algolia ( )
+Publish
+update regenerator - runtime to ^ 0 . 13 . 2 ( )
+fix typo
+add support for applyAsync ( )
+repro
+add siteimprove . com ( )
+repro
+fix typo
+update tape to version 4 . 2 . 0
+update vue / test - utils to ^ 1 . 0 . 0 - beta . 29 ( )
+fix typo ( )
+add ` NUXT_ENV_ ` option to process . env ( )
+add lighthouse - gh - reporter ( )
+add NYLAS_GITHUB_OAUTH_TOKEN ( )
+Add Heading 2 and Heading 4 ( )
+update index . md ( )
+add support for custom toString method
+add ` ng - keypress ` ( )
+repro
+remove unused presets ( )
+remove unused file ( )
+fix typo
+update vue - template - compiler to ^ 2 . 6 . 10 ( )
+add schema - level to query . select ( )
+add support for DOM . enable ( )
+update dependency enzyme - adapter - react - 16 to 1 . 9 . 0 ( )
+update dependency eslint - plugin - import to v2 ( )
+update jsdom to version 14 . 1 . 0 ( )
+repro
+update js - cookie to version 2 . 2 . 0 ( )
+fix typo ( )
+add slog to run sift ( )
+add gatsby - recipes / chakra - ui ( )
+add vue - cli - 6b0a6 ( )
+fix typo ( )
+use compilerOpitons ( )
+update dependency @ cypress / xvfb to v1 . 2 . 3 ( )
+skip arrays of document arrays
+repro
+add homepage - newsletter ( )
+add Calibre ( )
+update ngComponentRouter / Router . js
+repro
+repro
+re : # 9080
+Add command alias ( )
+Add c3LabelComponentCache to ThreadListParticipants
+update engines in renovate . json
+add hover and active buttons
+add meta to sourceNodes ( )
+Add Adam Bowen ( )
+update test - all - keymetrics - features
+fix lint
+Use Transcluded Directives ( )
+add Avatar ( )
+don ' t deploy from PRs and only from default branches
+update jquery to version 1 . 12 . 0 ( )
+update Readme . md ( )

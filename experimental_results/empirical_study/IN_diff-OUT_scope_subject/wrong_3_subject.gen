@@ -1,0 +1,2174 @@
+add gatsby - link ( )
+Don ' t cache person if person is empty ( )
+add collectCoverageFrom to jest . config . js ( )
+move popoverLeft to center ( )
+use ` ngLocale ` instead of ` ngLocale ` ( )
+add localeData ( )
+fix typo
+change icon to folder . png ( )
+add run : xvfb - run - - auto - servernum
+repro
+update dependency @ ^ 0 . 4 . 1
+fix PM2_PROGRAMMATIC ( )
+fix typo
+update version to 4 . 4 . 11
+fix lint
+add postcss - plugin - constparse ( )
+update travis . yml ( )
+remove unnecessary space in SCSS variable arguments
+add node_js to travis . yml ( )
+remove client addons
+add check it out on GitHub
+update electron - to - chromium to 1 . 3 . 248 ( )
+update manualLowercase and manualUppercase to manualLowercase
+update dependency svgo to ^ 1 . 3 . 0 ( )
+update advanced_schemas to v4 . 13 . 9
+update www to v2 . www ( )
+add scaling - issues . md ( )
+remove old file mode 100644 ( )
+update www - public_dir_1 to www - cache_dir_1
+fix typo
+use ` urlHash ` instead of ` urlHash `
+wait for router wrapper after navigation to regular page ( )
+add tokenizing - text - field ( )
+repro
+add postcss plugin ( )
+add export default function ( )
+add prefix to gatsby - link ( )
+import DatabaseStore from nylas - exports to nylas - exports ( )
+fix typo
+make ` _getVirtual ( ) ` consistent with ` _getVirtual ( ) `
+fix typo
+add npm publish tag
+update debugging - html - builds docs ( )
+update dependency @ babel / plugin - proposal - numeric - separator to ^ 7 . 6 . 0 ( )
+repro
+ensure window key exists
+add ` auto_reconnect ` option ( )
+repro
+Add Path Prefix to docs ( )
+add eslint - plugin - typescript ( )
+fix typo
+repro
+Ensure ci is enabled ( )
+repro
+fix typo
+add docs guide . jade ( )
+add push_angularjs ( )
+remove disabledElementsLookup
+deprecated Use process . static instead
+add build option for generate ( )
+repro
+update core - js to ^ 3 . 7 . 0 ( )
+update build . js to version 7 ( )
+fix typo ( )
+fix typo
+repro
+remove invalid characters from the filename
+add ctrl - enter command ( )
+update gatsby - design - tokens to ~ 1 . 0 . 10 ( )
+update dependency @ babel / runtime to v7 . 12 . 1
+add slash ( )
+add node - - inspect - brk ( )
+fix typo
+add watchcartoononline . best ( )
+repro
+add hexo - renderer - marked ( )
+update dependency @ lerna / package - graph to v3 ( )
+repro
+add taro . git ( )
+fix typo
+repro
+repro
+fix typo
+fix typo
+add reference to angularjs . org ( )
+fix typo
+update version to version 5 . 5 . 10
+import electron - manager from electron - manager
+repro
+add autocode . svg ( )
+add custom - gatherer - puppeteer - custom - audit ( )
+repro
+add Packaging to config . js ( )
+add vendor go . sum ( )
+fix typo
+use $ setViewValue instead of $ apply ( )
+update opencollective sponsors
+fix typo
+add gatsby - dev - - scan - once - - quiet ( )
+add ts . config . json ( )
+add postcss - import - webpack - resolver ( )
+add hasOwn
+add gatsby - plugin - layout ( )
+fix lint & unit_tests_node10
+fix typo
+update dependency nyc to version 11 . 8 . 0
+update serverless integration test - aws - fsharp to v3 ( )
+update dependency gatsby to ^ 2 . 24 . 43 ( )
+update dependency @ rollup / plugin - commonjs to ^ 12 . 0 . 0 ( )
+repro
+update version to version 5 . 4 . 19
+add support for leave - full - screen
+repro
+repro
+repro
+repro
+publish external API
+fix typo
+import SubnavSwitcher from TaskSubnav ( )
+update dependency npm to v5 . 0 . 0 ( )
+add yaaay ( )
+use webpackDevMiddleware instead of webpackDevMiddleware ( )
+prevent toolbar close
+add isoWeekOfYear ( )
+fix typo ( )
+Use HTTPS instead of HTTPS ( )
+add prettier - stylelint ( )
+Publish
+repro
+add errors to validation error
+repro
+fix typo ( )
+don ' t parse date as a valid date
+add support for esmodules ( )
+update mongodb to version 3 . 3 . 4
+update version to version 1 . 0 . 1 - beta . 4
+repro
+fix lint
+disable unit - - coverage ( )
+add gatsby build ( )
+add with - pkg ( )
+repro
+add blog blog
+repro
+fix typo
+repro
+set - badge - value
+fix typo
+Add Nylas N1 ( )
+fix typo
+add isPathSelectedInclusive ( )
+log stat request failure ( )
+ignore dev - deps - - min - severity moderate - e 1548 ( )
+update modern - browsers to version 10 . 3
+update working - with - images - in - markdown ( )
+update yaml - front - matter to ^ 4 . 1 . 0 ( )
+update README . md ( )
+update dependency send - and - archive to version 0 . 1 . 0
+fix typo ( )
+add task description
+repro
+fix typo
+fix typo
+fix typo
+repro
+repro
+makeMenuItem ( )
+repro
+add workShortcut to menu
+update dependency p - map to ^ 1 . 2 . 0 ( )
+add examples for with - iron - session ( )
+fix typo
+update dependency redux to ^ 4 . 0 . 0 ( )
+repro
+update dependency lodash to version 4 . 17 . 10
+use cipm until ` npm ci ` is fixed
+fix typo
+fix typo
+fix typo
+add prepublishOnly to README . md ( )
+add mixin to global api ( )
+repro
+add nuxt . js . git ( )
+update dependency kareem to version 1 . 1 . 4 ( )
+add ng - app ( )
+fix typo
+use atomicEdit instead of atomicEditWrap
+update version to version 1 . 2 . 3
+add meta . text ( )
+add publish - - tag to release - edge
+repro
+add tsconfig - paths - webpack - plugin ( )
+repro
+repro
+repro
+Warmup all worker pools ( )
+repro
+fix typo ( )
+use async ( )
+add style for table of contents ( )
+add vue . stdlib . com to backers . md ( )
+repro
+add menu
+fix typo
+add nodemon - - help options ( )
+repro
+exclude = > false
+repro
+useTsWithBabel to use tsconfig . json ( )
+add reveal - setup ( )
+add dependency taro - extend to deps ( )
+update dependency chokidar to version 4 . 3 . 5 ( )
+fix typo
+use ESModules option ( )
+fix typo ( )
+repro
+add @ emotion / is - prop - valid ( )
+fix typo
+update dependency sorted - object to version 0 . 7 . 2
+fix typo
+disable colors in debug mode
+use Object . keys instead of Object . keys ( )
+fix typo
+add application : print - thread
+update pretty - bytes to version 5 . 3 . 0 ( )
+add default send behavior
+repro
+add modern mode pattern ( )
+repro
+repro
+repro
+add windows paths in snapshots
+fix typo
+use semver . maxSatisfying instead of semver . maxSatisfying
+update node - version to 12 ( )
+fix typo
+Add Thomas Maximini ( )
+Use IntelliSense to learn about existing attributes
+add - a - manifest - file ( )
+update dependency clean to rimraf packages ( )
+update plnkr . co to 1 . 8 . x
+use ` $ options . errorCaptured ` ( )
+Publish
+remove redundant comments from ` clean ( ) ` from ` clean ( )
+fix lint
+ignore space - at - eol
+add prismjs / themes / prism . css ( )
+ignore node_modules ( )
+update README . md
+remove transition from animation container ( )
+add ignore - path option ( )
+update typescript - eslint - parser to version 17 . 0 . 0
+add docs / providers / react to sidebar
+repro
+use mongooseError instead of mongooseError
+use ` finally ` instead of ` finally ` ( )
+add KUBERNETES . md ( )
+forceAllTransforms ( )
+add AggregationCursor . js ( )
+add rollup - plugin - node - resolve ( )
+IE placeholder patched
+add gatsby - theme - awesome ( )
+add DTD XHTML 1 . 0 Strict
+add scopedSlots ( )
+import ui - variables
+repro
+fix typo ( )
+repro
+add monorepo ( )
+repro
+repro
+update dependency @ scope / external - dep to version 1 . 0 . 0
+repro
+add modern option ( )
+update dependency version to version 1 . 2 . 6
+add gatsby - transformer - excel ( )
+fix typo ( )
+add ngModel . NgModelController
+update www . youtube . com / watch
+repro
+add webpack - bundle - analyzer to build d . ts ( )
+repro
+add recipes : working - with - themes ( )
+add prettier - ignore - start ( )
+fix typo
+repro
+add non - existing - image . png ( )
+update blog with gatsby ( )
+repro
+bindRoleForClick
+fix $ $ sanitizeUri
+add ` render ` option ( )
+repro
+fix typo
+add gatsby - site - accessible ( )
+fix typo ( )
+add npm - bookmarks ( )
+disable source map support
+fix PGPKeyStore . getKeyContents ( )
+repro
+fix typo
+fix typo
+repro
+add nouse - idle - notification to node_args ( )
+1 . 1 . 1 release
+add node_modules ( )
+fix typo ( )
+update dependency husky to version 3 . 0 . 8 ( )
+add nodemon - - delay
+add report issue to menu
+fix typo
+add shift - j to menu ( )
+add how - to - contribute . md ( )
+repro
+repro
+add transition to app - loading
+add remark - retext ( )
+add fnScopeId to functionalContext
+set language to en - US ( )
+repro
+repro
+throw an error if stderr is not empty ( )
+fix typo
+repro
+repro
+update dependency gatsby - core - utils to ^ 0 . 22 . 1 ( )
+add gatsby - config ( )
+update opencollective sponsors
+prevent conflicts with Vue internals
+repro
+update luminance list
+repro
+fix typo
+add $ interval
+repro
+release 3 . 4 . x
+add linky : notstring ( )
+remove the callback when the element is removed
+update linguist - languages to version 6 . 2 . 0 ( )
+add create - react - app ( )
+Allow ipc messages to be sent before kill
+fix typo
+fix typo ( )
+update travis . yml ( )
+update aws - sdk to ^ 2 . 536 . 0 ( )
+fix $ flushPendingTasks
+repro
+update eslint - plugin - graphql to ^ 6 . 0 . 1 ( )
+add ctreq / ctreq
+repro
+update dependency vue to version 2 . 5 . 17 ( )
+fix https : / / issues / 12124
+fix lint
+repro
+repro
+repro
+update dependency vue to ^ 2 . 6 . 11 ( )
+update q to version 1 . 0 . 0
+add node_modules to flowconfig
+add 1 . 2 . 25 hypnotic - gesticulation ( )
+update eslint - plugin - jest to ^ 21 . 26 . 1 ( )
+update dependency archiver to ^ 3 . 1 . 1 ( )
+add query cursor ( )
+1 . 3 . 0 release
+make name unique
+add nuxt - build - indicator ( )
+add gatsby - internals - terminology ( )
+add yarn test - bundle to travis ( )
+add a site title ( )
+fix typo
+teardown all databases
+repro
+repro
+add monit to processes ( )
+repro
+import defaultsDeep from ' lodash / defaultsDeep '
+add gitignore . log ( )
+add focused - thread - store ( )
+add _notifyUserOfError ( )
+add styled ( )
+don ' t delete ` virtualConsole ` option ( )
+add formattingTokens
+fix typo
+repro
+change default status codes to serverless ( )
+update gatsby - image to version 2 . 2 . 16 ( )
+use preAssignBindingsEnabled instead of preAssignBindingsEnabled ( )
+remove invalid redirect gssp ( )
+replace ` . ` with ` . ` with ` . `
+update SauceLabs to version 10 . 12
+repro
+fix typo
+Publish
+add gatsby - starter - blog - demo ( )
+fix typo
+add gatsby - theme - blog ( )
+add padZoneStr ( )
+Fix ` documentWasReplaced `
+add Lambda Lambda Lambda Lambda Lambda Lambda Lambda ( )
+add support for email
+update ngRoute to version 1 . 2 . x
+add eslint - disable - line no - console
+add resourceUrlBlacklist
+repro
+fix typo
+repro
+fix typo
+add OAuth2Login ( )
+add customComponent ( )
+remove @ prettier - placeholder - ( . + )
+repro
+repro
+update yarn pkg to version 0 . 17 . 9
+update gatsby - plugin - theme - ui to ^ 0 . 2 . 26 ( )
+repro
+add thread - counts - store - spec . coffee ( )
+fix typo
+repro
+add dynamic route params ( )
+update dependency @ rollup / plugin - commonjs to version 11 . 0 . 2 ( )
+update typescript to version 2 . 7 . 0 - insiders . 20171214
+add changelog ( )
+add labels and folders to thread . coffee
+fix typo
+repro
+update dependency @ tarojs / taro to version 1 . 3 . 18
+add and remove animations ( )
+fix typo
+update cypress . tgz ( )
+fix typo
+update react to ^ 16 . 10 . 0 ( )
+add react - native assets ( )
+add gatsby - plugin - manifest ( )
+repro
+repro
+don ' t get a warning now
+add invalid path segments to error map ( )
+fix typo
+fix typo
+add Nuxt . js ( )
+add N1 to CHANGELOG . md ( )
+add sparkpost . svg ( )
+Remove reporting workflow ( )
+add keypress to todomvc ( )
+use child_process instead of child_process
+update pm2 - deploy to version 0 . 3 . 3 ( )
+repro
+add custom - webpack - config ( )
+update travis to version 0 . 10
+update dependency lint to vue - cli - service ( )
+fix lint
+fix typo ( )
+add dependency @ nuxt / vue - renderer ( )
+add titlebar - actions - active - background
+add WEBhart ( )
+update dependency babel - core to ^ 2 . 1 . 0 ( )
+hide app menu
+repro
+add disallowSpacesInFunctionDeclaration disallowSpacesInNamedFunctionExpression
+add reserved concurrency limit to route selection expression ( )
+fix typo
+add node - sass
+don ' t return email address ( )
+add gatsby / graphql - queries ( )
+fix babel - preset - app ( )
+fix lint
+add subproject commit
+update README . md ( )
+use ts - loader instead of tsconfig . json ( )
+Remove trailing slash ( )
+add toggle menu bar
+fix typo
+repro
+repro
+fix typo
+add note info for writing Your First Test ( )
+fix
+add edge yarn build
+update dependency @ nuxtjs / babel - preset - app to ^ 0 . 6 . 1 ( )
+repro
+update dgeni to version 0 . 7 . 2
+Publish
+repro
+add support for moment . js
+add transformTemplate ( )
+add yarn install task
+add jquery - slim . min . js ( )
+fix lint
+update www_public_dir_1 to www_cache_dir_1 ( )
+update uglify - js to v3 . 12 . 0 ( )
+update dependency packages / taro - h5 to v5 ( )
+update cross - env to ^ 7 . 0 . 2 ( )
+add warning box
+ignore source and destination should not be the same
+Add LANDR site ( )
+add overview - of - the - gatsby - build - process ( )
+update dependency @ types / node to ^ 12 . 12 . 0 ( )
+repro
+update version to 4 . 13 . 14 - pre
+fix typo
+add prismic - source - graphql - tutorial ( )
+add leaflet . nauticscale ( )
+disable core prefetching logic
+update dependency @ serverless / test to ^ 6 . 2 . 3 ( )
+repro
+fix lint
+add ngMockE2E . $ httpBackend decorator
+add awsCfImport property ( )
+repro
+update dependency autoprefixer to ^ 8 . 5 . 2 ( )
+Remove API tokens from debug data
+add invalid server - rendering bundle format ( )
+fix typo
+add more info about throttling methods ( )
+repro
+fix typo
+add cmty . nuxtjs . org ( )
+add noopener to link_to ( )
+update dependency aproba to v2 . 1 . 0
+add extract - css plugin ( )
+repro
+update dependency @ rollup / plugin - node - resolve to ^ 7 . 1 . 3 ( )
+repro
+update mongodb to version 2 . 2 . 26 ( )
+fix typo ( )
+update dependency vue - loader to ^ 15 . 0 . 10 ( )
+update dependency bson to version 1 . 0 . 1
+add jest - puppeteer example ( )
+update dependency @ testing - library / jest - dom to ^ 10 . 4 . 3 ( )
+add screenshots - - reall ( )
+update ms to version 2 . 1 . 1 ( )
+fix lint
+add babel - preset - env option ( )
+repro
+repro
+add ` index ` event when indexes are done
+remove non - interactive element
+fix typo
+fix typo
+add Roman Shtylman
+add forceUpdate ( )
+repro
+update dependency async to version 1 . 4 . 2
+use JSON . stringify instead of JSON . stringify
+repro
+fix typo
+fix typo ( )
+add spellcheck - composer - extension ( )
+repro
+don ' t copy equivalent objects or arrays
+update caniuse - lite to ^ 1 . 0 . 30000777 ( )
+repro
+add README . md ( )
+import swiper . component . ts ( )
+repro
+update dependency @ babel / code - frame to v7 . 0 . 0 - beta . 44
+Publish
+Remove participants field ( )
+add free - hosting docs ( )
+repro
+repro
+add ansiColors ( )
+repro
+add 10 Reasons Why Developers Shold Learn AngularJS ( )
+fix lint
+add personal - level - icon ( )
+repro
+add gatsby - config . js ( )
+fix ` $ viewChangeListeners ` property
+repro
+add Pure ( )
+change current time to time ( )
+update defer . now to 0
+normalize . css to ^ 8 . 0 . 1 ( )
+add custom tab bar
+update delta - streaming - in - memory - connec ( )
+remove ` retainKeyOrder ` option when cloning objects
+add gatsby - plugin - sharp ( )
+update dependency combined - stream to ^ 1 . 0 . 6 ( )
+fix typescript - ast - nodes ( )
+Remove ` VUE_CLI_SKIP_WRITE ` option ( )
+fix typo
+add special end ( )
+fix typo
+change onRequestScrollTo to " 109 "
+repro
+repro
+remove subdoc
+update meta http - equiv to X - UA - Compatible
+repro
+Add aaba23ee61cc ( )
+repro
+Fix fixtures ( )
+fix lint
+add webkit - app - region : drag
+fix typo
+bind - attr ) : repro
+repro
+use promiseLike instead of promiseLike
+update chromedriver to ^ 78 . 0 . 1 ( )
+useImperativeMethods and useImperativeHandle ( )
+fix lint
+update line - height to 100 %
+update codename to version 1 . 2 . 7
+add support for audio events
+add books ( )
+use ` onReady ` instead of ` onReady `
+update prVersion to 999 . 999 . 999
+v1 . 5 . 1
+add npm install - g nodemon ( )
+fix padding - bottom to 40px
+fix typo
+repro
+add support for deprecated parsers ( )
+fix typo
+fix typo
+update blog docs ( )
+update mocha - lcov - reporter to ^ 1 . 3 . 0 ( )
+Fix specific union type breaks after closing ( )
+repro
+repro
+update gatsby - cli . md ( )
+add indicator option ( )
+fix typo
+add jaws_deployment_diagram . png ( )
+import * as browser from ' . / . / . / . / . / . / . / . / . / . / . / . / . / . / . / . / . / . /
+add git status - - porcelain
+repro
+add draft - store - spec . coffee ( )
+repro
+update guide / : splat
+repro
+repro
+update dependency css - hot - loader to ^ 1 . 3 . 5 ( )
+add special start ( )
+add glyphicons - halflings - white
+repro
+fix lint
+fix typo
+repro
+fix typo
+add add - react - components ( )
+Publish
+update autorun
+update motrix . app to version 1 . 1 . 3
+add uppy - server ( )
+add typeArguments to printNoParens ( )
+add angular - animate . js ( )
+add map - maxbounds option ( )
+convert Number to Number ( )
+fix typo
+add legacy - assets - $ { htmlName }
+fix typo
+update lerna to version 3 . 22 . 0 ( )
+add brand logo ( )
+skip tests
+update consola to ^ 2 . 4 . 0 ( )
+add client addons to cache
+repro
+support browser windows API ( )
+update aws - sdk to ^ 2 . 545 . 0 ( )
+update timezone offset to utc ( )
+fix typo ( )
+fix typescript lang
+update version to 4 . 10 . 2
+repro
+fix lint
+fix typo
+fix typo
+fix typo
+update dependency chokidar to ^ 2 . 1 . 2 ( )
+remove ignoredElements from ignoredElements
+update pmx to version 1 . 6 . 3
+remove npmignore ( )
+repro
+update eslint - ci to eslint - ci
+update dependency dgeni - packages to version 0 . 10 . 0
+add coffee script ( )
+update nuxt to latest ( )
+repro
+use full - config . js ( )
+repro
+add sponsors
+update version to version 5 . 2 . 6
+repro
+fix typo
+update versionrc . json ( )
+rename wire - 200x100 to 200x100
+add recipes / working - with - starters ( )
+remove event listener
+fix lint
+repro
+add number format
+set TARO_ENV to ' weapp '
+update dependency @ mdx - js / mdx to ^ 1 . 6 . 14 ( )
+add code_of_conduct . md ( )
+fix typos ( )
+add alexandrudanpop . dev ( )
+add 0 . 10 . 0 chicken - hands ( )
+fix typo
+add lib to tsconfig . json ( )
+exclude tests ( )
+update integration to en_US . UTF - 8
+update dependency version to version 4 . 13 . 4
+use ` ~ ` instead of ` ~ ` ( )
+add noopener noreferrer
+add pull - based - log - ingestion section ( )
+repro
+Replace with up to 4 GitHub Sponsors - enabled usernames
+use aws - sdk / clients / eventbridge
+add rollup - plugin - node - resolver ( )
+update dependency version to version 5 . 1 . 4
+add automaticNameDelimiter to cacheGroups ( )
+update gatsby - plugin - netlify to ^ 2 . 1 . 3 ( )
+add markdown - magic - prettier ( )
+use middleware ( )
+add build - storybook to storybook . md ( )
+add subproject commit
+add support for current - script - polyfill ( )
+repro
+repro
+fix typo
+repro
+repro
+add secondary picker to button dropdown
+add eslintConfig ( )
+fix css_inline_url . css ( )
+update tailwind - css . md ( )
+1 . 3 . 0 - beta . 6
+add suffix to linkedDependencies ( )
+fix typo
+add nodemon . json ( )
+fix typo
+add gatsby - style - guide ( )
+fix typo
+add gatsby - plugins to banner . js ( )
+fix typo
+add additional keys later
+update dependency template to deps ( )
+add react - native - datetimepicker / datetimepicker ( )
+update dependency meta - marked to ^ 0 . 3 . 3 ( )
+fix typo
+Clean DB ( )
+add lerna - unit ( )
+update hosting - on - netlify . md ( )
+repro
+update tough - cookie to version 2 . 5 . 0 ( )
+fix typo
+repro
+add mutations to README ( )
+add img no - border
+update dependency @ babel / preset - env to ^ 8 . 0 . 2 ( )
+repro
+repro
+add important icon
+add filters to website . js
+add mapSourcePosition ( )
+fix typo
+don ' t emit errors in production mode ( )
+remove duplicate guides ( )
+add ts linguist - language
+fix typo
+add lint - staged ( )
+remove invalid form submission ( )
+add dependencies to matched packages ( )
+repro
+repro
+add application - loading - cover ( )
+fix typo
+fix lint
+fix example above
+add swipeCallback ( )
+repro
+fix typo
+fix typo
+add account sidebar - long - poll - store
+repro
+update README . md ( )
+add subpixel antialiasing ( )
+fix typo ( )
+add file - preview ( )
+add npm install - save async ( )
+fix typo
+repro
+add Jia Hao s Website / Blog ( )
+remove trailing . ( )
+allow no protocol ( )
+repro
+update min . js to dayjs . min . js ( )
+add 0 . 10 . 7 moiré - vision ( )
+add ` npm_config_ $ { varName } ` ( )
+fix typo
+fix typo ( )
+update dependency travis . yml ( )
+add @ babel / runtime - corejs2 / package . json ( )
+repro
+add code_of_condUCT ( )
+update theme - colors to version 5 . 0
+repro
+repro
+add eventual top level " resources " section ( )
+Update docusaurus docs ( )
+fix typo
+repro
+fix favicon rewriting
+repro
+repro
+update slash to ^ 3 . 0 . 0 ( )
+allow custom template files to be resolved ( )
+update is - wsl to ^ 1 . 1 . 0 ( )
+repro
+fix typo ( )
+repro
+repro
+update sideEffects to version 4 . 0 . 0
+add RFC 5322 section ( )
+repro
+remove uni - picker - select
+repro
+fix typo
+add eslintrc . js ( )
+add ` template - * ` to ` src / pages ` ( )
+fix lint
+add mongod - - fork - - nopreallocj - - dbpath
+repro
+Add AwsS3 plugin ( )
+add support for atomics ( )
+remove aggressiveCodeRemoval option ( )
+add step - 1 to tutorial overview
+update dependency highlight . js to v10 . 4 . 0
+add requireActual ( " semver " )
+fix draft - list - columns . cjsx
+add binary - mirror - config ( )
+add inline - loading - spinner . gif ( )
+add ng - model - instant placeholder
+fix typo
+fix lint
+update dependency @ cypress / webpack - preprocessor to ^ 3 . 0 . 4 ( )
+fix lint
+add support for webkitCancelRequestAnimationFrame ( )
+repro
+fix typo
+add ng - jq - jquery script ( )
+add test data isolated
+repro
+repro
+fix typo
+add api - nav - content ( )
+update dependency @ octokit / rest to v16 . 27 . 0 ( )
+add invite - collaborator ( )
+repro
+fix typo
+Copy all modules in gatsby - dev - cli ( )
+update object - hash to ^ 2 . 0 . 3 ( )
+update version to version 5 . 5 . 16
+add Sponsors badge ( )
+Warn about unowned packages ( )
+Add Record Key Together ( )
+Add dumb components for medium - post - in ( )
+Do better web tester page ( )
+fix typo
+1 . 3 . 0 - beta . 13 release
+fix typo
+fix typo
+update dependency @ vue / web - component - wrapper to ^ 1 . 0 . 0 ( )
+repro
+repro
+fix lint
+fix typo ( )
+update get - stdin to ^ 8 . 0 . 0 ( )
+update gatsby - plugin - theme - ui to ^ 0 . 2 . 41 ( )
+add warning
+1 . 4 . 5 release
+update dependency std - mocks to ^ 3 . 2 . 2 ( )
+use ` createTimeago ` instead of ` createTimeago ` ( )
+use clone - fixture instead of clone - fixture
+add todo - focus directive ( )
+update version to 4 . 11 . 8
+update prettier - - write ( )
+repro
+fix path . extname ( )
+add box - shadow to tokenizing - text - field
+add example . json ( )
+add dayjs ( )
+add no - debugger rule ( )
+remove non - empty class ( )
+repro
+add support / index . js ( )
+update homepage to day . js . org ( )
+add @ Prop ( )
+add day ( )
+add typography . js ( )
+repro
+add node_modules / . stats - $ { this . type }
+throw error if server status code is not 200
+repro
+fix typo
+add helpers . md5 ( )
+add ts - loader to typescript ( )
+update mongodb to version 3 . 6 . 0
+update readme . md ( )
+fix typo ( )
+throw an error if the original network request failed
+update dependency fs - extra to ^ 5 . 0 . 0 ( )
+Additions only likely to be _noticed by other implementors - of - Gatsby
+add pluginIdFor ( )
+release 5 . 3 . 15
+add pretty_urls to permalink_defaults
+repro
+add populated paths to document array
+repro
+update @ mdx - js / react to ^ 1 . 2 . 2 ( )
+fix lint
+remove inline quotes ( )
+add bit - wide . png ( )
+update dependency cheerio to ^ 1 . 0 . 0 - rc . 3 ( )
+add locale keys
+add someMutation ( )
+update dependency file - type to ^ 12 . 2 . 0 ( )
+fix lint
+add window - bridge ( )
+update dependency @ commitlint / config - conventional to ^ 9 . 0 . 1 ( )
+disable JSX support ( )
+add timeout to auth request
+fix typo
+fix name col size
+repro
+fix typo
+add e2e - executor to config . yml ( )
+repro
+add no - async - functions ( )
+add class SubmodelItem
+add rpc - secret option ( )
+add unit - testing - recipe to sidebar ( )
+add staleLabel to stale . yml ( )
+fix typo
+remove xlinkHref attribute
+add queries . jade ( )
+repro
+repro
+Add Marketing and Construction to showcase ( )
+Publish
+fix typo
+change language by locale
+add gatsby - is - a - good - fit ( )
+fix typo
+repro
+Add Thanks to BrowserStack ( )
+don ' t use splitChunks . name for production assets
+fix typo
+update dependency arr - flatten to 1 . 1 . 0 ( )
+repro
+fix focusTimeout
+enable notifications for new unread messages
+fix typo
+add sudo apt - get - qq update
+update dependency @ babel / core to ^ 7 . 6 . 4 ( )
+add export * from graphql - compose ( )
+update eslint to version 7 . 9 . 0 ( )
+throw an error when building for production ( )
+Publish
+add native . js ( )
+update dependency fs - extra to ^ 7 . 0 . 1 ( )
+update electronVersion to version 0 . 37 . 7 ( )
+add error - validation - js ( )
+move to Applications folder
+add babel - preset - gatsby ( )
+import NuxtDir as isNuxtDir
+add default child to route . children ( )
+repro
+add defer . flush ( )
+repro
+enable dev mode
+fix typo
+add long - polling
+repro
+repro
+add post - body figcaption ( )
+add ` - - output ` flag
+Add SendGrid Knowledge Center cuts page load times in half with Gatsby ( )
+repro
+add ngParseExt to ngResource
+update fs - extra to ^ 7 . 0 . 0 ( )
+add Gatsby Starter Blog ( )
+Update ` @ _lastComputedHeight ` to 0
+allow structural animations when running
+fix typo
+add css - loader ( )
+repro
+update connection - string - options to connection - events
+repro
+add syntax for using filters in Angular templates
+repro
+Ensure unread < 0 and total < 0
+repro
+Publish
+Killing all Chrome Instances ( )
+repro
+add code compensation indent
+add netlify - identity - widget ( )
+add account - sidebar ( )
+make sure we ' re not in a style element
+update dependency @ types / react to ^ 16 . 9 . 31 ( )
+run prettier - - - - list - different ( )
+add WAI - ARIA in HTML ( )
+add conventional - graduate ( )
+skip Sauce Labs tests
+update eslint to version 6 . 6 . 0
+update whatwg - url to ^ 7 . 0 . 0 ( )
+repro
+add eqeqeq
+Add Dale Blackburn - Portfolio ( )
+add socketOptions to connections . jade ( )
+use dev instead of dev ( )
+use parseConnectionString instead of parseConnectionString
+Add Slack ( )
+update dayjs to version 0 . 0 . 0 - development
+Publish
+Publish
+repro
+fix typo
+add hoist documentation ( )
+repro
+update dependency @ ^ 22 . 1 . 4 ( )
+repro
+update travis . yml ( )
+add readonly flag
+add chalk to serverless . js
+add task helpers ( )
+1 . 3 . 0 - rc . 2
+fix lint
+repro
+add Krashna Musika Association Website ( )
+add isOnlineAsync ( )
+update border - shadow to 0 . 5px ( )
+fix typo
+add @ babel / plugin - transform - runtime option ( )
+add geojson . jade ( )
+prevent invalid form submission ( )
+update dependency destr to ^ 0 . 1 . 7 ( )
+repro
+add example module
+ignore tests ( )
+add aws - go - mod ( )
+normalize non - existing attributes to undefined
+add gatsby - link . md ( )
+add new - audits . md ( )
+add sponsors
+update graphql - request to ^ 1 . 8 . 2 ( )
+fix typo
+update dependency node to ^ 0 . 2 . 1 ( )
+add ws and changeOrigin option ( )
+lock file maintenance
+Allow running serverless tests ( )
+repro
+add support for Update ( )
+fix typo
+render file actions
+repro
+fix typo ( )
+update hexo - fs to version 3 . 0 . 1 ( )
+repro
+use jqLite instead of jqLite ( )
+update dependency @ ampproject / toolbox - optimizer to version 2 . 5 . 0 ( )
+don ' t return false if actions . length is 0
+use path . resolve ( ) instead of path . resolve ( )
+add link - type - modulepreload ( )
+add deprecation warning
+don ' t replace ` ` with ` ~ ~ ~ `
+add 1 . 7 . 0 nonexistent - physiology ( )
+Publish
+repro
+add nuxt - class - component plugin ( )
+add jasmine - node to run tests
+update dependency dependencies to version 5 . 0 . 16
+update dependency catharsis to version 0 . 8 . 8
+repro
+fix typo ( )
+add 0560 . subarray - sum - equals - k
+add customResourceFunctionLogicalId ( )
+update dependency ajv to v6 . 5 . 3
+add chalk to tasks ( )
+repro
+update awesome - gatsby . md ( )
+update eslint - plugin - jsx - a11y to ^ 6 . 2 . 3 ( )
+add importHelpers to tsconfig . json ( )
+update rimraf to version 2 . 6 . 3
+add subproject commit
+update reduxcacheOm4fA5 to reduxcacheOm4fA5 ( )
+add ` directiveMeta ` option ( )
+add eslint - config - standard - jsx ( )
+update dependency camelcase to version 4 . 1 . 0
+update dependency @ evocateur / pacote to ^ 9 . 6 . 3 ( )
+update dependency gatsby - plugin - styled - components to ^ 3 . 0 . 4 ( )
+add windows . yml ( )
+update @ theme - ui / prism to ^ 0 . 2 . 14 ( )
+add polyfill and selector engine ( )
+repro
+repro
+update dependency @ ^ 5 . 1 . 5
+add reach - router - and - gatsby ( )
+update dependency eslint - plugin - flow - vars to ^ 0 . 5 . 0 ( )
+repro
+fix typo
+update mongodb - linux - x86_64 - 3 . 6 . 4
+add feedback window to feedback button
+update dependency @ babel / runtime to ^ 7 . 4 . 5 ( )
+fix typo
+fix typo
+fix vendor prefix
+add form - item - sub
+add control group ( )
+verify type script setup ( )
+update gatsby - cache - dir ( )
+update dependency autoprefixer to ^ 8 . 4 . 1 ( )
+add no - install command ( )
+fix typo
+Add addon links to storybook ( )
+add versionKey option to guide guide ( )
+add xhr_spec . js ( )
+fix typo
+update version to version 4 . 6 . 2
+repro
+remove unnecessary scrollbars
+update docs docs ( )
+add CONTRIBUTING . md ( )
+update dependency gatsby - plugin - mdx to ^ 1 . 0 . 12 ( )
+update timeout to 60000 ( )
+repro
+add bengotow / better - sqlite3 ( )
+add all mail tags to the sidebar ( )
+use browserSingleton instead of browserSingleton
+fix lint
+add awesome - gatsby . md ( )
+fix typo
+fix lint
+update dependency test to test . js ( )
+update dependency fbjs to ^ 0 . 6 . 0 ( )
+
+add more detailed information ( )
+add how - to - plugin . md ( )
+add defer . flush ( )
+update dependency branchVersion to ^ 1 . 5 . 0 - beta . 0
+use json . toJson instead of json . toJson
+update mac / nylas . icns ( )
+update eslint to version 6 . 7 . 1 ( )
+support vue files ( )
+Replace ` folder . png ` with ` folder . png `
+repro
+repro
+fix typo
+repro
+repro
+repro
+add pushd to workspace - run ( )
+repro
+add provider plugins ( )
+support webpack 5
+Publish
+add understanding - results . md ( )
+add ComposerExtension ( )
+add draft to all recipients
+add Helmet to seo ( )
+update semantic - release to ^ 15 . 13 . 18 ( )
+fix typo
+update chokidar to ^ 3 . 4 . 3 ( )
+fix typo
+fix typo
+use partition in memory - only
+use sharedData instead of sharedData . get ( )
+update dependency atom - package - manager to version 0 . 167 . 0
+repro
+update mp - weixin to wxs ( )
+add lessBabel option ( )
+add error message
+Add Source Plugin ( )
+update @ mdx - js to ^ 1 . 4 . 2 ( )
+add ` _uid ` property in functional components ( )
+remove empty section
+add $ group operator to aggregate pipeline
+remove structural animations
+avoid unhandledPromiseRejectionWarning when run ( ) errors
+fix typo
+don ' t import DOMUtils , RegExpUtils , Utils , Utils , RegExpUtils , Utils , Utils }
+add adding tags and categories to blog posts ( )
+fix typo
+repro
+add contrast - ratio ( )
+update README . md ( )
+repro
+add cypress - react - unit - test ( )
+don ' t throw an error if ngModel is non - assignable
+add FocusedPerspectiveStore to main . coffee ( )
+normalize node modules ( )
+update dependency repository to version 1 . 2 . 0rc1
+add vue : project - config ( )
+update ember - suave to version 3 . 0 . 0 ( )
+add box - shadow to workspace . less ( )
+add multiselect - list ( )
+add plugin independent commands
+update dependency @ commitlint / config - angular to version 3 . 1 . 3
+fix typo
+fix typo
+add gatsby - source - filesystem ( )
+update dependency thread - loader to ^ 2 . 0 . 1 ( )
+update marked to version 1 . 2 . 3 ( )
+fix typo
+add subproject commit
+repro
+repro
+repro
+add resource to websockets ( )
+add server - middleware to render . d . ts ( )
+add ts - loader to index . js ( )
+don ' t call callback once
+fix typo
+ignore selectionStart and selectionEnd events
+add attachment component to attachments . cjsx
+hover color
+add cookieWriter to cookieReader
+add placeholder
+repro
+update serverless to version 6 . 0
+add static formatMessageBody ( )
+add dangerouslySetInnerHTML to ssr . test . js . snap ( )
+update building - apps - with - gatsby ( )
+add navbar - toggler ( )
+ignore plugins with custom theme name ( )
+skip vowels in even counts ( )
+repro
+fix uppy - u - reset
+repro
+repro
+repro
+add prettier [ opts ]
+add a dependency to matched packages ( )
+add ` ng - invalid ` to ` ng - untouched ` ( )
+add unsafe - inline option ( )
+repro
+fix typo
+repro
+fix typo
+fix typo
+repro
+Update rocketchat - i18n ( )
+update v1 - vue - cli to v2 ( )
+fix typo
+rewrites html - spec . ts . js
+repro
+repro
+fix typo
+skip nested paths if underneath a map
+repro
+repro
+update render . csp to sha256 ( )
+repro
+Change these values to use different paths for your icons
+add lerna - agius4 to CHANGELOG . md ( )
+add nvue pages ( )
+add splitTaskLinks and needCheckCopyright ( )
+fix typo ( )
+fix lint
+Add Condition and DeletionPolicy ( )
+fix typo ( )
+update version to version 5 . 8 . 1
+Ensure top - level property is already defined
+Publish
+add invocation - async - destinations ( )
+fix link to contributing / code - of - conduct
+update release to version 5 . 1 . 5
+fix lint
+add method integration ( )
+support ` Object . keys ( ) `
+repro
+update typography . md ( )
+fix typo
+update dependency karma - tap to ^ 2 . 0 . 1 ( )
+Replace ` contact ` with ` thread `
+update dependency @ mdx - js / react to v1 . 6 . 18 ( )
+repro
+repro
+Publish
+add dropdown menu
+add route . component ( )
+add defaultCommandTimeout option ( )
+fix typo
+remove no - console and no - debugger ( )
+ensure ` bufferCommands ` is true by default
+Add Chakra UI ( )
+update README . md ( )
+Publish
+repro
+update sauce - connect / bin / sc - u $ SAUCE_ACCESS_KEY
+repro
+fix typo
+Add ` Fn : : GetAtt ` property ( )
+update version to 3 . 1 . 2 ( )
+repro
+add BisectBatchOnFunctionError ( )
+fix typo
+fix ` $ { stackName } `
+repro
+update version to version 4 . 5 . 8
+add grunt - contrib - jasmine - node to grunt - jasmine - node
+update flow - typed to v0 . 96 . 0
+add gatsby . js ( )
+fix typo
+fix typo
+update dependency @ gustavnikolaj / async - main - wrap to v2 . 2 . 0
+add coverage
+repro
+fix typo
+add eslint - config - typescript ( )
+fix lint
+repro
+repro
+add ngError to angularSrc
+add keepAliveProps to nuxt ( )
+repro
+repro
+update babel - core to version 6 . 26 . 3 ( )
+update dependency dependencies to version 1 . 5 . 13
+fix typo
+add cssForFile ( )
+repro
+update dependency gitHead to v2 ( )
+update README . md ( )
+repro
+add advanced demo
+add triggerScroll event after calling scrollBehavior
+enforce name for all groups
+update sauce . conf . js
+repro
+repro
+make sure path starts with / / ( )
+repro
+update dependency lodash to ^ 4 . 2 . 0 ( )
+update version to version 5 . 6 . 14
+1 . 8 . 4 release
+add ` nylas - quote - id - $ { replyToMessageId } `
+add support for removeEventListener ( )
+Add Melany Dierks ( )
+fix typo
+add gatsby - starter to config . yml ( )
+remove monkey - patched methods
+fix typo
+update npm @ 6 . 13 . 4
+add highlight . js ( )
+fix typo ( )
+fix typo ( )
+fix typo
+fix typo
+repro
+add unit tests to config . yml ( )
+use windowScroll instead of windowScroll
+fix typo
+fix typo
+repro
+repro
+fix typo
+fix typo
+update opencollective sponsors
+fix typo
+update CONTRIBUTING . md ( )
+add support for http2 . push ( )
+repro
+add webpack - uni - pages - loader ( )
+fix lint
+add cachedCredentials to AWSInvokeLocal ( )
+add report - error ( )
+add Electron to N1 . sh ( )
+update dependency pick - react - known - prop to v2 ( )
+ensure starting at zero
+fix lint
+fix typo
+update version to version 5 . 4 . 22
+fix typo
+rebaseStalePrs ( )
+add cypress / cypress ( )
+repro
+repro
+update docs / environment - variables . md ( )
+update semantic - release to version 15 . 4 . 4
+fix typo
+add orderBy error
+add FaktPro - SemiBold ( )
+repro
+update dependency @ semantic - release / npm to v7 . 0 . 8 ( )
+repro
+update docs for vuex @ 2 . x
+fix typo
+repro
+add reference to angularjs . org ( )
+update nuxt - pack to vue bin ( )
+update prettier to version 1 . 13 . 4 ( )
+add panel header ( )
+update dependency babel - eslint to ^ 3 . 1 . 0 ( )
+add virtual option ( )
+fix typo
+repro
+repro
+Add new event card container ( )
+add ` ng : app ` directive ( )
+fix typo
+add service configuration validation ( )
+fix typo
+add last 2 versions of cli - ts ( )
+fix typo
+fix lint
+repro
+add calendar format
+update dependency dgeni - packages to version 0 . 12 . 0
+repro
+update serverless - python - requirements to version 1 . 0 . 0
+add funstonTheme ( )
+add docs / * / * . md ( )
+add connection string options
+repro
+add less - compile - cache ( )
+update dependency animejs to version 3 . 2 . 0
+add compose - body . contenteditable
+ignore errors ( )
+update dependency category to Network ( )
+add gatsby - plugin - typescript ( )
+repro
+add angular - messages to publish ( )
+Update awesome gatsby docs ( )
+fix typo
+repro
+add productionSourceMap to cssProcessorOptions
+add tools / 31 * ( )
+fix $ position in ng : repeat
+add title - bar - dragger ( )
+add https to editorconfig . org
+repro
+fix typo
+repro
+update typings to index . d . ts ( )
+repro
+add Avatar ( )
+fix lint
+repro
+Add subproject commit to syncback - category - task
+add about : Something isn ' t working as expected
+update typescript lang
+1 . 2 . 23
+remove non - text child ( )
+fix typo
+add dustin Diaz
+repro
+add timeout option for all configured endpoints ( )
+update mongodb to version 2 . 2 . 8
+repro
+fix typo ( )
+add jasmine - node to generate . sh ( )
+repro
+update dependency chromedriver to ^ 2 . 43 . 1 ( )
+add postcss - import - webpack - resolver ( )
+Dismiss notifications matching ( )
+fix typo
+update dependency name to version 1 . 1 . 6
+fix typo
+remove unnecessary space in SCSS variable arguments
+add ` escape ` option for pagination ( )
+add link api / ng . $ compile
+fix lint
+Enable Svg favicon ( )
+fix typo
+add framework to protractor - shared - conf ( )
+add extensions to store ( )
+update current to latest ( )
+use arrayLike instead of arrayLike
+Publish
+update dependency @ babel / preset - jsx to ^ 1 . 0 . 0 - beta . 2 ( )
+add integration / settings_list_spec ( )
+remove ` fileExists ( ) ` option
+fix typo
+update selenium - version to 2 . 46 . 0
+fix gitignore
+add provisionedConcurrency ( )
+fix lint
+fix typo
+repro
+add starter - showcase ( )
+fix typo
+fix lint
+repro
+fix typo
+repro
+fix lint - changelog
+update mquery to version 1 . 7 . 0
+add gatsby - plugin - sharp ( )
+repro
+add label_ids to messages ( )
+add setDefaultsOnInsert option to applyTimestampsToChildren
+fix typo
+remove space - infix - ops from index . js ( )
+update dependency release to vuepress . js ( )
+fix typo
+add twitter and facebook profiles ( )
+use npm - run instead of npm - run ( )
+fix typo
+add ToolbarText to TimePicker . tsx
+repro
+add redux - saga - test - plan ( )
+repro
+add eventcard calendar ( )
+fix typo
+don ' t use folders ( )
+update migrating - from - v1 - to - v2 ( )
+add task . task - proxy
+add client . js ( )
+update chrome to 5 . 0 ( Macintosh )
+addTorrent ( )
+use deferred . js instead of deferred . js
+update api - specification . md ( )
+fix typo
+fix typo
+update event - source - polyfill to ^ 1 . 0 . 8 ( )
+add vue - renderer : ssr : templateParams hook ( )
+fix typo
+Remove invalid cursor ( )
+repro
+use asyncData instead of asyncData
+add tailwind - css . md ( )
+repro
+repro
+repro
+update dependency webpackbar to ^ 2 . 6 . 2 ( )
+update travis . yml ( )
+update query for suggestionAdded
+use strict
+add typescript - to - proptypes to package . json ( )
+add siteMetadata ( )
+add parseToken ( )
+release node scripts / release ( )
+fix typo ( )
+don ' t print params without parens ( )
+update cheatsheet - rtl to v5 . 0 ( )
+repro
+add app to window manager ( )
+add Chevrolet ( )
+repro
+fix typo
+add gatsby - source - filesystem ( )
+repro
+add windows - btn - hover ( )
+use HTML5 history
+add tutorial seo - and - social - sharing - cards - tutorial ( )
+don ' t have attribute : $ { ldapField } `
+fix lint
+update dependency vue to ^ 13 . 5 . 0 ( )
+repro
+update dependency @ ^ 9 . 3 . 0 to 9 . 6 . 6
+repro
+update query - string to ^ 6 . 12 . 1 ( )
+add angularScenario to privateMocks
+add locale option ( )
+update stale jobs ( )
+add meta http - equiv
+repro
+update tray - light - normal to 1x . png 1x
+add error message
+add message body processor ( )
+add new TouchBar ( )
+add BackoffTimer ( )
+update systeminformation to version 4 . 14 . 4
+repro
+add unread icon ( )
+add vue - cli - version - marker to workspaces ( )
+add Cypress . addChildCommand ( )
+repro
+update understanding - results . md ( )
+add thread subject to search bar
+makeGmailOAuthRequest ( )
+repro
+add ` markAsRoot ` ( )
+repro
+fix lint
+add jest - environment node ( )
+repro
+update dependency is - docker to version 2 . 0 . 0 ( )
+fix typo
+fix typo
+repro
+return page . html ( )
+Publish
+Add theme options ( )
+add traceEndTsInMs to consistently - interactive ( )
+add DS_Store
+don ' t emit ` name ` in broadcast ( )
+add npm - package - arg ( )
+repro
+repro
+update github . com / maxogden / dat - core . git ( )
+fix typo ( )
+add vendor backward compability with nuxt 1 . x
+add nested array paths to validate
+fix typo
+repro
+set axisFormat to ' ' ( )
+fix typo
+add custom resolvers to GraphQL field configs ( )
+repro
+add cypress - cli ( )
+badname ) : add error / ng : badname
+update dependency catharsis to version 0 . 7 . 1
+update theme - ui to version 0 . 2 . 41
+add version - support - status ( )
+fix postcss - values - parser ( )
+add gatsby - values - tweet ( )
+add tags to gatsby - transformer - documentationjs
+repro
+update end - to - end - testing docs ( )
+update npm run nuxt - - start to jiti ( )
+update dependency gulp - load - plugins to version 2 . 0 . 4 ( )
+remove deprecated - apis ( )
+add e2e - tests ( )
+fix lint ( )
+publish external API for angularPublic ( )
+add disallowSpacesInAnonymousFunctionExpression and disallowSpacesInFunctionDeclaration
+repro
+add ` onClick ` events handlers to ` Draggable `
+add node - sass ( )
+repro
+fix typo
+Make sure ` payment ` URL exists ( )
+add zone ( )
+repro
+update dependency webpack - sources to version 1 . 1 . 0 ( )
+add angular - aria to publish
+update ngMock / angular - mocks . js
+update theme - ui to version 0 . 2 . 42 ( )
+fix typo
+update router . vuejs . org
+add gatsby - image / README . md ( )
+fix typo
+add grid example ( )
+fix typo
+use mergeData or mergeDataOrFn ( )
+allow custom role to be ARN ( )
+update pm2 - probe to config1xxx
+fix typo
+add eslint - config
+Use custom flags to pass to Chrome ( )
+fix typo
+repro
+repro
+repro
+update chalk to version 2 . 4 . 1
+repro
+add setupSession : ( proxy )
+add docsearch . min . css ( )
+repro
+add dev / LICENSE . md ( )
+repro
+fix typo
+repro
+fix typo in stub - list ( )
+update mongodb to ^ 3 . 3 . 4 ( )
+add typescript - eslint / eslint - plugin ( )
+cancelPendingUpdate ( )
+ignore non - doc links ( )
+repro
+add nuxt - link to fetch - conditional
+Update migrating from v1 to v2 ( )
+fix typo
+add email - frame - styles - store
+use build . extractCSS . allChunks instead of build . extractCSS . allChunks
+add no - unused - vars ( )
+update dependency source - map to v0 . 5 . 7 ( )
+add custom - plugins plugin ( )
+repro
+add backslashes to embed . js ( )
+add cspScriptSrcHashes hook to nuxt ( )
+remove global stripHash
+add border - box ( )
+add hide . bs . dropdown events
+update npm - shrinkwrap to v0 . 1 . 0 ( )
+fix typo
+add file - download - store ( )
+repro
+use cy . intercept ( ) instead of cy . intercept ( )
+Add Josef Aidt site ( )
+add $ { cmd }
+add support for Mongoose [ Schema ]
+fix typo
+fix typo
+fix lint
+repro
+update dependency husky to version 3 . 0 . 4 ( )
+add tasks / cache . list ( )
+Add Noted Project ( )
+fix lint
+remove accidentally committed . patch file
+add tutorial , guide , error
+add @ vue / cli ( )
+update tutorial / part - three / index . md ( )
+Publish
+add project tasks
+fix typo
+fix typo
+fix typo
+use JSON . stringify instead of JSON . stringify
+repro
+add guide / forms . ngdoc ( )
+repro
+repro
+support multipart / form - data ( )
+update compatibility . jade ( )
+fix lint
+add non - interactive command ( )
+Publish
+Publish
+use non - fragment regex
+repro
+fix typo
+add preact plugin to gatsby - recipes ( )
+fix typo
+repro
+repro
+fix typo
+repro
+update aws - kotlin - jvm - gradle - kts ( )
+update dependency homepage to vue - preset - app ( )
+update docs for examples ( )
+add Tester McPerson
+fix typo
+Remove existing running tasks ( )
+update MongoDB Server 4 . 2 . x to version 5 . 2 . 0
+don ' t run on debug mode
+fix link to chaijs . com ( )
+add postcss - preset - env ( )
+update isStandaloneExecutable
+hide other - applications ( )
+remove vue - loader option ( )
+repro
+fix typo ( )
+repro
+remove node from binary search tree ( )
+fix typo
+add port option ( )
+repro
+fix typo
+add isStandalone executable to generatePayload . js
+add nextjs - auth0 - example to examples ( )
+maximize to 2x . png
+normalize scoped slots ( )
+repro
+repro
+rename N1 . sh to N1 . sh ( )
+add vue - router and intro ( )
+add contributing / managing - pull - requests . md ( )
+new mode 100755
+add nuxt . navigate ( )
+import locale / tr - TR
+disable Nunjucks option
+repro
+add AWS AWS URL suffix ( )
+repro
+add csp option to options . from ( )
+update theme - ui to version 0 . 2 . 35 ( )
+fix lint
+add public - maxdepth 1 - iname ( )
+fix typo
+add testing - your - app - home - page - spec
+add support for ` alexaSkill ` event ( )
+add open - app button
+repro
+update dependency cypress to version 3 . 4 . 1 ( )
+use fetch instead of fetch ( )
+add contributing docs templates ( )
+update blog blog docs ( )
+repro
+repro
+repro
+add prettier - ignore - - ( )
+repro
+fix typo
+repro
+add support for PartialApplication ( )
+update dependency jquery to version 3 . 5 . 1
+update envinfo to ^ 7 . 7 . 3 ( )
+add gatsby - cli ( )
+repro
+add gatsby - starter - ghost ( )
+use recycle - list instead of recycle - list
+add gatsby - plugin - netlify ( )
+update ci - info to ^ 2 . 1 . 0 ( )
+add unhandledRejection on fatal errors ( )
+update version to version 1 . 2 . 6
+update dotenv to ^ 8 . 2 . 0 ( )
+repro
+update dependency bluebird to version 3 . 4 . 1 ( )
+update dependency @ uglify - js to v2 . 6 . 29 ( )
+update latest_leaflet_version in release . md ( )
+add a version to the icons and manifest
+add e176fe4 sponsors
+add default role to action bar plugins
+fix typo
+add reference to roadmap . md ( )
+update README . md ( )
+repro
+Don ' t return false if thread is hidden
+repro
+add dayjs . isDayjs ( )
+add hotReloader to next - dev - server ( )
+update closure files ( )
+add comments to catalog - of - events
+add infinitynewtab ( )
+add nylas - build - resources - - gruntfile
+fix typo
+fix typo
+add prettier - plugin - java ( )
+add Speedometer to Main . vue ( )
+repro
+repro
+add ipcRenderer to main . cjsx
+update aws - sdk to ^ 2 . 526 . 0 ( )
+update SLS_AWS_REQUEST_MAX_RETRIES to 4
+repro
+add lerna publish - - amend ( )
+update dependency @ ^ 0 . 3 . 2
+repro
+update gatsby to version 2 . 23 . 3 ( )
+fix typo
+fix lint
+add custom triggers
+repro
+fix typo
+fix typo
+fix typo ( )
+fix typo
+repro
+remove trailing slash ( )
+repro
+repro
+remove ipc . disconnect ( )
+fix typo
+add pluginsOnly to assertPromptModule ( )
+add setupIcon option ( )
+repro
+update dependency launch - editor - middleware to ^ 2 . 2 . 1 ( )
+add awsApiGatewayAbbreviatedArn to AWS provider ( )
+add deprecation warning
+update dependency mongodb to v3 . 0 . 4
+update dependency private to 1 . 0 . 0 ( )
+add ssl_required option ( optional )
+fix typo
+update opencollective sponsors
+repro
+update rocketchat - i18n / i18n . json ( )
+add seo - component ( )
+update escape - string - regexp to ^ 1 . 0 . 5 ( )
+update contributing / blog - and - website - contributions ( )
+fix lint
+import ReactDOM from ' react - dom ' ( )
+add spam category
+fix typo
+update deps - ok to version 1 . 2 . 4 ( )
+repro
+don ' t animate twice ( )
+repro
+add rollup - plugin - babel ( )
+update xlsx to 0 . 16 . 8 ( )
+add priority queue to heap
+fix typo
+add material - ui example ( )
+add friendly error plugin ( )
+repro
+fix typo in withTheme ( )
+add selectedEvents to selected events
+add breakpoints to pagination and scrollbar
+add required parameters to serverless . yml ( )
+fix typescript lint ( )
+Add Maintaining a Plugin ( )
+add btn - emphasis - bg - color
+repro
+add hidden categories to category list ( )
+add text - align : right
+add jsx - space - before - closing ( )
+remove deselectedForeignField
+check if a static request is a static asset
+repro
+repro
+update dependency version to 1 . 0 . 1 - beta . 3
+1 . 5 . 7 hexagonal - circumvolution
+add urlsafe_b64encode ( )
+update dependency require_optional to version 1 . 0 . 1
+update corejs to 3 ( )
+repro
+fix typo ( )
+Add export default function ( )
+update dependency @ graphql - tools / utils to v7 . 0 . 1
+add additionalProperties to alb events ( )
+fix typo
+repro
+update mongodb to version 3 . 3 . 5
+add travis . yml ( )
+fix typo ( )
+make git commit failed ( )
+fix typo
+repro
+repro
+add service . package . artifact to zip files ( )
+add preprocessing external images ( )
+Use URL . getDisplayName instead of URL . getDisplayName instead of URL . getDisplayName ( )
+parse headers as key value object
+fix clu . pm2_env . cron_restart ( )
+fix typo
+Remove old symlink at # { to }
+repro
+add gatsby - plugin - postcss ( )
+update prettier to ^ 2 . 1 . 2 ( )
+add query_casting ( )
+update hr - margin - y to 1 . 25
+fix typo ( )
+repro
+add const NODE_BEGINNING to composer editor ( )
+update dependency rollup to version 2 . 33 . 2
+repro
+add rake minify ( )
+fix typo
+fix typo
+repro
+fix typo
+update semantic - release to version 15 . 1 . 8
+update version to 1 . 2 . 8
+add collapseWhitespace to options . defaults
+update dependency @ keymetrics / pmx to latest ( )
+repro
+add shared file manager ( )
+fix typo
+repro
+add prettify - theme . pln ( )
+bump extension canary to 2 . 0 . 0 . X
+add issue comment - 428385930
+don ' t call ` $ $ listenerCount [ name ] `
+add authPlugin to Nylas API ( )
+fix lint
+update typescript - eslint - parser to version 16 . 0 . 0
+repro
+add typescript plugin ( )
+repro
+add DocsController ( )
+remove ng : eval / ng : eval - order
+add travis - ci . org / strongloop / express
+repro
+don ' t update keepAlive to true ( )
+repro
+add react - comp to blog ( )
+update prerelease - independent to version 0 . 46358b169
+remove comments from maintainers ( )
+fix typo
+fix typo
+add watch - files to mocha ( )
+remove empty state from components . coffee
+fix typo
+repro
+add gatsby - starter - wordpress ( )
+don ' t transpile js in vue files
+update authentication - tutorial . md ( )
+update muri to version 1 . 2 . 1
+repro
+add babel - loader ( )
+fix typo
+update dependency @ babel / parser to v7 . 7 . 2 ( )
+add lock - threads - https ( )
+repro
+add import / no - unresolved to eslint . json ( )
+repro
+repro
+remove ` VUni ` option ( )
+add alias to config ( )
+add test ( )
+add support for $ isDefault
+add no - important stylelint ( )
+fix typo
+add formatter to $ formatters
+rename richtext . spec . js
+fix branch - f
+add typeDefs to schema customization ( )
+Add Weingut Goeschl ( )
+update git tag version
+fix typo
+fix typo
+add ` AWS Stream ` option ( )
+add no - proxy - input - tips ( )
+fix typo
+repro
+add uneditable - input
+use JSON . stringify instead of JSON . stringify
+repro
+add docs . angularjs . org ( )
+add note info to API ( )
+fix typo
+remove script onreadystatechange
+fix typo
+allow custom renderer to call onInitialClientRender ( )
+fix typo
+add docs / guides . html ( )
+repro
+add ` transformRequest ` and ` transformResponse ` functions ( )
+fix typo
+repro
+querying ) : repro
+repro
+add trailingSlash to config . js ( )
+repro
+repro
+remove leader from array
+repro
+update version to 4 . 10 . 3
+fix typo
+update dependency mongoose - legacy - pluralize to v1 . 0 . 1
+repro
+add selenium - webdriver ( )
+update cli - ui to vue - cli - service ( )
+add account - sidebar ( )
+add meta_generator ( )
+fix typo
+import shallowEquals from ` url ` ( )
+add testElement ( )
+fix typo
+Add website redesign to showcase ( )
+fix typo
+fix lint
+add eslint - plugin - prettier ( )
+repro
+disable lock bot for now ( )
+update recompose to ^ 0 . 26 . 0 ( )
+update dependency core - js to ^ 2 . 5 . 7 ( )
+remove old snapshot zip event
+update sauce - connect to v4 . 6 . 2
+fix typo
+update dependency dependencies to version 0 . 6 . 0
+Remove pending event from draft ( )
+update dependency gatsby - plugin - compile - es6 - packages to ^ 1 . 2 . 0 ( )
+fix typo
+add @ lerna / pack - directory to package . json ( )
+update dependency dependencies to ^ 1 . 0 . 0 ( )
+fix typo
+release release
+update 1 . 8 . 0 to 1 . 8 . 0
+fix typo ( )
+update opencollective sponsors
+fix typo
+add gatsby - starter - plugin ( )
+fix typo
+update typescript - eslint to version 2 . 9 . 0 ( )
+repro
+repro
+fix typo
+repro
+repro
+add toKebabCase ( )
+remove xn - - fo - 8ja
+repro
+repro
+update file - diff - view . files - changed
+update jenkins_build . sh ( )
+fix typo
+add no - debugger to eslintrc ( )
+repro
+update subpixel - font - scaling to false ( )
+repro
+update contributing / pair - programming . md ( )
+update dependency dependency to version 1 . 2 . 2
+fix typo
+add isLeapYear ( )
+add gulp - rev - all ( )
+repro
+Publish
+add angular - 0 . 9 . 15 . min . js
+update aws - sdk to ^ 2 . 544 . 0 ( )
+update dependency hooks - fixed to v2 . 0 . 2
+repro
+fix typo
+repro
+repro
+update delay to 2500
+add sidebar . yml ( )
+repro
+Convert string to String ( )
+add custom rules to README . md ( )
+add protractor - generate ( )
+fix typo
+fix typo ( )
+switch tab ( )
+add caocaoshiji
+Publish
+ensure return value is a vanilla array
+add lib / util / xdgConfig ( )
+fix lint
+fix typo
+update tailwind - css . md ( )
+update karma - sauce - launcher to ^ 1 . 2 . 0 ( )
+Publish
+repro
+repro
+fix typo
+add subproject commit
+repro
+update dependency @ ^ 7 . 0 . 0
+add fallback icon
+Add YIQ color contrast ( )
+add ` position ` option to ` first ( ) `
+update open - sans - fontface to version 1 . 1 . 0
+fix typo ( )
+add apple - touch - icon ( )
+repro
+add interacting - with - elements to sidebar ( )
+add PRAGMA journal_mode = WAL
+add lighthouse plugin ( )
+add test for right branch ( )
+add prism - line - numbers ( )
+add favicon ( )
+fix lint
+fix typo
+add scoringMode to AuditFullResult ( )
+Change activeStyle to red ( )
+update gatsby - plugin - theme - ui to ^ 0 . 2 . 38 ( )
+fix typo ( )
+Don ' t throw an error if item is not a Category
+fix typo
+repro
+fix typo
+update dependency dev to v2 . 0 . 0
+fix typo
+update dependency fork - ts - checker - webpack - plugin to ^ 0 . 4 . 4 ( )
+repro
+fix typo
+update opencollective sponsors
+fix typo
+fix typo
+update travis . yml ( )
+add plusMessage to globalEvent
+repro
+add GATSBY_FEEDBACK_KEY_PLUGINLIB and GATSBY_FEEDBACK_KEY_STARTERLIB ( )
+add run - all - specs to gatsby ( )
+update version to version 4 . 5 . 11
+add submit - to - creator - showcase ( )
+update tailwind - css . md ( )
+add simple - auth example ( )
+use broadcastChannel instead of broadcastChannel
+repro
+add first - contentful - paint ( )
+fix lint
+update travis . yml ( )
+update dependency eslint to v7 . 14 . 0
+set timeout to 30 seconds
+update @ nuxt / ufo to ^ 0 . 1 . 0 ( )
+remove window . removeEventListener ( )
+use XMLHttpRequest instead of XMLHttpRequest
+repro
+fix typescript syntax
+add tidelift ( )
+add chocolatey ( )
+fix typo
+repro
+add suffix to package . json ( )
+fix lint
+add autoprefixer ( )
+update allowedAccounts to AWS account IDs ( )
+move ArrowDown to ArrowUp to ArrowLeft
+add open - eslintrc . label ( )
+update eslint to ^ 7 . 11 . 0 ( )
+update version to version 5 . 5 . 6
+add es - modules example ( )
+update dependency vue - meta to ^ 2 . 0 . 4 ( )
+repro
+repro
+don ' t call onFolderClick ( )
+repro

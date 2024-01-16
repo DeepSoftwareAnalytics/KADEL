@@ -1,0 +1,6 @@
+.DS_Store
+.ipynb_checkpoints
+*.log
+__pycache__
+*.subject
+sh/tensorboard
