@@ -78,11 +78,11 @@ If you use this code, please consider citing us:)
 ```bibtex
 @article{KADEL_CMG_24,
   author    = {Wei Tao and
-                  Yucheng Zhou and
-                  Yanlin Wang and
-                  Hongyu Zhang and
-                  Haofen Wang and
-                  Wenqiang Zhang},
+               Yucheng Zhou and
+               Yanlin Wang and
+               Hongyu Zhang and
+               Haofen Wang and
+               Wenqiang Zhang},
   title     = {KADEL: Knowledge-Aware Denoising Learning for Commit Message Generation},
   journal   = {{ACM} Trans. Softw. Eng. Methodol.},
   year      = {2024}
