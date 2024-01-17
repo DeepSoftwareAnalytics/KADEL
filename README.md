@@ -1,6 +1,6 @@
 # KADEL: Knowledge-Aware Denoising Learning for Commit Message Generation
 
-This is the replication package for "[KADEL: Knowledge-Aware Denoising Learning for Commit Message Generation](#)" accepted to ACM Transactions on Software Engineering and Methodology (TOSEM).
+This is the replication package for "[KADEL: Knowledge-Aware Denoising Learning for Commit Message Generation](https://arxiv.org/abs/2401.08376)" accepted to ACM Transactions on Software Engineering and Methodology (TOSEM).
 
 Citation for this work can be found [here](#Citation).
 
