@@ -85,6 +85,11 @@ If you use this code, please consider citing us:)
                Wenqiang Zhang},
   title     = {KADEL: Knowledge-Aware Denoising Learning for Commit Message Generation},
   journal   = {{ACM} Trans. Softw. Eng. Methodol.},
-  year      = {2024}
+  year      = {2024},
+  month     = {jan},
+  publisher = {Association for Computing Machinery},
+  issn      = {1049-331X},
+  url       = {https://doi.org/10.1145/3643675},
+  doi       = {10.1145/3643675}
 }
 ```
