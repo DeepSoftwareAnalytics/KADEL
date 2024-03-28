@@ -1,0 +1,2 @@
+From [README](https://github.com/salesforce/CodeT5#dependency), the version of transformer that is used in CodeT5 is **4.6.1**.
+This folder `transformers` can be get from `transformers-4.6.1\src\transformers`, and the `transformers-4.6.1` is downloaded and unzipped from [transformers-4.6.1.tar.gz](https://pypi.org/project/transformers/4.6.1/#files).
